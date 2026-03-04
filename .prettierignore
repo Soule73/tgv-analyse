@@ -1,0 +1,17 @@
+# Build outputs
+tgv-dashboard/dist
+tgv-dashboard/node_modules
+node_modules
+
+# Docker / infra
+.git
+
+# Lock files (format is opinionated, leave them as-is)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Python
+__pycache__
+*.pyc
+.venv
