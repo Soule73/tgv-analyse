@@ -15,7 +15,13 @@ module.exports = {
     { type: 'style', hidden: true },
     { type: 'revert', section: 'Reverts' },
   ],
-  // Commit URL pattern for GitHub links in the changelog
-  commitUrlFormat: '{{host}}/{{owner}}/{{repository}}/commit/{{hash}}',
-  compareUrlFormat: '{{host}}/{{owner}}/{{repository}}/compare/{{previousTag}}...{{currentTag}}',
+  // GitHub repository links in the changelog
+  host: 'https://github.com',
+  owner: 'Soule73',
+  repository: 'tgv-analyse',
+  commitUrlFormat: 'https://github.com/Soule73/tgv-analyse/commit/{{hash}}',
+  compareUrlFormat:
+    'https://github.com/Soule73/tgv-analyse/compare/{{previousTag}}...{{currentTag}}',
+  issueUrlFormat: 'https://github.com/Soule73/tgv-analyse/issues/{{id}}',
+  userUrlFormat: 'https://github.com/{{user}}',
 };
