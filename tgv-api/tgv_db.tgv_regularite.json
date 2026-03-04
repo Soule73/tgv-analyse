@@ -1,0 +1,7637 @@
+[
+  {
+    "_id": {
+      "$oid": "6934a70d2aa0269cd2d3db37"
+    },
+    "date": "2011-09",
+    "region": "Atlantique",
+    "depart": "ANGOULEME",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 358,
+    "trains_realises": 358,
+    "trains_annules": 0,
+    "retards": 23,
+    "ponctualite": 93.6,
+    "timestamp": "2025-12-06T21:58:37.371558"
+  },
+  {
+    "_id": {
+      "$oid": "6934a70f2aa0269cd2d3db38"
+    },
+    "date": "2011-09",
+    "region": "Atlantique",
+    "depart": "BREST",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 195,
+    "trains_realises": 195,
+    "trains_annules": 0,
+    "retards": 5,
+    "ponctualite": 97.4,
+    "timestamp": "2025-12-06T21:58:39.491334"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7112aa0269cd2d3db39"
+    },
+    "date": "2011-09",
+    "region": "Sud-Est",
+    "depart": "LYON PART DIEU",
+    "arrivee": "MONTPELLIER",
+    "trains_prevus": 359,
+    "trains_realises": 359,
+    "trains_annules": 0,
+    "retards": 72,
+    "ponctualite": 79.9,
+    "timestamp": "2025-12-06T21:58:41.515267"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7132aa0269cd2d3db3a"
+    },
+    "date": "2011-09",
+    "region": "Atlantique",
+    "depart": "PARIS MONTPARNASSE",
+    "arrivee": "BREST",
+    "trains_prevus": 177,
+    "trains_realises": 177,
+    "trains_annules": 0,
+    "retards": 11,
+    "ponctualite": 93.8,
+    "timestamp": "2025-12-06T21:58:43.559374"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7152aa0269cd2d3db3b"
+    },
+    "date": "2011-09",
+    "region": "Atlantique",
+    "depart": "PARIS MONTPARNASSE",
+    "arrivee": "LAVAL",
+    "trains_prevus": 242,
+    "trains_realises": 242,
+    "trains_annules": 0,
+    "retards": 24,
+    "ponctualite": 90.1,
+    "timestamp": "2025-12-06T21:58:45.602245"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7172aa0269cd2d3db3c"
+    },
+    "date": "2011-09",
+    "region": "Atlantique",
+    "depart": "RENNES",
+    "arrivee": "LYON PART DIEU",
+    "trains_prevus": 84,
+    "trains_realises": 84,
+    "trains_annules": 0,
+    "retards": 10,
+    "ponctualite": 88.1,
+    "timestamp": "2025-12-06T21:58:47.635338"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7192aa0269cd2d3db3d"
+    },
+    "date": "2011-09",
+    "region": "Nord",
+    "depart": "LILLE",
+    "arrivee": "LYON PART DIEU",
+    "trains_prevus": 339,
+    "trains_realises": 339,
+    "trains_annules": 0,
+    "retards": 29,
+    "ponctualite": 91.4,
+    "timestamp": "2025-12-06T21:58:49.682228"
+  },
+  {
+    "_id": {
+      "$oid": "6934a71b2aa0269cd2d3db3e"
+    },
+    "date": "2012-01",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "LE CREUSOT MONTCEAU MONTCHANIN",
+    "trains_prevus": 208,
+    "trains_realises": 208,
+    "trains_annules": 0,
+    "retards": 39,
+    "ponctualite": 81.3,
+    "timestamp": "2025-12-06T21:58:51.739341"
+  },
+  {
+    "_id": {
+      "$oid": "6934a71d2aa0269cd2d3db3f"
+    },
+    "date": "2012-01",
+    "region": "Atlantique",
+    "depart": "ANGERS SAINT LAUD",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 492,
+    "trains_realises": 489,
+    "trains_annules": 3,
+    "retards": 33,
+    "ponctualite": 93.3,
+    "timestamp": "2025-12-06T21:58:53.783346"
+  },
+  {
+    "_id": {
+      "$oid": "6934a71f2aa0269cd2d3db40"
+    },
+    "date": "2012-01",
+    "region": "Sud-Est",
+    "depart": "CHAMBERY CHALLES LES EAUX",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 266,
+    "trains_realises": 264,
+    "trains_annules": 2,
+    "retards": 33,
+    "ponctualite": 87.5,
+    "timestamp": "2025-12-06T21:58:55.894957"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7212aa0269cd2d3db41"
+    },
+    "date": "2012-01",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "AIX EN PROVENCE TGV",
+    "trains_prevus": 406,
+    "trains_realises": 406,
+    "trains_annules": 0,
+    "retards": 40,
+    "ponctualite": 90.1,
+    "timestamp": "2025-12-06T21:58:57.936263"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7232aa0269cd2d3db42"
+    },
+    "date": "2011-12",
+    "region": "Atlantique",
+    "depart": "PARIS MONTPARNASSE",
+    "arrivee": "VANNES",
+    "trains_prevus": 191,
+    "trains_realises": 191,
+    "trains_annules": 0,
+    "retards": 13,
+    "ponctualite": 93.2,
+    "timestamp": "2025-12-06T21:58:59.954672"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7262aa0269cd2d3db43"
+    },
+    "date": "2012-01",
+    "region": "Atlantique",
+    "depart": "BREST",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 180,
+    "trains_realises": 180,
+    "trains_annules": 0,
+    "retards": 10,
+    "ponctualite": 94.4,
+    "timestamp": "2025-12-06T21:59:01.997836"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7282aa0269cd2d3db44"
+    },
+    "date": "2012-01",
+    "region": "Atlantique",
+    "depart": "LAVAL",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 244,
+    "trains_realises": 244,
+    "trains_annules": 0,
+    "retards": 23,
+    "ponctualite": 90.6,
+    "timestamp": "2025-12-06T21:59:04.040208"
+  },
+  {
+    "_id": {
+      "$oid": "6934a72a2aa0269cd2d3db45"
+    },
+    "date": "2012-01",
+    "region": "Nord",
+    "depart": "LILLE",
+    "arrivee": "MARSEILLE ST CHARLES",
+    "trains_prevus": 157,
+    "trains_realises": 157,
+    "trains_annules": 0,
+    "retards": 22,
+    "ponctualite": 86,
+    "timestamp": "2025-12-06T21:59:06.058693"
+  },
+  {
+    "_id": {
+      "$oid": "6934a72c2aa0269cd2d3db46"
+    },
+    "date": "2012-01",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "DIJON VILLE",
+    "trains_prevus": 471,
+    "trains_realises": 471,
+    "trains_annules": 0,
+    "retards": 18,
+    "ponctualite": 96.2,
+    "timestamp": "2025-12-06T21:59:08.086643"
+  },
+  {
+    "_id": {
+      "$oid": "6934a72e2aa0269cd2d3db47"
+    },
+    "date": "2012-01",
+    "region": "Sud-Est",
+    "depart": "GRENOBLE",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 248,
+    "trains_realises": 247,
+    "trains_annules": 1,
+    "retards": 18,
+    "ponctualite": 92.7,
+    "timestamp": "2025-12-06T21:59:10.123271"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7302aa0269cd2d3db48"
+    },
+    "date": "2011-10",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "LE CREUSOT MONTCEAU MONTCHANIN",
+    "trains_prevus": 207,
+    "trains_realises": 207,
+    "trains_annules": 0,
+    "retards": 28,
+    "ponctualite": 86.5,
+    "timestamp": "2025-12-06T21:59:12.292340"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7322aa0269cd2d3db49"
+    },
+    "date": "2011-10",
+    "region": "Atlantique",
+    "depart": "PARIS MONTPARNASSE",
+    "arrivee": "LA ROCHELLE VILLE",
+    "trains_prevus": 167,
+    "trains_realises": 167,
+    "trains_annules": 0,
+    "retards": 27,
+    "ponctualite": 83.8,
+    "timestamp": "2025-12-06T21:59:14.310529"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7342aa0269cd2d3db4a"
+    },
+    "date": "2011-10",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "CHAMBERY CHALLES LES EAUX",
+    "trains_prevus": 203,
+    "trains_realises": 202,
+    "trains_annules": 1,
+    "retards": 30,
+    "ponctualite": 85.1,
+    "timestamp": "2025-12-06T21:59:16.328957"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7362aa0269cd2d3db4b"
+    },
+    "date": "2011-10",
+    "region": "Sud-Est",
+    "depart": "CHAMBERY CHALLES LES EAUX",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 173,
+    "trains_realises": 173,
+    "trains_annules": 0,
+    "retards": 18,
+    "ponctualite": 89.6,
+    "timestamp": "2025-12-06T21:59:18.378547"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7382aa0269cd2d3db4c"
+    },
+    "date": "2011-09",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "VALENCE ALIXAN TGV",
+    "trains_prevus": 256,
+    "trains_realises": 256,
+    "trains_annules": 0,
+    "retards": 37,
+    "ponctualite": 85.5,
+    "timestamp": "2025-12-06T21:59:20.398054"
+  },
+  {
+    "_id": {
+      "$oid": "6934a73a2aa0269cd2d3db4d"
+    },
+    "date": "2011-10",
+    "region": "Atlantique",
+    "depart": "PARIS MONTPARNASSE",
+    "arrivee": "LAVAL",
+    "trains_prevus": 245,
+    "trains_realises": 245,
+    "trains_annules": 0,
+    "retards": 34,
+    "ponctualite": 86.1,
+    "timestamp": "2025-12-06T21:59:22.415403"
+  },
+  {
+    "_id": {
+      "$oid": "6934a73c2aa0269cd2d3db4e"
+    },
+    "date": "2011-09",
+    "region": "Sud-Est",
+    "depart": "AVIGNON TGV",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 381,
+    "trains_realises": 380,
+    "trains_annules": 1,
+    "retards": 36,
+    "ponctualite": 90.5,
+    "timestamp": "2025-12-06T21:59:24.453050"
+  },
+  {
+    "_id": {
+      "$oid": "6934a73e2aa0269cd2d3db4f"
+    },
+    "date": "2011-10",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "GRENOBLE",
+    "trains_prevus": 135,
+    "trains_realises": 135,
+    "trains_annules": 0,
+    "retards": 10,
+    "ponctualite": 92.6,
+    "timestamp": "2025-12-06T21:59:26.593425"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7402aa0269cd2d3db50"
+    },
+    "date": "2011-10",
+    "region": "Nord",
+    "depart": "DUNKERQUE",
+    "arrivee": "PARIS NORD",
+    "trains_prevus": 205,
+    "trains_realises": 205,
+    "trains_annules": 0,
+    "retards": 18,
+    "ponctualite": 91.2,
+    "timestamp": "2025-12-06T21:59:28.633009"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7422aa0269cd2d3db51"
+    },
+    "date": "2011-09",
+    "region": "Nord",
+    "depart": "ARRAS",
+    "arrivee": "PARIS NORD",
+    "trains_prevus": 327,
+    "trains_realises": 327,
+    "trains_annules": 0,
+    "retards": 42,
+    "ponctualite": 87.2,
+    "timestamp": "2025-12-06T21:59:30.738772"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7442aa0269cd2d3db52"
+    },
+    "date": "2011-11",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "LE CREUSOT MONTCEAU MONTCHANIN",
+    "trains_prevus": 199,
+    "trains_realises": 199,
+    "trains_annules": 0,
+    "retards": 20,
+    "ponctualite": 89.9,
+    "timestamp": "2025-12-06T21:59:32.778347"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7462aa0269cd2d3db53"
+    },
+    "date": "2011-11",
+    "region": "Atlantique",
+    "depart": "PARIS MONTPARNASSE",
+    "arrivee": "LA ROCHELLE VILLE",
+    "trains_prevus": 174,
+    "trains_realises": 173,
+    "trains_annules": 1,
+    "retards": 19,
+    "ponctualite": 89,
+    "timestamp": "2025-12-06T21:59:34.815109"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7482aa0269cd2d3db54"
+    },
+    "date": "2011-10",
+    "region": "Atlantique",
+    "depart": "PARIS MONTPARNASSE",
+    "arrivee": "TOULOUSE MATABIAU",
+    "trains_prevus": 118,
+    "trains_realises": 118,
+    "trains_annules": 0,
+    "retards": 45,
+    "ponctualite": 61.9,
+    "timestamp": "2025-12-06T21:59:36.854020"
+  },
+  {
+    "_id": {
+      "$oid": "6934a74a2aa0269cd2d3db55"
+    },
+    "date": "2011-11",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "AIX EN PROVENCE TGV",
+    "trains_prevus": 421,
+    "trains_realises": 421,
+    "trains_annules": 0,
+    "retards": 33,
+    "ponctualite": 92.2,
+    "timestamp": "2025-12-06T21:59:38.892146"
+  },
+  {
+    "_id": {
+      "$oid": "6934a74c2aa0269cd2d3db56"
+    },
+    "date": "2011-10",
+    "region": "Atlantique",
+    "depart": "VANNES",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 173,
+    "trains_realises": 173,
+    "trains_annules": 0,
+    "retards": 17,
+    "ponctualite": 90.2,
+    "timestamp": "2025-12-06T21:59:40.916401"
+  },
+  {
+    "_id": {
+      "$oid": "6934a74e2aa0269cd2d3db57"
+    },
+    "date": "2011-11",
+    "region": "Atlantique",
+    "depart": "PARIS MONTPARNASSE",
+    "arrivee": "LAVAL",
+    "trains_prevus": 242,
+    "trains_realises": 236,
+    "trains_annules": 6,
+    "retards": 33,
+    "ponctualite": 86,
+    "timestamp": "2025-12-06T21:59:42.954310"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7512aa0269cd2d3db58"
+    },
+    "date": "2011-10",
+    "region": "Atlantique",
+    "depart": "TOURS",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 162,
+    "trains_realises": 162,
+    "trains_annules": 0,
+    "retards": 22,
+    "ponctualite": 86.4,
+    "timestamp": "2025-12-06T21:59:44.995590"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7532aa0269cd2d3db59"
+    },
+    "date": "2011-10",
+    "region": "Est",
+    "depart": "STRASBOURG",
+    "arrivee": "PARIS EST",
+    "trains_prevus": 518,
+    "trains_realises": 517,
+    "trains_annules": 1,
+    "retards": 37,
+    "ponctualite": 92.8,
+    "timestamp": "2025-12-06T21:59:47.033888"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7552aa0269cd2d3db5a"
+    },
+    "date": "2011-11",
+    "region": "Nord",
+    "depart": "DUNKERQUE",
+    "arrivee": "PARIS NORD",
+    "trains_prevus": 199,
+    "trains_realises": 199,
+    "trains_annules": 0,
+    "retards": 7,
+    "ponctualite": 96.5,
+    "timestamp": "2025-12-06T21:59:49.080794"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7572aa0269cd2d3db5b"
+    },
+    "date": "2011-10",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "ARRAS",
+    "trains_prevus": 365,
+    "trains_realises": 365,
+    "trains_annules": 0,
+    "retards": 31,
+    "ponctualite": 91.5,
+    "timestamp": "2025-12-06T21:59:51.123145"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7592aa0269cd2d3db5c"
+    },
+    "date": "2012-01",
+    "region": "Atlantique",
+    "depart": "PARIS MONTPARNASSE",
+    "arrivee": "BORDEAUX ST JEAN",
+    "trains_prevus": 630,
+    "trains_realises": 630,
+    "trains_annules": 0,
+    "retards": 43,
+    "ponctualite": 93.2,
+    "timestamp": "2025-12-06T21:59:53.161333"
+  },
+  {
+    "_id": {
+      "$oid": "6934a75b2aa0269cd2d3db5d"
+    },
+    "date": "2012-02",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "AIX EN PROVENCE TGV",
+    "trains_prevus": 381,
+    "trains_realises": 381,
+    "trains_annules": 0,
+    "retards": 60,
+    "ponctualite": 84.3,
+    "timestamp": "2025-12-06T21:59:55.284157"
+  },
+  {
+    "_id": {
+      "$oid": "6934a75d2aa0269cd2d3db5e"
+    },
+    "date": "2012-02",
+    "region": "Atlantique",
+    "depart": "ANGOULEME",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 335,
+    "trains_realises": 335,
+    "trains_annules": 0,
+    "retards": 102,
+    "ponctualite": 69.6,
+    "timestamp": "2025-12-06T21:59:57.323440"
+  },
+  {
+    "_id": {
+      "$oid": "6934a75f2aa0269cd2d3db5f"
+    },
+    "date": "2012-02",
+    "region": "Atlantique",
+    "depart": "PARIS MONTPARNASSE",
+    "arrivee": "LAVAL",
+    "trains_prevus": 245,
+    "trains_realises": 244,
+    "trains_annules": 1,
+    "retards": 35,
+    "ponctualite": 85.7,
+    "timestamp": "2025-12-06T21:59:59.360762"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7612aa0269cd2d3db60"
+    },
+    "date": "2012-02",
+    "region": "Sud-Est",
+    "depart": "MONTPELLIER",
+    "arrivee": "LYON PART DIEU",
+    "trains_prevus": 343,
+    "trains_realises": 342,
+    "trains_annules": 1,
+    "retards": 84,
+    "ponctualite": 75.4,
+    "timestamp": "2025-12-06T22:00:01.398289"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7632aa0269cd2d3db61"
+    },
+    "date": "2012-02",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "MULHOUSE VILLE",
+    "trains_prevus": 294,
+    "trains_realises": 294,
+    "trains_annules": 0,
+    "retards": 45,
+    "ponctualite": 84.7,
+    "timestamp": "2025-12-06T22:00:03.436402"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7652aa0269cd2d3db62"
+    },
+    "date": "2012-02",
+    "region": "Sud-Est",
+    "depart": "MONTPELLIER",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 348,
+    "trains_realises": 348,
+    "trains_annules": 0,
+    "retards": 46,
+    "ponctualite": 86.8,
+    "timestamp": "2025-12-06T22:00:05.456483"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7672aa0269cd2d3db63"
+    },
+    "date": "2012-02",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "GRENOBLE",
+    "trains_prevus": 255,
+    "trains_realises": 255,
+    "trains_annules": 0,
+    "retards": 32,
+    "ponctualite": 87.5,
+    "timestamp": "2025-12-06T22:00:07.472533"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7692aa0269cd2d3db64"
+    },
+    "date": "2012-02",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "DUNKERQUE",
+    "trains_prevus": 151,
+    "trains_realises": 150,
+    "trains_annules": 1,
+    "retards": 14,
+    "ponctualite": 90.7,
+    "timestamp": "2025-12-06T22:00:09.504606"
+  },
+  {
+    "_id": {
+      "$oid": "6934a76b2aa0269cd2d3db65"
+    },
+    "date": "2012-02",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "DOUAI",
+    "trains_prevus": 199,
+    "trains_realises": 199,
+    "trains_annules": 0,
+    "retards": 30,
+    "ponctualite": 84.9,
+    "timestamp": "2025-12-06T22:00:11.543030"
+  },
+  {
+    "_id": {
+      "$oid": "6934a76d2aa0269cd2d3db66"
+    },
+    "date": "2012-03",
+    "region": "Sud-Est",
+    "depart": "AIX EN PROVENCE TGV",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 418,
+    "trains_realises": 418,
+    "trains_annules": 0,
+    "retards": 53,
+    "ponctualite": 87.3,
+    "timestamp": "2025-12-06T22:00:13.579204"
+  },
+  {
+    "_id": {
+      "$oid": "6934a76f2aa0269cd2d3db67"
+    },
+    "date": "2012-02",
+    "region": "Atlantique",
+    "depart": "PARIS MONTPARNASSE",
+    "arrivee": "POITIERS",
+    "trains_prevus": 422,
+    "trains_realises": 422,
+    "trains_annules": 0,
+    "retards": 79,
+    "ponctualite": 81.3,
+    "timestamp": "2025-12-06T22:00:15.613467"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7712aa0269cd2d3db68"
+    },
+    "date": "2012-02",
+    "region": "Atlantique",
+    "depart": "NANTES",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 560,
+    "trains_realises": 559,
+    "trains_annules": 1,
+    "retards": 67,
+    "ponctualite": 88,
+    "timestamp": "2025-12-06T22:00:17.632735"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7732aa0269cd2d3db69"
+    },
+    "date": "2012-02",
+    "region": "Atlantique",
+    "depart": "PARIS MONTPARNASSE",
+    "arrivee": "ST MALO",
+    "trains_prevus": 53,
+    "trains_realises": 53,
+    "trains_annules": 0,
+    "retards": 2,
+    "ponctualite": 96.2,
+    "timestamp": "2025-12-06T22:00:19.651294"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7752aa0269cd2d3db6a"
+    },
+    "date": "2012-02",
+    "region": "Atlantique",
+    "depart": "PARIS MONTPARNASSE",
+    "arrivee": "VANNES",
+    "trains_prevus": 170,
+    "trains_realises": 170,
+    "trains_annules": 0,
+    "retards": 24,
+    "ponctualite": 85.9,
+    "timestamp": "2025-12-06T22:00:21.688697"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7772aa0269cd2d3db6b"
+    },
+    "date": "2012-02",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "BELLEGARDE (AIN)",
+    "trains_prevus": 271,
+    "trains_realises": 271,
+    "trains_annules": 0,
+    "retards": 64,
+    "ponctualite": 76.4,
+    "timestamp": "2025-12-06T22:00:23.727029"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7792aa0269cd2d3db6c"
+    },
+    "date": "2012-02",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "NICE VILLE",
+    "trains_prevus": 152,
+    "trains_realises": 151,
+    "trains_annules": 1,
+    "retards": 37,
+    "ponctualite": 75.5,
+    "timestamp": "2025-12-06T22:00:25.850066"
+  },
+  {
+    "_id": {
+      "$oid": "6934a77b2aa0269cd2d3db6d"
+    },
+    "date": "2012-03",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "DIJON VILLE",
+    "trains_prevus": 465,
+    "trains_realises": 465,
+    "trains_annules": 0,
+    "retards": 23,
+    "ponctualite": 95.1,
+    "timestamp": "2025-12-06T22:00:27.888649"
+  },
+  {
+    "_id": {
+      "$oid": "6934a77d2aa0269cd2d3db6e"
+    },
+    "date": "2012-02",
+    "region": "Sud-Est",
+    "depart": "NIMES",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 347,
+    "trains_realises": 347,
+    "trains_annules": 0,
+    "retards": 58,
+    "ponctualite": 83.3,
+    "timestamp": "2025-12-06T22:00:29.924608"
+  },
+  {
+    "_id": {
+      "$oid": "6934a77f2aa0269cd2d3db6f"
+    },
+    "date": "2012-02",
+    "region": "Est",
+    "depart": "PARIS EST",
+    "arrivee": "REIMS",
+    "trains_prevus": 236,
+    "trains_realises": 236,
+    "trains_annules": 0,
+    "retards": 19,
+    "ponctualite": 91.9,
+    "timestamp": "2025-12-06T22:00:31.958707"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7822aa0269cd2d3db70"
+    },
+    "date": "2012-01",
+    "region": "Sud-Est",
+    "depart": "LYON PART DIEU",
+    "arrivee": "MARSEILLE ST CHARLES",
+    "trains_prevus": 612,
+    "trains_realises": 612,
+    "trains_annules": 0,
+    "retards": 114,
+    "ponctualite": 81.4,
+    "timestamp": "2025-12-06T22:00:33.997086"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7842aa0269cd2d3db71"
+    },
+    "date": "2012-01",
+    "region": "Sud-Est",
+    "depart": "SAINT ETIENNE CHATEAUCREUX",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 118,
+    "trains_realises": 118,
+    "trains_annules": 0,
+    "retards": 11,
+    "ponctualite": 90.7,
+    "timestamp": "2025-12-06T22:00:36.019899"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7862aa0269cd2d3db72"
+    },
+    "date": "2012-01",
+    "region": "Atlantique",
+    "depart": "POITIERS",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 507,
+    "trains_realises": 507,
+    "trains_annules": 0,
+    "retards": 55,
+    "ponctualite": 89.2,
+    "timestamp": "2025-12-06T22:00:38.039590"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7882aa0269cd2d3db73"
+    },
+    "date": "2012-01",
+    "region": "Atlantique",
+    "depart": "NANTES",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 598,
+    "trains_realises": 595,
+    "trains_annules": 3,
+    "retards": 31,
+    "ponctualite": 94.8,
+    "timestamp": "2025-12-06T22:00:40.076966"
+  },
+  {
+    "_id": {
+      "$oid": "6934a78a2aa0269cd2d3db74"
+    },
+    "date": "2012-01",
+    "region": "Atlantique",
+    "depart": "TOURS",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 212,
+    "trains_realises": 212,
+    "trains_annules": 0,
+    "retards": 28,
+    "ponctualite": 86.8,
+    "timestamp": "2025-12-06T22:00:42.115489"
+  },
+  {
+    "_id": {
+      "$oid": "6934a78c2aa0269cd2d3db75"
+    },
+    "date": "2012-01",
+    "region": "Sud-Est",
+    "depart": "PERPIGNAN",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 152,
+    "trains_realises": 152,
+    "trains_annules": 0,
+    "retards": 13,
+    "ponctualite": 91.4,
+    "timestamp": "2025-12-06T22:00:44.157006"
+  },
+  {
+    "_id": {
+      "$oid": "6934a78e2aa0269cd2d3db76"
+    },
+    "date": "2012-01",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "NIMES",
+    "trains_prevus": 357,
+    "trains_realises": 357,
+    "trains_annules": 0,
+    "retards": 39,
+    "ponctualite": 89.1,
+    "timestamp": "2025-12-06T22:00:46.176972"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7902aa0269cd2d3db77"
+    },
+    "date": "2012-01",
+    "region": "Est",
+    "depart": "STRASBOURG",
+    "arrivee": "NANTES",
+    "trains_prevus": 55,
+    "trains_realises": 55,
+    "trains_annules": 0,
+    "retards": 9,
+    "ponctualite": 83.6,
+    "timestamp": "2025-12-06T22:00:48.214982"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7922aa0269cd2d3db78"
+    },
+    "date": "2012-01",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "ARRAS",
+    "trains_prevus": 377,
+    "trains_realises": 377,
+    "trains_annules": 0,
+    "retards": 26,
+    "ponctualite": 93.1,
+    "timestamp": "2025-12-06T22:00:50.251878"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7942aa0269cd2d3db79"
+    },
+    "date": "2012-01",
+    "region": "Est",
+    "depart": "PARIS EST",
+    "arrivee": "REIMS",
+    "trains_prevus": 253,
+    "trains_realises": 253,
+    "trains_annules": 0,
+    "retards": 18,
+    "ponctualite": 92.9,
+    "timestamp": "2025-12-06T22:00:52.287035"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7962aa0269cd2d3db7a"
+    },
+    "date": "2011-12",
+    "region": "Atlantique",
+    "depart": "ST PIERRE DES CORPS",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 460,
+    "trains_realises": 460,
+    "trains_annules": 0,
+    "retards": 78,
+    "ponctualite": 83,
+    "timestamp": "2025-12-06T22:00:54.307129"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7982aa0269cd2d3db7b"
+    },
+    "date": "2011-12",
+    "region": "Atlantique",
+    "depart": "QUIMPER",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 148,
+    "trains_realises": 147,
+    "trains_annules": 1,
+    "retards": 13,
+    "ponctualite": 91.2,
+    "timestamp": "2025-12-06T22:00:56.436695"
+  },
+  {
+    "_id": {
+      "$oid": "6934a79a2aa0269cd2d3db7c"
+    },
+    "date": "2011-12",
+    "region": "Atlantique",
+    "depart": "PARIS MONTPARNASSE",
+    "arrivee": "NANTES",
+    "trains_prevus": 606,
+    "trains_realises": 604,
+    "trains_annules": 2,
+    "retards": 47,
+    "ponctualite": 92.2,
+    "timestamp": "2025-12-06T22:00:58.477505"
+  },
+  {
+    "_id": {
+      "$oid": "6934a79c2aa0269cd2d3db7d"
+    },
+    "date": "2011-12",
+    "region": "Atlantique",
+    "depart": "VANNES",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 176,
+    "trains_realises": 175,
+    "trains_annules": 1,
+    "retards": 20,
+    "ponctualite": 88.6,
+    "timestamp": "2025-12-06T22:01:00.518343"
+  },
+  {
+    "_id": {
+      "$oid": "6934a79e2aa0269cd2d3db7e"
+    },
+    "date": "2011-12",
+    "region": "Atlantique",
+    "depart": "PARIS MONTPARNASSE",
+    "arrivee": "RENNES",
+    "trains_prevus": 569,
+    "trains_realises": 569,
+    "trains_annules": 0,
+    "retards": 46,
+    "ponctualite": 91.9,
+    "timestamp": "2025-12-06T22:01:02.563924"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7a02aa0269cd2d3db7f"
+    },
+    "date": "2011-12",
+    "region": "Sud-Est",
+    "depart": "MONTPELLIER",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 336,
+    "trains_realises": 336,
+    "trains_annules": 0,
+    "retards": 30,
+    "ponctualite": 91.1,
+    "timestamp": "2025-12-06T22:01:04.602887"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7a22aa0269cd2d3db80"
+    },
+    "date": "2011-12",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "MONTPELLIER",
+    "trains_prevus": 323,
+    "trains_realises": 323,
+    "trains_annules": 0,
+    "retards": 24,
+    "ponctualite": 92.6,
+    "timestamp": "2025-12-06T22:01:06.639285"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7a42aa0269cd2d3db81"
+    },
+    "date": "2011-12",
+    "region": "Est",
+    "depart": "PARIS EST",
+    "arrivee": "STRASBOURG",
+    "trains_prevus": 485,
+    "trains_realises": 485,
+    "trains_annules": 0,
+    "retards": 56,
+    "ponctualite": 88.5,
+    "timestamp": "2025-12-06T22:01:08.675464"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7a62aa0269cd2d3db82"
+    },
+    "date": "2011-12",
+    "region": "Est",
+    "depart": "STRASBOURG",
+    "arrivee": "NANTES",
+    "trains_prevus": 38,
+    "trains_realises": 38,
+    "trains_annules": 0,
+    "retards": 6,
+    "ponctualite": 84.2,
+    "timestamp": "2025-12-06T22:01:10.691668"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7a82aa0269cd2d3db83"
+    },
+    "date": "2011-12",
+    "region": "Est",
+    "depart": "PARIS EST",
+    "arrivee": "REIMS",
+    "trains_prevus": 252,
+    "trains_realises": 252,
+    "trains_annules": 0,
+    "retards": 8,
+    "ponctualite": 96.8,
+    "timestamp": "2025-12-06T22:01:12.724713"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7aa2aa0269cd2d3db84"
+    },
+    "date": "2012-03",
+    "region": "Est",
+    "depart": "STRASBOURG",
+    "arrivee": "NANTES",
+    "trains_prevus": 61,
+    "trains_realises": 61,
+    "trains_annules": 0,
+    "retards": 7,
+    "ponctualite": 88.5,
+    "timestamp": "2025-12-06T22:01:14.761341"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7ac2aa0269cd2d3db85"
+    },
+    "date": "2012-03",
+    "region": "Est",
+    "depart": "NANCY",
+    "arrivee": "PARIS EST",
+    "trains_prevus": 298,
+    "trains_realises": 297,
+    "trains_annules": 1,
+    "retards": 13,
+    "ponctualite": 95.6,
+    "timestamp": "2025-12-06T22:01:16.779724"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7ae2aa0269cd2d3db86"
+    },
+    "date": "2011-11",
+    "region": "Atlantique",
+    "depart": "PARIS MONTPARNASSE",
+    "arrivee": "BORDEAUX ST JEAN",
+    "trains_prevus": 663,
+    "trains_realises": 658,
+    "trains_annules": 5,
+    "retards": 37,
+    "ponctualite": 94.4,
+    "timestamp": "2025-12-06T22:01:18.819415"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7b02aa0269cd2d3db87"
+    },
+    "date": "2011-11",
+    "region": "Sud-Est",
+    "depart": "SAINT ETIENNE CHATEAUCREUX",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 112,
+    "trains_realises": 112,
+    "trains_annules": 0,
+    "retards": 17,
+    "ponctualite": 84.8,
+    "timestamp": "2025-12-06T22:01:20.859979"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7b22aa0269cd2d3db88"
+    },
+    "date": "2011-11",
+    "region": "Atlantique",
+    "depart": "LE MANS",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 454,
+    "trains_realises": 448,
+    "trains_annules": 6,
+    "retards": 105,
+    "ponctualite": 76.6,
+    "timestamp": "2025-12-06T22:01:22.883421"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7b42aa0269cd2d3db89"
+    },
+    "date": "2011-11",
+    "region": "Atlantique",
+    "depart": "PARIS MONTPARNASSE",
+    "arrivee": "VANNES",
+    "trains_prevus": 190,
+    "trains_realises": 186,
+    "trains_annules": 4,
+    "retards": 16,
+    "ponctualite": 91.4,
+    "timestamp": "2025-12-06T22:01:24.920930"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7b72aa0269cd2d3db8a"
+    },
+    "date": "2011-11",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "LYON PART DIEU",
+    "trains_prevus": 627,
+    "trains_realises": 627,
+    "trains_annules": 0,
+    "retards": 40,
+    "ponctualite": 93.6,
+    "timestamp": "2025-12-06T22:01:27.051748"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7b92aa0269cd2d3db8b"
+    },
+    "date": "2011-11",
+    "region": "Sud-Est",
+    "depart": "MACON LOCHE",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 179,
+    "trains_realises": 178,
+    "trains_annules": 1,
+    "retards": 4,
+    "ponctualite": 97.8,
+    "timestamp": "2025-12-06T22:01:29.070956"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7bb2aa0269cd2d3db8c"
+    },
+    "date": "2011-11",
+    "region": "Est",
+    "depart": "PARIS LYON",
+    "arrivee": "MULHOUSE VILLE",
+    "trains_prevus": 216,
+    "trains_realises": 216,
+    "trains_annules": 0,
+    "retards": 25,
+    "ponctualite": 88.4,
+    "timestamp": "2025-12-06T22:01:31.087855"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7bd2aa0269cd2d3db8d"
+    },
+    "date": "2011-11",
+    "region": "Sud-Est",
+    "depart": "TOULON",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 254,
+    "trains_realises": 252,
+    "trains_annules": 2,
+    "retards": 27,
+    "ponctualite": 89.3,
+    "timestamp": "2025-12-06T22:01:33.133637"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7bf2aa0269cd2d3db8e"
+    },
+    "date": "2011-11",
+    "region": "Est",
+    "depart": "REIMS",
+    "arrivee": "PARIS EST",
+    "trains_prevus": 228,
+    "trains_realises": 228,
+    "trains_annules": 0,
+    "retards": 35,
+    "ponctualite": 84.6,
+    "timestamp": "2025-12-06T22:01:35.173298"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7c12aa0269cd2d3db8f"
+    },
+    "date": "2011-11",
+    "region": "Est",
+    "depart": "PARIS EST",
+    "arrivee": "NANCY",
+    "trains_prevus": 284,
+    "trains_realises": 284,
+    "trains_annules": 0,
+    "retards": 8,
+    "ponctualite": 97.2,
+    "timestamp": "2025-12-06T22:01:37.212633"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7c32aa0269cd2d3db90"
+    },
+    "date": "2011-10",
+    "region": "Sud-Est",
+    "depart": "LYON PART DIEU",
+    "arrivee": "MARSEILLE ST CHARLES",
+    "trains_prevus": 547,
+    "trains_realises": 543,
+    "trains_annules": 4,
+    "retards": 137,
+    "ponctualite": 74.8,
+    "timestamp": "2025-12-06T22:01:39.253004"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7c52aa0269cd2d3db91"
+    },
+    "date": "2011-10",
+    "region": "Atlantique",
+    "depart": "PARIS MONTPARNASSE",
+    "arrivee": "ANGOULEME",
+    "trains_prevus": 323,
+    "trains_realises": 323,
+    "trains_annules": 0,
+    "retards": 43,
+    "ponctualite": 86.7,
+    "timestamp": "2025-12-06T22:01:41.275204"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7c72aa0269cd2d3db92"
+    },
+    "date": "2011-10",
+    "region": "Sud-Est",
+    "depart": "LYON PART DIEU",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 626,
+    "trains_realises": 625,
+    "trains_annules": 1,
+    "retards": 37,
+    "ponctualite": 94.1,
+    "timestamp": "2025-12-06T22:01:43.301680"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7c92aa0269cd2d3db93"
+    },
+    "date": "2011-10",
+    "region": "Atlantique",
+    "depart": "RENNES",
+    "arrivee": "LYON PART DIEU",
+    "trains_prevus": 85,
+    "trains_realises": 85,
+    "trains_annules": 0,
+    "retards": 11,
+    "ponctualite": 87.1,
+    "timestamp": "2025-12-06T22:01:45.339312"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7cb2aa0269cd2d3db94"
+    },
+    "date": "2011-10",
+    "region": "Sud-Est",
+    "depart": "MONTPELLIER",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 394,
+    "trains_realises": 393,
+    "trains_annules": 1,
+    "retards": 44,
+    "ponctualite": 88.8,
+    "timestamp": "2025-12-06T22:01:47.374968"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7cd2aa0269cd2d3db95"
+    },
+    "date": "2011-10",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "MONTPELLIER",
+    "trains_prevus": 380,
+    "trains_realises": 378,
+    "trains_annules": 2,
+    "retards": 36,
+    "ponctualite": 90.5,
+    "timestamp": "2025-12-06T22:01:49.393617"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7cf2aa0269cd2d3db96"
+    },
+    "date": "2011-10",
+    "region": "Nord",
+    "depart": "LILLE",
+    "arrivee": "MARSEILLE ST CHARLES",
+    "trains_prevus": 166,
+    "trains_realises": 165,
+    "trains_annules": 1,
+    "retards": 42,
+    "ponctualite": 74.5,
+    "timestamp": "2025-12-06T22:01:51.426844"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7d12aa0269cd2d3db97"
+    },
+    "date": "2011-10",
+    "region": "Nord",
+    "depart": "MARSEILLE ST CHARLES",
+    "arrivee": "LILLE",
+    "trains_prevus": 200,
+    "trains_realises": 200,
+    "trains_annules": 0,
+    "retards": 59,
+    "ponctualite": 70.5,
+    "timestamp": "2025-12-06T22:01:53.454843"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7d32aa0269cd2d3db98"
+    },
+    "date": "2011-10",
+    "region": "Est",
+    "depart": "NANTES",
+    "arrivee": "STRASBOURG",
+    "trains_prevus": 48,
+    "trains_realises": 45,
+    "trains_annules": 3,
+    "retards": 9,
+    "ponctualite": 80,
+    "timestamp": "2025-12-06T22:01:55.590181"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7d52aa0269cd2d3db99"
+    },
+    "date": "2011-10",
+    "region": "Est",
+    "depart": "REIMS",
+    "arrivee": "PARIS EST",
+    "trains_prevus": 234,
+    "trains_realises": 233,
+    "trains_annules": 1,
+    "retards": 22,
+    "ponctualite": 90.6,
+    "timestamp": "2025-12-06T22:01:57.607030"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7d72aa0269cd2d3db9a"
+    },
+    "date": "2011-12",
+    "region": "Atlantique",
+    "depart": "LA ROCHELLE VILLE",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 204,
+    "trains_realises": 204,
+    "trains_annules": 0,
+    "retards": 19,
+    "ponctualite": 90.7,
+    "timestamp": "2025-12-06T22:01:59.642296"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7d92aa0269cd2d3db9b"
+    },
+    "date": "2011-09",
+    "region": "Sud-Est",
+    "depart": "LE CREUSOT MONTCEAU MONTCHANIN",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 216,
+    "trains_realises": 216,
+    "trains_annules": 0,
+    "retards": 27,
+    "ponctualite": 87.5,
+    "timestamp": "2025-12-06T22:02:01.679494"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7db2aa0269cd2d3db9c"
+    },
+    "date": "2011-09",
+    "region": "Sud-Est",
+    "depart": "LYON PART DIEU",
+    "arrivee": "MARSEILLE ST CHARLES",
+    "trains_prevus": 543,
+    "trains_realises": 543,
+    "trains_annules": 0,
+    "retards": 97,
+    "ponctualite": 82.1,
+    "timestamp": "2025-12-06T22:02:03.698402"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7dd2aa0269cd2d3db9d"
+    },
+    "date": "2011-09",
+    "region": "Sud-Est",
+    "depart": "MONTPELLIER",
+    "arrivee": "LYON PART DIEU",
+    "trains_prevus": 353,
+    "trains_realises": 353,
+    "trains_annules": 0,
+    "retards": 61,
+    "ponctualite": 82.7,
+    "timestamp": "2025-12-06T22:02:05.735200"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7df2aa0269cd2d3db9e"
+    },
+    "date": "2011-09",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "LYON PART DIEU",
+    "trains_prevus": 637,
+    "trains_realises": 637,
+    "trains_annules": 0,
+    "retards": 55,
+    "ponctualite": 91.4,
+    "timestamp": "2025-12-06T22:02:07.777156"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7e12aa0269cd2d3db9f"
+    },
+    "date": "2011-09",
+    "region": "Sud-Est",
+    "depart": "DIJON VILLE",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 417,
+    "trains_realises": 417,
+    "trains_annules": 0,
+    "retards": 28,
+    "ponctualite": 93.3,
+    "timestamp": "2025-12-06T22:02:09.816057"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7e32aa0269cd2d3dba0"
+    },
+    "date": "2011-09",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "GRENOBLE",
+    "trains_prevus": 134,
+    "trains_realises": 134,
+    "trains_annules": 0,
+    "retards": 18,
+    "ponctualite": 86.6,
+    "timestamp": "2025-12-06T22:02:11.835122"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7e52aa0269cd2d3dba1"
+    },
+    "date": "2011-09",
+    "region": "Nord",
+    "depart": "DUNKERQUE",
+    "arrivee": "PARIS NORD",
+    "trains_prevus": 200,
+    "trains_realises": 200,
+    "trains_annules": 0,
+    "retards": 14,
+    "ponctualite": 93,
+    "timestamp": "2025-12-06T22:02:13.854195"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7e72aa0269cd2d3dba2"
+    },
+    "date": "2011-09",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "DUNKERQUE",
+    "trains_prevus": 171,
+    "trains_realises": 171,
+    "trains_annules": 0,
+    "retards": 18,
+    "ponctualite": 89.5,
+    "timestamp": "2025-12-06T22:02:15.885791"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7e92aa0269cd2d3dba3"
+    },
+    "date": "2011-09",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "DOUAI",
+    "trains_prevus": 156,
+    "trains_realises": 156,
+    "trains_annules": 0,
+    "retards": 24,
+    "ponctualite": 84.6,
+    "timestamp": "2025-12-06T22:02:17.902132"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7eb2aa0269cd2d3dba4"
+    },
+    "date": "2011-12",
+    "region": "Atlantique",
+    "depart": "PARIS MONTPARNASSE",
+    "arrivee": "ANGERS SAINT LAUD",
+    "trains_prevus": 449,
+    "trains_realises": 447,
+    "trains_annules": 2,
+    "retards": 40,
+    "ponctualite": 91.1,
+    "timestamp": "2025-12-06T22:02:19.936533"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7ed2aa0269cd2d3dba5"
+    },
+    "date": "2011-11",
+    "region": "Sud-Est",
+    "depart": "BESANCON FRANCHE COMTE TGV",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 140,
+    "trains_realises": 140,
+    "trains_annules": 0,
+    "retards": 10,
+    "ponctualite": 92.9,
+    "timestamp": "2025-12-06T22:02:21.970545"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7f02aa0269cd2d3dba6"
+    },
+    "date": "2011-12",
+    "region": "Sud-Est",
+    "depart": "LYON PART DIEU",
+    "arrivee": "MARSEILLE ST CHARLES",
+    "trains_prevus": 515,
+    "trains_realises": 515,
+    "trains_annules": 0,
+    "retards": 139,
+    "ponctualite": 73,
+    "timestamp": "2025-12-06T22:02:23.992650"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7f22aa0269cd2d3dba7"
+    },
+    "date": "2011-12",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "AIX EN PROVENCE TGV",
+    "trains_prevus": 417,
+    "trains_realises": 417,
+    "trains_annules": 0,
+    "retards": 29,
+    "ponctualite": 93,
+    "timestamp": "2025-12-06T22:02:26.123970"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7f42aa0269cd2d3dba8"
+    },
+    "date": "2011-12",
+    "region": "Nord",
+    "depart": "MARSEILLE ST CHARLES",
+    "arrivee": "LILLE",
+    "trains_prevus": 152,
+    "trains_realises": 152,
+    "trains_annules": 0,
+    "retards": 26,
+    "ponctualite": 82.9,
+    "timestamp": "2025-12-06T22:02:28.149388"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7f62aa0269cd2d3dba9"
+    },
+    "date": "2011-11",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "AVIGNON TGV",
+    "trains_prevus": 390,
+    "trains_realises": 390,
+    "trains_annules": 0,
+    "retards": 42,
+    "ponctualite": 89.2,
+    "timestamp": "2025-12-06T22:02:30.171970"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7f82aa0269cd2d3dbaa"
+    },
+    "date": "2011-12",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "GRENOBLE",
+    "trains_prevus": 218,
+    "trains_realises": 218,
+    "trains_annules": 0,
+    "retards": 20,
+    "ponctualite": 90.8,
+    "timestamp": "2025-12-06T22:02:32.191968"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7fa2aa0269cd2d3dbab"
+    },
+    "date": "2011-12",
+    "region": "Nord",
+    "depart": "LYON PART DIEU",
+    "arrivee": "LILLE",
+    "trains_prevus": 291,
+    "trains_realises": 291,
+    "trains_annules": 0,
+    "retards": 46,
+    "ponctualite": 84.2,
+    "timestamp": "2025-12-06T22:02:34.230917"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7fc2aa0269cd2d3dbac"
+    },
+    "date": "2011-11",
+    "region": "Nord",
+    "depart": "ARRAS",
+    "arrivee": "PARIS NORD",
+    "trains_prevus": 322,
+    "trains_realises": 322,
+    "trains_annules": 0,
+    "retards": 25,
+    "ponctualite": 92.2,
+    "timestamp": "2025-12-06T22:02:36.254105"
+  },
+  {
+    "_id": {
+      "$oid": "6934a7fe2aa0269cd2d3dbad"
+    },
+    "date": "2011-11",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "ARRAS",
+    "trains_prevus": 352,
+    "trains_realises": 352,
+    "trains_annules": 0,
+    "retards": 22,
+    "ponctualite": 93.8,
+    "timestamp": "2025-12-06T22:02:38.300198"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8002aa0269cd2d3dbae"
+    },
+    "date": "2011-11",
+    "region": "Sud-Est",
+    "depart": "MARSEILLE ST CHARLES",
+    "arrivee": "LYON PART DIEU",
+    "trains_prevus": 541,
+    "trains_realises": 541,
+    "trains_annules": 0,
+    "retards": 89,
+    "ponctualite": 83.5,
+    "timestamp": "2025-12-06T22:02:40.320214"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8022aa0269cd2d3dbaf"
+    },
+    "date": "2011-10",
+    "region": "Atlantique",
+    "depart": "PARIS MONTPARNASSE",
+    "arrivee": "ST MALO",
+    "trains_prevus": 36,
+    "trains_realises": 36,
+    "trains_annules": 0,
+    "retards": 1,
+    "ponctualite": 97.2,
+    "timestamp": "2025-12-06T22:02:42.359965"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8042aa0269cd2d3dbb0"
+    },
+    "date": "2011-11",
+    "region": "Atlantique",
+    "depart": "LAVAL",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 229,
+    "trains_realises": 226,
+    "trains_annules": 3,
+    "retards": 32,
+    "ponctualite": 85.8,
+    "timestamp": "2025-12-06T22:02:44.382105"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8062aa0269cd2d3dbb1"
+    },
+    "date": "2011-10",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "BELLEGARDE (AIN)",
+    "trains_prevus": 261,
+    "trains_realises": 261,
+    "trains_annules": 0,
+    "retards": 37,
+    "ponctualite": 85.8,
+    "timestamp": "2025-12-06T22:02:46.419723"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8082aa0269cd2d3dbb2"
+    },
+    "date": "2011-11",
+    "region": "Sud-Est",
+    "depart": "DIJON VILLE",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 411,
+    "trains_realises": 410,
+    "trains_annules": 1,
+    "retards": 20,
+    "ponctualite": 95.1,
+    "timestamp": "2025-12-06T22:02:48.446771"
+  },
+  {
+    "_id": {
+      "$oid": "6934a80a2aa0269cd2d3dbb3"
+    },
+    "date": "2011-11",
+    "region": "Nord",
+    "depart": "MARSEILLE ST CHARLES",
+    "arrivee": "LILLE",
+    "trains_prevus": 197,
+    "trains_realises": 197,
+    "trains_annules": 0,
+    "retards": 34,
+    "ponctualite": 82.7,
+    "timestamp": "2025-12-06T22:02:50.482148"
+  },
+  {
+    "_id": {
+      "$oid": "6934a80c2aa0269cd2d3dbb4"
+    },
+    "date": "2011-11",
+    "region": "Sud-Est",
+    "depart": "GRENOBLE",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 234,
+    "trains_realises": 233,
+    "trains_annules": 1,
+    "retards": 24,
+    "ponctualite": 89.7,
+    "timestamp": "2025-12-06T22:02:52.502122"
+  },
+  {
+    "_id": {
+      "$oid": "6934a80e2aa0269cd2d3dbb5"
+    },
+    "date": "2011-11",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "GRENOBLE",
+    "trains_prevus": 133,
+    "trains_realises": 133,
+    "trains_annules": 0,
+    "retards": 17,
+    "ponctualite": 87.2,
+    "timestamp": "2025-12-06T22:02:54.527115"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8102aa0269cd2d3dbb6"
+    },
+    "date": "2011-10",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "TOULON",
+    "trains_prevus": 236,
+    "trains_realises": 236,
+    "trains_annules": 0,
+    "retards": 30,
+    "ponctualite": 87.3,
+    "timestamp": "2025-12-06T22:02:56.632256"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8122aa0269cd2d3dbb7"
+    },
+    "date": "2011-10",
+    "region": "Sud-Est",
+    "depart": "TOULON",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 248,
+    "trains_realises": 248,
+    "trains_annules": 0,
+    "retards": 29,
+    "ponctualite": 88.3,
+    "timestamp": "2025-12-06T22:02:58.671055"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8142aa0269cd2d3dbb8"
+    },
+    "date": "2011-10",
+    "region": "Sud-Est",
+    "depart": "LE CREUSOT MONTCEAU MONTCHANIN",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 220,
+    "trains_realises": 220,
+    "trains_annules": 0,
+    "retards": 32,
+    "ponctualite": 85.5,
+    "timestamp": "2025-12-06T22:03:00.709555"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8162aa0269cd2d3dbb9"
+    },
+    "date": "2011-10",
+    "region": "Atlantique",
+    "depart": "PARIS MONTPARNASSE",
+    "arrivee": "POITIERS",
+    "trains_prevus": 454,
+    "trains_realises": 454,
+    "trains_annules": 0,
+    "retards": 39,
+    "ponctualite": 91.4,
+    "timestamp": "2025-12-06T22:03:02.728952"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8182aa0269cd2d3dbba"
+    },
+    "date": "2011-10",
+    "region": "Atlantique",
+    "depart": "PARIS MONTPARNASSE",
+    "arrivee": "QUIMPER",
+    "trains_prevus": 171,
+    "trains_realises": 171,
+    "trains_annules": 0,
+    "retards": 19,
+    "ponctualite": 88.9,
+    "timestamp": "2025-12-06T22:03:04.746913"
+  },
+  {
+    "_id": {
+      "$oid": "6934a81a2aa0269cd2d3dbbb"
+    },
+    "date": "2011-10",
+    "region": "Sud-Est",
+    "depart": "MONTPELLIER",
+    "arrivee": "LYON PART DIEU",
+    "trains_prevus": 359,
+    "trains_realises": 357,
+    "trains_annules": 2,
+    "retards": 72,
+    "ponctualite": 79.8,
+    "timestamp": "2025-12-06T22:03:06.764196"
+  },
+  {
+    "_id": {
+      "$oid": "6934a81c2aa0269cd2d3dbbc"
+    },
+    "date": "2011-10",
+    "region": "Atlantique",
+    "depart": "LYON PART DIEU",
+    "arrivee": "RENNES",
+    "trains_prevus": 60,
+    "trains_realises": 60,
+    "trains_annules": 0,
+    "retards": 30,
+    "ponctualite": 50,
+    "timestamp": "2025-12-06T22:03:08.801540"
+  },
+  {
+    "_id": {
+      "$oid": "6934a81e2aa0269cd2d3dbbd"
+    },
+    "date": "2011-10",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "MACON LOCHE",
+    "trains_prevus": 184,
+    "trains_realises": 183,
+    "trains_annules": 1,
+    "retards": 9,
+    "ponctualite": 95.1,
+    "timestamp": "2025-12-06T22:03:10.838072"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8202aa0269cd2d3dbbe"
+    },
+    "date": "2011-10",
+    "region": "Sud-Est",
+    "depart": "NIMES",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 394,
+    "trains_realises": 393,
+    "trains_annules": 1,
+    "retards": 51,
+    "ponctualite": 87,
+    "timestamp": "2025-12-06T22:03:12.875331"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8222aa0269cd2d3dbbf"
+    },
+    "date": "2011-10",
+    "region": "Sud-Est",
+    "depart": "ANNECY",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 200,
+    "trains_realises": 200,
+    "trains_annules": 0,
+    "retards": 15,
+    "ponctualite": 92.5,
+    "timestamp": "2025-12-06T22:03:14.893043"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8242aa0269cd2d3dbc0"
+    },
+    "date": "2011-10",
+    "region": "Est",
+    "depart": "PARIS EST",
+    "arrivee": "NANCY",
+    "trains_prevus": 294,
+    "trains_realises": 292,
+    "trains_annules": 2,
+    "retards": 19,
+    "ponctualite": 93.5,
+    "timestamp": "2025-12-06T22:03:16.927681"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8262aa0269cd2d3dbc1"
+    },
+    "date": "2011-10",
+    "region": "Est",
+    "depart": "NANCY",
+    "arrivee": "PARIS EST",
+    "trains_prevus": 292,
+    "trains_realises": 292,
+    "trains_annules": 0,
+    "retards": 19,
+    "ponctualite": 93.5,
+    "timestamp": "2025-12-06T22:03:18.959661"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8292aa0269cd2d3dbc2"
+    },
+    "date": "2011-12",
+    "region": "Atlantique",
+    "depart": "POITIERS",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 501,
+    "trains_realises": 501,
+    "trains_annules": 0,
+    "retards": 52,
+    "ponctualite": 89.6,
+    "timestamp": "2025-12-06T22:03:20.991789"
+  },
+  {
+    "_id": {
+      "$oid": "6934a82b2aa0269cd2d3dbc3"
+    },
+    "date": "2011-12",
+    "region": "Atlantique",
+    "depart": "ANGOULEME",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 349,
+    "trains_realises": 349,
+    "trains_annules": 0,
+    "retards": 43,
+    "ponctualite": 87.7,
+    "timestamp": "2025-12-06T22:03:23.009677"
+  },
+  {
+    "_id": {
+      "$oid": "6934a82d2aa0269cd2d3dbc4"
+    },
+    "date": "2011-12",
+    "region": "Sud-Est",
+    "depart": "LYON PART DIEU",
+    "arrivee": "MONTPELLIER",
+    "trains_prevus": 376,
+    "trains_realises": 375,
+    "trains_annules": 1,
+    "retards": 70,
+    "ponctualite": 81.3,
+    "timestamp": "2025-12-06T22:03:25.029291"
+  },
+  {
+    "_id": {
+      "$oid": "6934a82f2aa0269cd2d3dbc5"
+    },
+    "date": "2011-12",
+    "region": "Sud-Est",
+    "depart": "MONTPELLIER",
+    "arrivee": "LYON PART DIEU",
+    "trains_prevus": 369,
+    "trains_realises": 369,
+    "trains_annules": 0,
+    "retards": 55,
+    "ponctualite": 85.1,
+    "timestamp": "2025-12-06T22:03:27.148774"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8312aa0269cd2d3dbc6"
+    },
+    "date": "2011-12",
+    "region": "Atlantique",
+    "depart": "LYON PART DIEU",
+    "arrivee": "RENNES",
+    "trains_prevus": 51,
+    "trains_realises": 51,
+    "trains_annules": 0,
+    "retards": 8,
+    "ponctualite": 84.3,
+    "timestamp": "2025-12-06T22:03:29.185706"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8332aa0269cd2d3dbc7"
+    },
+    "date": "2011-12",
+    "region": "Est",
+    "depart": "PARIS LYON",
+    "arrivee": "MULHOUSE VILLE",
+    "trains_prevus": 283,
+    "trains_realises": 283,
+    "trains_annules": 0,
+    "retards": 30,
+    "ponctualite": 89.4,
+    "timestamp": "2025-12-06T22:03:31.226491"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8352aa0269cd2d3dbc8"
+    },
+    "date": "2011-12",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "NIMES",
+    "trains_prevus": 324,
+    "trains_realises": 324,
+    "trains_annules": 0,
+    "retards": 30,
+    "ponctualite": 90.7,
+    "timestamp": "2025-12-06T22:03:33.261732"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8372aa0269cd2d3dbc9"
+    },
+    "date": "2011-12",
+    "region": "Sud-Est",
+    "depart": "NIMES",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 337,
+    "trains_realises": 337,
+    "trains_annules": 0,
+    "retards": 39,
+    "ponctualite": 88.4,
+    "timestamp": "2025-12-06T22:03:35.278577"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8392aa0269cd2d3dbca"
+    },
+    "date": "2011-12",
+    "region": "Est",
+    "depart": "NANTES",
+    "arrivee": "STRASBOURG",
+    "trains_prevus": 38,
+    "trains_realises": 38,
+    "trains_annules": 0,
+    "retards": 3,
+    "ponctualite": 92.1,
+    "timestamp": "2025-12-06T22:03:37.298152"
+  },
+  {
+    "_id": {
+      "$oid": "6934a83b2aa0269cd2d3dbcb"
+    },
+    "date": "2011-12",
+    "region": "Est",
+    "depart": "NANCY",
+    "arrivee": "PARIS EST",
+    "trains_prevus": 298,
+    "trains_realises": 298,
+    "trains_annules": 0,
+    "retards": 17,
+    "ponctualite": 94.3,
+    "timestamp": "2025-12-06T22:03:39.335044"
+  },
+  {
+    "_id": {
+      "$oid": "6934a83d2aa0269cd2d3dbcc"
+    },
+    "date": "2011-11",
+    "region": "Sud-Est",
+    "depart": "VALENCE ALIXAN TGV",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 234,
+    "trains_realises": 233,
+    "trains_annules": 1,
+    "retards": 38,
+    "ponctualite": 83.7,
+    "timestamp": "2025-12-06T22:03:41.355594"
+  },
+  {
+    "_id": {
+      "$oid": "6934a83f2aa0269cd2d3dbcd"
+    },
+    "date": "2011-11",
+    "region": "Atlantique",
+    "depart": "POITIERS",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 489,
+    "trains_realises": 487,
+    "trains_annules": 2,
+    "retards": 45,
+    "ponctualite": 90.8,
+    "timestamp": "2025-12-06T22:03:43.393128"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8412aa0269cd2d3dbce"
+    },
+    "date": "2011-11",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "VALENCE ALIXAN TGV",
+    "trains_prevus": 264,
+    "trains_realises": 264,
+    "trains_annules": 0,
+    "retards": 22,
+    "ponctualite": 91.7,
+    "timestamp": "2025-12-06T22:03:45.413360"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8432aa0269cd2d3dbcf"
+    },
+    "date": "2011-11",
+    "region": "Atlantique",
+    "depart": "RENNES",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 533,
+    "trains_realises": 519,
+    "trains_annules": 14,
+    "retards": 87,
+    "ponctualite": 83.2,
+    "timestamp": "2025-12-06T22:03:47.454218"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8452aa0269cd2d3dbd0"
+    },
+    "date": "2011-11",
+    "region": "Atlantique",
+    "depart": "ST MALO",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 74,
+    "trains_realises": 74,
+    "trains_annules": 0,
+    "retards": 1,
+    "ponctualite": 98.6,
+    "timestamp": "2025-12-06T22:03:49.487899"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8472aa0269cd2d3dbd1"
+    },
+    "date": "2011-11",
+    "region": "Sud-Est",
+    "depart": "NICE VILLE",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 156,
+    "trains_realises": 154,
+    "trains_annules": 2,
+    "retards": 12,
+    "ponctualite": 92.2,
+    "timestamp": "2025-12-06T22:03:51.503906"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8492aa0269cd2d3dbd2"
+    },
+    "date": "2011-11",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "MACON LOCHE",
+    "trains_prevus": 179,
+    "trains_realises": 179,
+    "trains_annules": 0,
+    "retards": 12,
+    "ponctualite": 93.3,
+    "timestamp": "2025-12-06T22:03:53.543312"
+  },
+  {
+    "_id": {
+      "$oid": "6934a84b2aa0269cd2d3dbd3"
+    },
+    "date": "2011-11",
+    "region": "Sud-Est",
+    "depart": "ANNECY",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 192,
+    "trains_realises": 192,
+    "trains_annules": 0,
+    "retards": 12,
+    "ponctualite": 93.8,
+    "timestamp": "2025-12-06T22:03:55.566542"
+  },
+  {
+    "_id": {
+      "$oid": "6934a84d2aa0269cd2d3dbd4"
+    },
+    "date": "2011-11",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "ANNECY",
+    "trains_prevus": 197,
+    "trains_realises": 197,
+    "trains_annules": 0,
+    "retards": 14,
+    "ponctualite": 92.9,
+    "timestamp": "2025-12-06T22:03:57.712924"
+  },
+  {
+    "_id": {
+      "$oid": "6934a84f2aa0269cd2d3dbd5"
+    },
+    "date": "2011-11",
+    "region": "Est",
+    "depart": "STRASBOURG",
+    "arrivee": "NANTES",
+    "trains_prevus": 49,
+    "trains_realises": 49,
+    "trains_annules": 0,
+    "retards": 6,
+    "ponctualite": 87.8,
+    "timestamp": "2025-12-06T22:03:59.755906"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8512aa0269cd2d3dbd6"
+    },
+    "date": "2012-03",
+    "region": "Nord",
+    "depart": "LILLE",
+    "arrivee": "MARSEILLE ST CHARLES",
+    "trains_prevus": 159,
+    "trains_realises": 158,
+    "trains_annules": 1,
+    "retards": 28,
+    "ponctualite": 82.3,
+    "timestamp": "2025-12-06T22:04:01.796436"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8532aa0269cd2d3dbd7"
+    },
+    "date": "2012-03",
+    "region": "Nord",
+    "depart": "MARSEILLE ST CHARLES",
+    "arrivee": "LILLE",
+    "trains_prevus": 125,
+    "trains_realises": 125,
+    "trains_annules": 0,
+    "retards": 34,
+    "ponctualite": 72.8,
+    "timestamp": "2025-12-06T22:04:03.816771"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8552aa0269cd2d3dbd8"
+    },
+    "date": "2012-03",
+    "region": "Nord",
+    "depart": "LILLE",
+    "arrivee": "LYON PART DIEU",
+    "trains_prevus": 308,
+    "trains_realises": 305,
+    "trains_annules": 3,
+    "retards": 27,
+    "ponctualite": 91.1,
+    "timestamp": "2025-12-06T22:04:05.854038"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8572aa0269cd2d3dbd9"
+    },
+    "date": "2012-03",
+    "region": "Sud-Est",
+    "depart": "LE CREUSOT MONTCEAU MONTCHANIN",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 217,
+    "trains_realises": 217,
+    "trains_annules": 0,
+    "retards": 27,
+    "ponctualite": 87.6,
+    "timestamp": "2025-12-06T22:04:07.890432"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8592aa0269cd2d3dbda"
+    },
+    "date": "2012-03",
+    "region": "Atlantique",
+    "depart": "PARIS MONTPARNASSE",
+    "arrivee": "ANGERS SAINT LAUD",
+    "trains_prevus": 446,
+    "trains_realises": 446,
+    "trains_annules": 0,
+    "retards": 20,
+    "ponctualite": 95.5,
+    "timestamp": "2025-12-06T22:04:09.928206"
+  },
+  {
+    "_id": {
+      "$oid": "6934a85b2aa0269cd2d3dbdb"
+    },
+    "date": "2011-09",
+    "region": "Atlantique",
+    "depart": "PARIS MONTPARNASSE",
+    "arrivee": "NANTES",
+    "trains_prevus": 595,
+    "trains_realises": 595,
+    "trains_annules": 0,
+    "retards": 24,
+    "ponctualite": 96,
+    "timestamp": "2025-12-06T22:04:11.963032"
+  },
+  {
+    "_id": {
+      "$oid": "6934a85e2aa0269cd2d3dbdc"
+    },
+    "date": "2011-09",
+    "region": "Atlantique",
+    "depart": "VANNES",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 171,
+    "trains_realises": 171,
+    "trains_annules": 0,
+    "retards": 6,
+    "ponctualite": 96.5,
+    "timestamp": "2025-12-06T22:04:13.998263"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8602aa0269cd2d3dbdd"
+    },
+    "date": "2011-10",
+    "region": "Atlantique",
+    "depart": "BREST",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 183,
+    "trains_realises": 183,
+    "trains_annules": 0,
+    "retards": 20,
+    "ponctualite": 89.1,
+    "timestamp": "2025-12-06T22:04:16.035946"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8622aa0269cd2d3dbde"
+    },
+    "date": "2011-09",
+    "region": "Atlantique",
+    "depart": "TOURS",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 139,
+    "trains_realises": 139,
+    "trains_annules": 0,
+    "retards": 5,
+    "ponctualite": 96.4,
+    "timestamp": "2025-12-06T22:04:18.056770"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8642aa0269cd2d3dbdf"
+    },
+    "date": "2011-09",
+    "region": "Atlantique",
+    "depart": "LYON PART DIEU",
+    "arrivee": "RENNES",
+    "trains_prevus": 52,
+    "trains_realises": 52,
+    "trains_annules": 0,
+    "retards": 21,
+    "ponctualite": 59.6,
+    "timestamp": "2025-12-06T22:04:20.091569"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8662aa0269cd2d3dbe0"
+    },
+    "date": "2011-09",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "MACON LOCHE",
+    "trains_prevus": 181,
+    "trains_realises": 181,
+    "trains_annules": 0,
+    "retards": 17,
+    "ponctualite": 90.6,
+    "timestamp": "2025-12-06T22:04:22.128344"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8682aa0269cd2d3dbe1"
+    },
+    "date": "2011-09",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "AVIGNON TGV",
+    "trains_prevus": 384,
+    "trains_realises": 384,
+    "trains_annules": 0,
+    "retards": 51,
+    "ponctualite": 86.7,
+    "timestamp": "2025-12-06T22:04:24.145218"
+  },
+  {
+    "_id": {
+      "$oid": "6934a86a2aa0269cd2d3dbe2"
+    },
+    "date": "2011-10",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "DUNKERQUE",
+    "trains_prevus": 174,
+    "trains_realises": 174,
+    "trains_annules": 0,
+    "retards": 17,
+    "ponctualite": 90.2,
+    "timestamp": "2025-12-06T22:04:26.284734"
+  },
+  {
+    "_id": {
+      "$oid": "6934a86c2aa0269cd2d3dbe3"
+    },
+    "date": "2011-10",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "DOUAI",
+    "trains_prevus": 158,
+    "trains_realises": 158,
+    "trains_annules": 0,
+    "retards": 24,
+    "ponctualite": 84.8,
+    "timestamp": "2025-12-06T22:04:28.321786"
+  },
+  {
+    "_id": {
+      "$oid": "6934a86e2aa0269cd2d3dbe4"
+    },
+    "date": "2011-09",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "ARRAS",
+    "trains_prevus": 361,
+    "trains_realises": 361,
+    "trains_annules": 0,
+    "retards": 29,
+    "ponctualite": 92,
+    "timestamp": "2025-12-06T22:04:30.367405"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8702aa0269cd2d3dbe5"
+    },
+    "date": "2012-03",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "DOUAI",
+    "trains_prevus": 212,
+    "trains_realises": 212,
+    "trains_annules": 0,
+    "retards": 21,
+    "ponctualite": 90.1,
+    "timestamp": "2025-12-06T22:04:32.405634"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8722aa0269cd2d3dbe6"
+    },
+    "date": "2012-03",
+    "region": "Atlantique",
+    "depart": "BREST",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 173,
+    "trains_realises": 173,
+    "trains_annules": 0,
+    "retards": 3,
+    "ponctualite": 98.3,
+    "timestamp": "2025-12-06T22:04:34.445985"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8742aa0269cd2d3dbe7"
+    },
+    "date": "2012-02",
+    "region": "Atlantique",
+    "depart": "PARIS MONTPARNASSE",
+    "arrivee": "TOULOUSE MATABIAU",
+    "trains_prevus": 138,
+    "trains_realises": 138,
+    "trains_annules": 0,
+    "retards": 35,
+    "ponctualite": 74.6,
+    "timestamp": "2025-12-06T22:04:36.482223"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8762aa0269cd2d3dbe8"
+    },
+    "date": "2012-03",
+    "region": "Sud-Est",
+    "depart": "CHAMBERY CHALLES LES EAUX",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 284,
+    "trains_realises": 284,
+    "trains_annules": 0,
+    "retards": 48,
+    "ponctualite": 83.1,
+    "timestamp": "2025-12-06T22:04:38.521612"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8782aa0269cd2d3dbe9"
+    },
+    "date": "2012-02",
+    "region": "Atlantique",
+    "depart": "PARIS MONTPARNASSE",
+    "arrivee": "RENNES",
+    "trains_prevus": 534,
+    "trains_realises": 533,
+    "trains_annules": 1,
+    "retards": 74,
+    "ponctualite": 86.1,
+    "timestamp": "2025-12-06T22:04:40.541198"
+  },
+  {
+    "_id": {
+      "$oid": "6934a87a2aa0269cd2d3dbea"
+    },
+    "date": "2012-02",
+    "region": "Atlantique",
+    "depart": "ST MALO",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 94,
+    "trains_realises": 94,
+    "trains_annules": 0,
+    "retards": 8,
+    "ponctualite": 91.5,
+    "timestamp": "2025-12-06T22:04:42.577237"
+  },
+  {
+    "_id": {
+      "$oid": "6934a87c2aa0269cd2d3dbeb"
+    },
+    "date": "2012-02",
+    "region": "Atlantique",
+    "depart": "VANNES",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 165,
+    "trains_realises": 165,
+    "trains_annules": 0,
+    "retards": 19,
+    "ponctualite": 88.5,
+    "timestamp": "2025-12-06T22:04:44.613887"
+  },
+  {
+    "_id": {
+      "$oid": "6934a87e2aa0269cd2d3dbec"
+    },
+    "date": "2012-02",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "AVIGNON TGV",
+    "trains_prevus": 369,
+    "trains_realises": 366,
+    "trains_annules": 3,
+    "retards": 48,
+    "ponctualite": 86.9,
+    "timestamp": "2025-12-06T22:04:46.659255"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8802aa0269cd2d3dbed"
+    },
+    "date": "2012-02",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "PERPIGNAN",
+    "trains_prevus": 147,
+    "trains_realises": 147,
+    "trains_annules": 0,
+    "retards": 22,
+    "ponctualite": 85,
+    "timestamp": "2025-12-06T22:04:48.678978"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8822aa0269cd2d3dbee"
+    },
+    "date": "2012-02",
+    "region": "Atlantique",
+    "depart": "PARIS MONTPARNASSE",
+    "arrivee": "LA ROCHELLE VILLE",
+    "trains_prevus": 197,
+    "trains_realises": 197,
+    "trains_annules": 0,
+    "retards": 50,
+    "ponctualite": 74.6,
+    "timestamp": "2025-12-06T22:04:50.696375"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8842aa0269cd2d3dbef"
+    },
+    "date": "2012-02",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "CHAMBERY CHALLES LES EAUX",
+    "trains_prevus": 305,
+    "trains_realises": 305,
+    "trains_annules": 0,
+    "retards": 58,
+    "ponctualite": 81,
+    "timestamp": "2025-12-06T22:04:52.727454"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8862aa0269cd2d3dbf0"
+    },
+    "date": "2012-02",
+    "region": "Sud-Est",
+    "depart": "MARSEILLE ST CHARLES",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 455,
+    "trains_realises": 449,
+    "trains_annules": 6,
+    "retards": 46,
+    "ponctualite": 89.8,
+    "timestamp": "2025-12-06T22:04:54.765162"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8882aa0269cd2d3dbf1"
+    },
+    "date": "2012-02",
+    "region": "Sud-Est",
+    "depart": "LYON PART DIEU",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 598,
+    "trains_realises": 597,
+    "trains_annules": 1,
+    "retards": 62,
+    "ponctualite": 89.6,
+    "timestamp": "2025-12-06T22:04:56.885515"
+  },
+  {
+    "_id": {
+      "$oid": "6934a88a2aa0269cd2d3dbf2"
+    },
+    "date": "2012-02",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "NIMES",
+    "trains_prevus": 336,
+    "trains_realises": 336,
+    "trains_annules": 0,
+    "retards": 55,
+    "ponctualite": 83.6,
+    "timestamp": "2025-12-06T22:04:58.922451"
+  },
+  {
+    "_id": {
+      "$oid": "6934a88c2aa0269cd2d3dbf3"
+    },
+    "date": "2012-02",
+    "region": "Est",
+    "depart": "STRASBOURG",
+    "arrivee": "NANTES",
+    "trains_prevus": 58,
+    "trains_realises": 57,
+    "trains_annules": 1,
+    "retards": 8,
+    "ponctualite": 86,
+    "timestamp": "2025-12-06T22:05:00.955179"
+  },
+  {
+    "_id": {
+      "$oid": "6934a88f2aa0269cd2d3dbf4"
+    },
+    "date": "2012-02",
+    "region": "Est",
+    "depart": "NANTES",
+    "arrivee": "STRASBOURG",
+    "trains_prevus": 58,
+    "trains_realises": 57,
+    "trains_annules": 1,
+    "retards": 11,
+    "ponctualite": 80.7,
+    "timestamp": "2025-12-06T22:05:02.993358"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8912aa0269cd2d3dbf5"
+    },
+    "date": "2012-02",
+    "region": "Nord",
+    "depart": "LILLE",
+    "arrivee": "PARIS NORD",
+    "trains_prevus": 588,
+    "trains_realises": 587,
+    "trains_annules": 1,
+    "retards": 116,
+    "ponctualite": 80.2,
+    "timestamp": "2025-12-06T22:05:05.038288"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8932aa0269cd2d3dbf6"
+    },
+    "date": "2012-02",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "LILLE",
+    "trains_prevus": 596,
+    "trains_realises": 595,
+    "trains_annules": 1,
+    "retards": 97,
+    "ponctualite": 83.7,
+    "timestamp": "2025-12-06T22:05:07.054967"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8952aa0269cd2d3dbf7"
+    },
+    "date": "2012-02",
+    "region": "Est",
+    "depart": "METZ",
+    "arrivee": "PARIS EST",
+    "trains_prevus": 281,
+    "trains_realises": 281,
+    "trains_annules": 0,
+    "retards": 35,
+    "ponctualite": 87.5,
+    "timestamp": "2025-12-06T22:05:09.088458"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8972aa0269cd2d3dbf8"
+    },
+    "date": "2011-12",
+    "region": "Atlantique",
+    "depart": "PARIS MONTPARNASSE",
+    "arrivee": "TOULOUSE MATABIAU",
+    "trains_prevus": 140,
+    "trains_realises": 140,
+    "trains_annules": 0,
+    "retards": 11,
+    "ponctualite": 92.1,
+    "timestamp": "2025-12-06T22:05:11.126360"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8992aa0269cd2d3dbf9"
+    },
+    "date": "2011-12",
+    "region": "Atlantique",
+    "depart": "BORDEAUX ST JEAN",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 656,
+    "trains_realises": 656,
+    "trains_annules": 0,
+    "retards": 51,
+    "ponctualite": 92.2,
+    "timestamp": "2025-12-06T22:05:13.146494"
+  },
+  {
+    "_id": {
+      "$oid": "6934a89b2aa0269cd2d3dbfa"
+    },
+    "date": "2011-12",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "BESANCON FRANCHE COMTE TGV",
+    "trains_prevus": 222,
+    "trains_realises": 222,
+    "trains_annules": 0,
+    "retards": 16,
+    "ponctualite": 92.8,
+    "timestamp": "2025-12-06T22:05:15.182422"
+  },
+  {
+    "_id": {
+      "$oid": "6934a89d2aa0269cd2d3dbfb"
+    },
+    "date": "2011-12",
+    "region": "Sud-Est",
+    "depart": "VALENCE ALIXAN TGV",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 200,
+    "trains_realises": 200,
+    "trains_annules": 0,
+    "retards": 30,
+    "ponctualite": 85,
+    "timestamp": "2025-12-06T22:05:17.222380"
+  },
+  {
+    "_id": {
+      "$oid": "6934a89f2aa0269cd2d3dbfc"
+    },
+    "date": "2011-12",
+    "region": "Atlantique",
+    "depart": "PARIS MONTPARNASSE",
+    "arrivee": "POITIERS",
+    "trains_prevus": 479,
+    "trains_realises": 479,
+    "trains_annules": 0,
+    "retards": 23,
+    "ponctualite": 95.2,
+    "timestamp": "2025-12-06T22:05:19.239448"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8a12aa0269cd2d3dbfd"
+    },
+    "date": "2011-12",
+    "region": "Sud-Est",
+    "depart": "BELLEGARDE (AIN)",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 270,
+    "trains_realises": 270,
+    "trains_annules": 0,
+    "retards": 37,
+    "ponctualite": 86.3,
+    "timestamp": "2025-12-06T22:05:21.274455"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8a32aa0269cd2d3dbfe"
+    },
+    "date": "2011-12",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "BELLEGARDE (AIN)",
+    "trains_prevus": 276,
+    "trains_realises": 276,
+    "trains_annules": 0,
+    "retards": 41,
+    "ponctualite": 85.1,
+    "timestamp": "2025-12-06T22:05:23.311942"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8a52aa0269cd2d3dbff"
+    },
+    "date": "2011-09",
+    "region": "Atlantique",
+    "depart": "LA ROCHELLE VILLE",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 163,
+    "trains_realises": 163,
+    "trains_annules": 0,
+    "retards": 6,
+    "ponctualite": 96.3,
+    "timestamp": "2025-12-06T22:05:25.333656"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8a72aa0269cd2d3dc00"
+    },
+    "date": "2011-09",
+    "region": "Sud-Est",
+    "depart": "CHAMBERY CHALLES LES EAUX",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 167,
+    "trains_realises": 167,
+    "trains_annules": 0,
+    "retards": 20,
+    "ponctualite": 88,
+    "timestamp": "2025-12-06T22:05:27.469386"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8a92aa0269cd2d3dc01"
+    },
+    "date": "2011-09",
+    "region": "Nord",
+    "depart": "LILLE",
+    "arrivee": "MARSEILLE ST CHARLES",
+    "trains_prevus": 159,
+    "trains_realises": 159,
+    "trains_annules": 0,
+    "retards": 31,
+    "ponctualite": 80.5,
+    "timestamp": "2025-12-06T22:05:29.508032"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8ab2aa0269cd2d3dc02"
+    },
+    "date": "2011-09",
+    "region": "Nord",
+    "depart": "DOUAI",
+    "arrivee": "PARIS NORD",
+    "trains_prevus": 132,
+    "trains_realises": 132,
+    "trains_annules": 0,
+    "retards": 11,
+    "ponctualite": 91.7,
+    "timestamp": "2025-12-06T22:05:31.542097"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8ad2aa0269cd2d3dc03"
+    },
+    "date": "2011-09",
+    "region": "Nord",
+    "depart": "LILLE",
+    "arrivee": "PARIS NORD",
+    "trains_prevus": 628,
+    "trains_realises": 628,
+    "trains_annules": 0,
+    "retards": 49,
+    "ponctualite": 92.2,
+    "timestamp": "2025-12-06T22:05:33.557000"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8af2aa0269cd2d3dc04"
+    },
+    "date": "2011-12",
+    "region": "Atlantique",
+    "depart": "ANGERS SAINT LAUD",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 490,
+    "trains_realises": 486,
+    "trains_annules": 4,
+    "retards": 49,
+    "ponctualite": 89.9,
+    "timestamp": "2025-12-06T22:05:35.610826"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8b12aa0269cd2d3dc05"
+    },
+    "date": "2011-12",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "CHAMBERY CHALLES LES EAUX",
+    "trains_prevus": 248,
+    "trains_realises": 248,
+    "trains_annules": 0,
+    "retards": 41,
+    "ponctualite": 83.5,
+    "timestamp": "2025-12-06T22:05:37.625747"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8b32aa0269cd2d3dc06"
+    },
+    "date": "2011-12",
+    "region": "Sud-Est",
+    "depart": "MARSEILLE ST CHARLES",
+    "arrivee": "LYON PART DIEU",
+    "trains_prevus": 580,
+    "trains_realises": 580,
+    "trains_annules": 0,
+    "retards": 90,
+    "ponctualite": 84.5,
+    "timestamp": "2025-12-06T22:05:39.663270"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8b52aa0269cd2d3dc07"
+    },
+    "date": "2011-12",
+    "region": "Atlantique",
+    "depart": "PARIS MONTPARNASSE",
+    "arrivee": "LE MANS",
+    "trains_prevus": 477,
+    "trains_realises": 476,
+    "trains_annules": 1,
+    "retards": 65,
+    "ponctualite": 86.3,
+    "timestamp": "2025-12-06T22:05:41.700764"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8b72aa0269cd2d3dc08"
+    },
+    "date": "2011-12",
+    "region": "Sud-Est",
+    "depart": "LYON PART DIEU",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 605,
+    "trains_realises": 605,
+    "trains_annules": 0,
+    "retards": 23,
+    "ponctualite": 96.2,
+    "timestamp": "2025-12-06T22:05:43.737115"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8b92aa0269cd2d3dc09"
+    },
+    "date": "2011-12",
+    "region": "Nord",
+    "depart": "LILLE",
+    "arrivee": "MARSEILLE ST CHARLES",
+    "trains_prevus": 138,
+    "trains_realises": 138,
+    "trains_annules": 0,
+    "retards": 33,
+    "ponctualite": 76.1,
+    "timestamp": "2025-12-06T22:05:45.770054"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8bb2aa0269cd2d3dc0a"
+    },
+    "date": "2011-12",
+    "region": "Sud-Est",
+    "depart": "GRENOBLE",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 242,
+    "trains_realises": 242,
+    "trains_annules": 0,
+    "retards": 17,
+    "ponctualite": 93,
+    "timestamp": "2025-12-06T22:05:47.806131"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8bd2aa0269cd2d3dc0b"
+    },
+    "date": "2011-12",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "DUNKERQUE",
+    "trains_prevus": 166,
+    "trains_realises": 166,
+    "trains_annules": 0,
+    "retards": 8,
+    "ponctualite": 95.2,
+    "timestamp": "2025-12-06T22:05:49.841775"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8bf2aa0269cd2d3dc0c"
+    },
+    "date": "2011-12",
+    "region": "Nord",
+    "depart": "DOUAI",
+    "arrivee": "PARIS NORD",
+    "trains_prevus": 184,
+    "trains_realises": 183,
+    "trains_annules": 1,
+    "retards": 18,
+    "ponctualite": 90.2,
+    "timestamp": "2025-12-06T22:05:51.883961"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8c12aa0269cd2d3dc0d"
+    },
+    "date": "2011-12",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "DOUAI",
+    "trains_prevus": 194,
+    "trains_realises": 194,
+    "trains_annules": 0,
+    "retards": 26,
+    "ponctualite": 86.6,
+    "timestamp": "2025-12-06T22:05:53.897374"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8c32aa0269cd2d3dc0e"
+    },
+    "date": "2011-11",
+    "region": "Atlantique",
+    "depart": "ST PIERRE DES CORPS",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 455,
+    "trains_realises": 453,
+    "trains_annules": 2,
+    "retards": 65,
+    "ponctualite": 85.7,
+    "timestamp": "2025-12-06T22:05:55.912014"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8c62aa0269cd2d3dc0f"
+    },
+    "date": "2011-12",
+    "region": "Sud-Est",
+    "depart": "CHAMBERY CHALLES LES EAUX",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 231,
+    "trains_realises": 230,
+    "trains_annules": 1,
+    "retards": 44,
+    "ponctualite": 80.9,
+    "timestamp": "2025-12-06T22:05:58.025017"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8c82aa0269cd2d3dc10"
+    },
+    "date": "2011-11",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "SAINT ETIENNE CHATEAUCREUX",
+    "trains_prevus": 106,
+    "trains_realises": 106,
+    "trains_annules": 0,
+    "retards": 12,
+    "ponctualite": 88.7,
+    "timestamp": "2025-12-06T22:06:00.039398"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8ca2aa0269cd2d3dc11"
+    },
+    "date": "2011-11",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "BESANCON FRANCHE COMTE TGV",
+    "trains_prevus": 160,
+    "trains_realises": 160,
+    "trains_annules": 0,
+    "retards": 11,
+    "ponctualite": 93.1,
+    "timestamp": "2025-12-06T22:06:02.068519"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8cc2aa0269cd2d3dc12"
+    },
+    "date": "2011-11",
+    "region": "Atlantique",
+    "depart": "PARIS MONTPARNASSE",
+    "arrivee": "POITIERS",
+    "trains_prevus": 441,
+    "trains_realises": 436,
+    "trains_annules": 5,
+    "retards": 37,
+    "ponctualite": 91.5,
+    "timestamp": "2025-12-06T22:06:04.097066"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8ce2aa0269cd2d3dc13"
+    },
+    "date": "2011-12",
+    "region": "Sud-Est",
+    "depart": "AIX EN PROVENCE TGV",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 430,
+    "trains_realises": 430,
+    "trains_annules": 0,
+    "retards": 62,
+    "ponctualite": 85.6,
+    "timestamp": "2025-12-06T22:06:06.115545"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8d02aa0269cd2d3dc14"
+    },
+    "date": "2011-11",
+    "region": "Atlantique",
+    "depart": "VANNES",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 174,
+    "trains_realises": 169,
+    "trains_annules": 5,
+    "retards": 15,
+    "ponctualite": 91.1,
+    "timestamp": "2025-12-06T22:06:08.127951"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8d22aa0269cd2d3dc15"
+    },
+    "date": "2011-11",
+    "region": "Atlantique",
+    "depart": "PARIS MONTPARNASSE",
+    "arrivee": "TOURS",
+    "trains_prevus": 182,
+    "trains_realises": 180,
+    "trains_annules": 2,
+    "retards": 21,
+    "ponctualite": 88.3,
+    "timestamp": "2025-12-06T22:06:10.151585"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8d42aa0269cd2d3dc16"
+    },
+    "date": "2011-11",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "NIMES",
+    "trains_prevus": 365,
+    "trains_realises": 365,
+    "trains_annules": 0,
+    "retards": 37,
+    "ponctualite": 89.9,
+    "timestamp": "2025-12-06T22:06:12.164208"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8d62aa0269cd2d3dc17"
+    },
+    "date": "2011-11",
+    "region": "Est",
+    "depart": "NANTES",
+    "arrivee": "STRASBOURG",
+    "trains_prevus": 50,
+    "trains_realises": 50,
+    "trains_annules": 0,
+    "retards": 7,
+    "ponctualite": 86,
+    "timestamp": "2025-12-06T22:06:14.179799"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8d82aa0269cd2d3dc18"
+    },
+    "date": "2011-10",
+    "region": "Atlantique",
+    "depart": "ST PIERRE DES CORPS",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 461,
+    "trains_realises": 460,
+    "trains_annules": 1,
+    "retards": 96,
+    "ponctualite": 79.1,
+    "timestamp": "2025-12-06T22:06:16.218196"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8da2aa0269cd2d3dc19"
+    },
+    "date": "2011-10",
+    "region": "Atlantique",
+    "depart": "PARIS MONTPARNASSE",
+    "arrivee": "ST PIERRE DES CORPS",
+    "trains_prevus": 444,
+    "trains_realises": 444,
+    "trains_annules": 0,
+    "retards": 73,
+    "ponctualite": 83.6,
+    "timestamp": "2025-12-06T22:06:18.242483"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8dc2aa0269cd2d3dc1a"
+    },
+    "date": "2011-10",
+    "region": "Atlantique",
+    "depart": "PARIS MONTPARNASSE",
+    "arrivee": "BORDEAUX ST JEAN",
+    "trains_prevus": 659,
+    "trains_realises": 659,
+    "trains_annules": 0,
+    "retards": 64,
+    "ponctualite": 90.3,
+    "timestamp": "2025-12-06T22:06:20.258259"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8de2aa0269cd2d3dc1b"
+    },
+    "date": "2011-10",
+    "region": "Sud-Est",
+    "depart": "SAINT ETIENNE CHATEAUCREUX",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 116,
+    "trains_realises": 116,
+    "trains_annules": 0,
+    "retards": 18,
+    "ponctualite": 84.5,
+    "timestamp": "2025-12-06T22:06:22.278475"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8e02aa0269cd2d3dc1c"
+    },
+    "date": "2011-10",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "SAINT ETIENNE CHATEAUCREUX",
+    "trains_prevus": 119,
+    "trains_realises": 119,
+    "trains_annules": 0,
+    "retards": 21,
+    "ponctualite": 82.4,
+    "timestamp": "2025-12-06T22:06:24.294614"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8e22aa0269cd2d3dc1d"
+    },
+    "date": "2011-10",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "BESANCON FRANCHE COMTE TGV",
+    "trains_prevus": 152,
+    "trains_realises": 152,
+    "trains_annules": 0,
+    "retards": 10,
+    "ponctualite": 93.4,
+    "timestamp": "2025-12-06T22:06:26.421357"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8e42aa0269cd2d3dc1e"
+    },
+    "date": "2011-10",
+    "region": "Atlantique",
+    "depart": "POITIERS",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 503,
+    "trains_realises": 502,
+    "trains_annules": 1,
+    "retards": 77,
+    "ponctualite": 84.7,
+    "timestamp": "2025-12-06T22:06:28.437341"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8e62aa0269cd2d3dc1f"
+    },
+    "date": "2011-10",
+    "region": "Atlantique",
+    "depart": "PARIS MONTPARNASSE",
+    "arrivee": "TOURS",
+    "trains_prevus": 186,
+    "trains_realises": 186,
+    "trains_annules": 0,
+    "retards": 51,
+    "ponctualite": 72.6,
+    "timestamp": "2025-12-06T22:06:30.473334"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8ec0a69a3f3b1a042c2"
+    },
+    "date": "2022-01",
+    "region": "Sud-Est",
+    "depart": "CHAMBERY CHALLES LES EAUX",
+    "arrivee": "BELLEGARDE (AIN)",
+    "trains_prevus": 514,
+    "trains_realises": 514,
+    "trains_annules": 0,
+    "retards": 78,
+    "ponctualite": 85,
+    "timestamp": "2025-12-06T22:06:36.303059"
+  },
+  {
+    "_id": {
+      "$oid": "6934a8f10a69a3f3b1a042c3"
+    },
+    "date": "2023-12",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "LILLE",
+    "trains_prevus": 461,
+    "trains_realises": 454,
+    "trains_annules": 7,
+    "retards": 133,
+    "ponctualite": 70.9,
+    "timestamp": "2025-12-06T22:06:41.335700"
+  },
+  {
+    "_id": {
+      "$oid": "6934a90f0a69a3f3b1a042c4"
+    },
+    "date": "2012-10",
+    "region": "Sud-Est",
+    "depart": "VALENCE ALIXAN TGV",
+    "arrivee": "MARSEILLE ST CHARLES",
+    "trains_prevus": 675,
+    "trains_realises": 669,
+    "trains_annules": 6,
+    "retards": 61,
+    "ponctualite": 90.9,
+    "timestamp": "2025-12-06T22:07:11.488668"
+  },
+  {
+    "_id": {
+      "$oid": "6934a91e0a69a3f3b1a042c5"
+    },
+    "date": "2013-06",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "ARRAS",
+    "trains_prevus": 570,
+    "trains_realises": 560,
+    "trains_annules": 10,
+    "retards": 32,
+    "ponctualite": 94.3,
+    "timestamp": "2025-12-06T22:07:26.649668"
+  },
+  {
+    "_id": {
+      "$oid": "6934a93c0a69a3f3b1a042c6"
+    },
+    "date": "2019-08",
+    "region": "Est",
+    "depart": "MULHOUSE VILLE",
+    "arrivee": "REIMS",
+    "trains_prevus": 450,
+    "trains_realises": 443,
+    "trains_annules": 7,
+    "retards": 117,
+    "ponctualite": 73.8,
+    "timestamp": "2025-12-06T22:07:56.800226"
+  },
+  {
+    "_id": {
+      "$oid": "6934a95a0a69a3f3b1a042c7"
+    },
+    "date": "2014-06",
+    "region": "Atlantique",
+    "depart": "RENNES",
+    "arrivee": "TOURS",
+    "trains_prevus": 268,
+    "trains_realises": 266,
+    "trains_annules": 2,
+    "retards": 44,
+    "ponctualite": 83.7,
+    "timestamp": "2025-12-06T22:08:26.929432"
+  },
+  {
+    "_id": {
+      "$oid": "6934a9640a69a3f3b1a042c8"
+    },
+    "date": "2015-01",
+    "region": "Est",
+    "depart": "METZ",
+    "arrivee": "MULHOUSE VILLE",
+    "trains_prevus": 196,
+    "trains_realises": 194,
+    "trains_annules": 2,
+    "retards": 49,
+    "ponctualite": 75.2,
+    "timestamp": "2025-12-06T22:08:36.947605"
+  },
+  {
+    "_id": {
+      "$oid": "6934a9740a69a3f3b1a042c9"
+    },
+    "date": "2018-05",
+    "region": "Nord",
+    "depart": "ARRAS",
+    "arrivee": "DUNKERQUE",
+    "trains_prevus": 113,
+    "trains_realises": 112,
+    "trains_annules": 1,
+    "retards": 11,
+    "ponctualite": 90.3,
+    "timestamp": "2025-12-06T22:08:51.997888"
+  },
+  {
+    "_id": {
+      "$oid": "6934a9830a69a3f3b1a042ca"
+    },
+    "date": "2016-09",
+    "region": "Atlantique",
+    "depart": "ANGOULEME",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 694,
+    "trains_realises": 687,
+    "trains_annules": 7,
+    "retards": 36,
+    "ponctualite": 94.8,
+    "timestamp": "2025-12-06T22:09:07.137083"
+  },
+  {
+    "_id": {
+      "$oid": "6934a98d0a69a3f3b1a042cb"
+    },
+    "date": "2016-09",
+    "region": "Atlantique",
+    "depart": "PARIS MONTPARNASSE",
+    "arrivee": "POITIERS",
+    "trains_prevus": 484,
+    "trains_realises": 483,
+    "trains_annules": 1,
+    "retards": 57,
+    "ponctualite": 88.3,
+    "timestamp": "2025-12-06T22:09:17.182796"
+  },
+  {
+    "_id": {
+      "$oid": "6934a9970a69a3f3b1a042cc"
+    },
+    "date": "2017-08",
+    "region": "Atlantique",
+    "depart": "BREST",
+    "arrivee": "RENNES",
+    "trains_prevus": 700,
+    "trains_realises": 696,
+    "trains_annules": 4,
+    "retards": 95,
+    "ponctualite": 86.4,
+    "timestamp": "2025-12-06T22:09:27.296768"
+  },
+  {
+    "_id": {
+      "$oid": "6934a99c0a69a3f3b1a042cd"
+    },
+    "date": "2012-04",
+    "region": "Sud-Est",
+    "depart": "MARSEILLE ST CHARLES",
+    "arrivee": "ANNECY",
+    "trains_prevus": 109,
+    "trains_realises": 109,
+    "trains_annules": 0,
+    "retards": 16,
+    "ponctualite": 86.2,
+    "timestamp": "2025-12-06T22:09:32.316661"
+  },
+  {
+    "_id": {
+      "$oid": "6934a9a60a69a3f3b1a042ce"
+    },
+    "date": "2018-06",
+    "region": "Est",
+    "depart": "REIMS",
+    "arrivee": "MULHOUSE VILLE",
+    "trains_prevus": 575,
+    "trains_realises": 567,
+    "trains_annules": 8,
+    "retards": 59,
+    "ponctualite": 89.7,
+    "timestamp": "2025-12-06T22:09:42.341781"
+  },
+  {
+    "_id": {
+      "$oid": "6934a9c40a69a3f3b1a042cf"
+    },
+    "date": "2017-01",
+    "region": "Est",
+    "depart": "PARIS EST",
+    "arrivee": "MULHOUSE VILLE",
+    "trains_prevus": 555,
+    "trains_realises": 547,
+    "trains_annules": 8,
+    "retards": 62,
+    "ponctualite": 88.7,
+    "timestamp": "2025-12-06T22:10:12.460386"
+  },
+  {
+    "_id": {
+      "$oid": "6934a9c90a69a3f3b1a042d0"
+    },
+    "date": "2021-02",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "DOUAI",
+    "trains_prevus": 492,
+    "trains_realises": 485,
+    "trains_annules": 7,
+    "retards": 45,
+    "ponctualite": 90.9,
+    "timestamp": "2025-12-06T22:10:17.501143"
+  },
+  {
+    "_id": {
+      "$oid": "6934a9d30a69a3f3b1a042d1"
+    },
+    "date": "2020-02",
+    "region": "Est",
+    "depart": "PARIS EST",
+    "arrivee": "REIMS",
+    "trains_prevus": 260,
+    "trains_realises": 256,
+    "trains_annules": 4,
+    "retards": 68,
+    "ponctualite": 73.8,
+    "timestamp": "2025-12-06T22:10:27.617506"
+  },
+  {
+    "_id": {
+      "$oid": "6934a9dd0a69a3f3b1a042d2"
+    },
+    "date": "2015-04",
+    "region": "Est",
+    "depart": "NANCY",
+    "arrivee": "METZ",
+    "trains_prevus": 179,
+    "trains_realises": 176,
+    "trains_annules": 3,
+    "retards": 31,
+    "ponctualite": 82.4,
+    "timestamp": "2025-12-06T22:10:37.657512"
+  },
+  {
+    "_id": {
+      "$oid": "6934a9e70a69a3f3b1a042d3"
+    },
+    "date": "2011-11",
+    "region": "Atlantique",
+    "depart": "BORDEAUX ST JEAN",
+    "arrivee": "POITIERS",
+    "trains_prevus": 595,
+    "trains_realises": 587,
+    "trains_annules": 8,
+    "retards": 131,
+    "ponctualite": 77.7,
+    "timestamp": "2025-12-06T22:10:47.684859"
+  },
+  {
+    "_id": {
+      "$oid": "6934a9f60a69a3f3b1a042d4"
+    },
+    "date": "2015-02",
+    "region": "Atlantique",
+    "depart": "POITIERS",
+    "arrivee": "QUIMPER",
+    "trains_prevus": 514,
+    "trains_realises": 506,
+    "trains_annules": 8,
+    "retards": 77,
+    "ponctualite": 84.9,
+    "timestamp": "2025-12-06T22:11:02.804979"
+  },
+  {
+    "_id": {
+      "$oid": "6934a9fb0a69a3f3b1a042d5"
+    },
+    "date": "2023-08",
+    "region": "Atlantique",
+    "depart": "PARIS MONTPARNASSE",
+    "arrivee": "ANGERS SAINT LAUD",
+    "trains_prevus": 660,
+    "trains_realises": 651,
+    "trains_annules": 9,
+    "retards": 81,
+    "ponctualite": 87.6,
+    "timestamp": "2025-12-06T22:11:07.862803"
+  },
+  {
+    "_id": {
+      "$oid": "6934aa0a0a69a3f3b1a042d6"
+    },
+    "date": "2014-06",
+    "region": "Sud-Est",
+    "depart": "CHAMBERY CHALLES LES EAUX",
+    "arrivee": "MONTPELLIER",
+    "trains_prevus": 470,
+    "trains_realises": 462,
+    "trains_annules": 8,
+    "retards": 33,
+    "ponctualite": 93,
+    "timestamp": "2025-12-06T22:11:22.885156"
+  },
+  {
+    "_id": {
+      "$oid": "6934aa100a69a3f3b1a042d7"
+    },
+    "date": "2015-01",
+    "region": "Est",
+    "depart": "REIMS",
+    "arrivee": "PARIS EST",
+    "trains_prevus": 142,
+    "trains_realises": 140,
+    "trains_annules": 2,
+    "retards": 36,
+    "ponctualite": 74.5,
+    "timestamp": "2025-12-06T22:11:28.008224"
+  },
+  {
+    "_id": {
+      "$oid": "6934aa1a0a69a3f3b1a042d8"
+    },
+    "date": "2011-10",
+    "region": "Sud-Est",
+    "depart": "DIJON VILLE",
+    "arrivee": "VALENCE ALIXAN TGV",
+    "trains_prevus": 334,
+    "trains_realises": 332,
+    "trains_annules": 2,
+    "retards": 89,
+    "ponctualite": 73.3,
+    "timestamp": "2025-12-06T22:11:38.055040"
+  },
+  {
+    "_id": {
+      "$oid": "6934aa26109cd8dd1bddd4b4"
+    },
+    "date": "2019-02",
+    "region": "Atlantique",
+    "depart": "ANGERS SAINT LAUD",
+    "arrivee": "LA ROCHELLE VILLE",
+    "trains_prevus": 688,
+    "trains_realises": 677,
+    "trains_annules": 11,
+    "retards": 121,
+    "ponctualite": 82.2,
+    "timestamp": "2025-12-06T22:11:50.199486"
+  },
+  {
+    "_id": {
+      "$oid": "6934aa30109cd8dd1bddd4b5"
+    },
+    "date": "2018-04",
+    "region": "Est",
+    "depart": "REIMS",
+    "arrivee": "MULHOUSE VILLE",
+    "trains_prevus": 125,
+    "trains_realises": 124,
+    "trains_annules": 1,
+    "retards": 8,
+    "ponctualite": 94.1,
+    "timestamp": "2025-12-06T22:12:00.301410"
+  },
+  {
+    "_id": {
+      "$oid": "6934aa4e109cd8dd1bddd4b6"
+    },
+    "date": "2023-07",
+    "region": "Atlantique",
+    "depart": "TOURS",
+    "arrivee": "ST MALO",
+    "trains_prevus": 376,
+    "trains_realises": 371,
+    "trains_annules": 5,
+    "retards": 92,
+    "ponctualite": 75.3,
+    "timestamp": "2025-12-06T22:12:30.412633"
+  },
+  {
+    "_id": {
+      "$oid": "6934aa58109cd8dd1bddd4b7"
+    },
+    "date": "2020-08",
+    "region": "Est",
+    "depart": "PARIS EST",
+    "arrivee": "REIMS",
+    "trains_prevus": 438,
+    "trains_realises": 433,
+    "trains_annules": 5,
+    "retards": 126,
+    "ponctualite": 71.1,
+    "timestamp": "2025-12-06T22:12:40.456911"
+  },
+  {
+    "_id": {
+      "$oid": "6934aa62109cd8dd1bddd4b8"
+    },
+    "date": "2019-10",
+    "region": "Sud-Est",
+    "depart": "ANNECY",
+    "arrivee": "CHAMBERY CHALLES LES EAUX",
+    "trains_prevus": 313,
+    "trains_realises": 310,
+    "trains_annules": 3,
+    "retards": 77,
+    "ponctualite": 75.3,
+    "timestamp": "2025-12-06T22:12:50.474405"
+  },
+  {
+    "_id": {
+      "$oid": "6934aa71109cd8dd1bddd4b9"
+    },
+    "date": "2011-10",
+    "region": "Atlantique",
+    "depart": "RENNES",
+    "arrivee": "ANGOULEME",
+    "trains_prevus": 76,
+    "trains_realises": 76,
+    "trains_annules": 0,
+    "retards": 17,
+    "ponctualite": 78.8,
+    "timestamp": "2025-12-06T22:13:05.599896"
+  },
+  {
+    "_id": {
+      "$oid": "6934aa80109cd8dd1bddd4ba"
+    },
+    "date": "2023-07",
+    "region": "Atlantique",
+    "depart": "LA ROCHELLE VILLE",
+    "arrivee": "LAVAL",
+    "trains_prevus": 477,
+    "trains_realises": 469,
+    "trains_annules": 8,
+    "retards": 99,
+    "ponctualite": 78.9,
+    "timestamp": "2025-12-06T22:13:20.649868"
+  },
+  {
+    "_id": {
+      "$oid": "6934aa8a109cd8dd1bddd4bb"
+    },
+    "date": "2016-08",
+    "region": "Est",
+    "depart": "PARIS EST",
+    "arrivee": "METZ",
+    "trains_prevus": 663,
+    "trains_realises": 658,
+    "trains_annules": 5,
+    "retards": 36,
+    "ponctualite": 94.6,
+    "timestamp": "2025-12-06T22:13:30.781305"
+  },
+  {
+    "_id": {
+      "$oid": "6934aa8f109cd8dd1bddd4bc"
+    },
+    "date": "2013-11",
+    "region": "Atlantique",
+    "depart": "BORDEAUX ST JEAN",
+    "arrivee": "POITIERS",
+    "trains_prevus": 510,
+    "trains_realises": 510,
+    "trains_annules": 0,
+    "retards": 18,
+    "ponctualite": 96.6,
+    "timestamp": "2025-12-06T22:13:35.810457"
+  },
+  {
+    "_id": {
+      "$oid": "6934aaad109cd8dd1bddd4bd"
+    },
+    "date": "2014-03",
+    "region": "Sud-Est",
+    "depart": "SAINT ETIENNE CHATEAUCREUX",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 585,
+    "trains_realises": 580,
+    "trains_annules": 5,
+    "retards": 171,
+    "ponctualite": 70.6,
+    "timestamp": "2025-12-06T22:14:05.943453"
+  },
+  {
+    "_id": {
+      "$oid": "6934aacc109cd8dd1bddd4be"
+    },
+    "date": "2013-04",
+    "region": "Sud-Est",
+    "depart": "GRENOBLE",
+    "arrivee": "SAINT ETIENNE CHATEAUCREUX",
+    "trains_prevus": 324,
+    "trains_realises": 323,
+    "trains_annules": 1,
+    "retards": 66,
+    "ponctualite": 79.7,
+    "timestamp": "2025-12-06T22:14:36.066224"
+  },
+  {
+    "_id": {
+      "$oid": "6934aad6109cd8dd1bddd4bf"
+    },
+    "date": "2014-02",
+    "region": "Est",
+    "depart": "PARIS EST",
+    "arrivee": "STRASBOURG",
+    "trains_prevus": 265,
+    "trains_realises": 262,
+    "trains_annules": 3,
+    "retards": 69,
+    "ponctualite": 74,
+    "timestamp": "2025-12-06T22:14:46.089480"
+  },
+  {
+    "_id": {
+      "$oid": "6934aae5109cd8dd1bddd4c0"
+    },
+    "date": "2016-01",
+    "region": "Atlantique",
+    "depart": "BREST",
+    "arrivee": "TOURS",
+    "trains_prevus": 562,
+    "trains_realises": 556,
+    "trains_annules": 6,
+    "retards": 145,
+    "ponctualite": 74,
+    "timestamp": "2025-12-06T22:15:01.207511"
+  },
+  {
+    "_id": {
+      "$oid": "6934aaf4109cd8dd1bddd4c1"
+    },
+    "date": "2014-01",
+    "region": "Atlantique",
+    "depart": "BREST",
+    "arrivee": "LAVAL",
+    "trains_prevus": 148,
+    "trains_realises": 147,
+    "trains_annules": 1,
+    "retards": 8,
+    "ponctualite": 94.7,
+    "timestamp": "2025-12-06T22:15:16.251980"
+  },
+  {
+    "_id": {
+      "$oid": "6934aafe109cd8dd1bddd4c2"
+    },
+    "date": "2021-06",
+    "region": "Sud-Est",
+    "depart": "PERPIGNAN",
+    "arrivee": "MARSEILLE ST CHARLES",
+    "trains_prevus": 568,
+    "trains_realises": 565,
+    "trains_annules": 3,
+    "retards": 17,
+    "ponctualite": 97,
+    "timestamp": "2025-12-06T22:15:26.274517"
+  },
+  {
+    "_id": {
+      "$oid": "6934ab03109cd8dd1bddd4c3"
+    },
+    "date": "2013-04",
+    "region": "Est",
+    "depart": "MULHOUSE VILLE",
+    "arrivee": "NANTES",
+    "trains_prevus": 195,
+    "trains_realises": 194,
+    "trains_annules": 1,
+    "retards": 19,
+    "ponctualite": 90.5,
+    "timestamp": "2025-12-06T22:15:31.404467"
+  },
+  {
+    "_id": {
+      "$oid": "6934ab12109cd8dd1bddd4c4"
+    },
+    "date": "2017-03",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "LILLE",
+    "trains_prevus": 352,
+    "trains_realises": 347,
+    "trains_annules": 5,
+    "retards": 22,
+    "ponctualite": 93.8,
+    "timestamp": "2025-12-06T22:15:46.460154"
+  },
+  {
+    "_id": {
+      "$oid": "6934ab1c109cd8dd1bddd4c5"
+    },
+    "date": "2014-04",
+    "region": "Est",
+    "depart": "STRASBOURG",
+    "arrivee": "REIMS",
+    "trains_prevus": 534,
+    "trains_realises": 527,
+    "trains_annules": 7,
+    "retards": 25,
+    "ponctualite": 95.3,
+    "timestamp": "2025-12-06T22:15:56.488917"
+  },
+  {
+    "_id": {
+      "$oid": "6934ab21109cd8dd1bddd4c6"
+    },
+    "date": "2012-02",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "DOUAI",
+    "trains_prevus": 275,
+    "trains_realises": 271,
+    "trains_annules": 4,
+    "retards": 18,
+    "ponctualite": 93.7,
+    "timestamp": "2025-12-06T22:16:01.613575"
+  },
+  {
+    "_id": {
+      "$oid": "6934ab3f109cd8dd1bddd4c7"
+    },
+    "date": "2019-07",
+    "region": "Atlantique",
+    "depart": "RENNES",
+    "arrivee": "ST MALO",
+    "trains_prevus": 478,
+    "trains_realises": 474,
+    "trains_annules": 4,
+    "retards": 47,
+    "ponctualite": 90.2,
+    "timestamp": "2025-12-06T22:16:31.760920"
+  },
+  {
+    "_id": {
+      "$oid": "6934ab49109cd8dd1bddd4c8"
+    },
+    "date": "2020-03",
+    "region": "Sud-Est",
+    "depart": "MARSEILLE ST CHARLES",
+    "arrivee": "DIJON VILLE",
+    "trains_prevus": 662,
+    "trains_realises": 660,
+    "trains_annules": 2,
+    "retards": 150,
+    "ponctualite": 77.3,
+    "timestamp": "2025-12-06T22:16:41.797331"
+  },
+  {
+    "_id": {
+      "$oid": "6934ab4e109cd8dd1bddd4c9"
+    },
+    "date": "2018-07",
+    "region": "Sud-Est",
+    "depart": "AVIGNON TGV",
+    "arrivee": "BESANCON FRANCHE COMTE TGV",
+    "trains_prevus": 288,
+    "trains_realises": 287,
+    "trains_annules": 1,
+    "retards": 85,
+    "ponctualite": 70.7,
+    "timestamp": "2025-12-06T22:16:46.837310"
+  },
+  {
+    "_id": {
+      "$oid": "6934ab53109cd8dd1bddd4ca"
+    },
+    "date": "2024-10",
+    "region": "Nord",
+    "depart": "DUNKERQUE",
+    "arrivee": "PARIS NORD",
+    "trains_prevus": 610,
+    "trains_realises": 601,
+    "trains_annules": 9,
+    "retards": 81,
+    "ponctualite": 86.6,
+    "timestamp": "2025-12-06T22:16:51.857891"
+  },
+  {
+    "_id": {
+      "$oid": "6934ab5e109cd8dd1bddd4cb"
+    },
+    "date": "2018-04",
+    "region": "Est",
+    "depart": "MULHOUSE VILLE",
+    "arrivee": "METZ",
+    "trains_prevus": 671,
+    "trains_realises": 662,
+    "trains_annules": 9,
+    "retards": 87,
+    "ponctualite": 87,
+    "timestamp": "2025-12-06T22:17:01.973907"
+  },
+  {
+    "_id": {
+      "$oid": "6934ab7c109cd8dd1bddd4cc"
+    },
+    "date": "2021-01",
+    "region": "Atlantique",
+    "depart": "ST PIERRE DES CORPS",
+    "arrivee": "LA ROCHELLE VILLE",
+    "trains_prevus": 498,
+    "trains_realises": 495,
+    "trains_annules": 3,
+    "retards": 124,
+    "ponctualite": 75,
+    "timestamp": "2025-12-06T22:17:32.135916"
+  },
+  {
+    "_id": {
+      "$oid": "6934ab9a109cd8dd1bddd4cd"
+    },
+    "date": "2020-12",
+    "region": "Sud-Est",
+    "depart": "AIX EN PROVENCE TGV",
+    "arrivee": "BELLEGARDE (AIN)",
+    "trains_prevus": 372,
+    "trains_realises": 367,
+    "trains_annules": 5,
+    "retards": 61,
+    "ponctualite": 83.5,
+    "timestamp": "2025-12-06T22:18:02.252096"
+  },
+  {
+    "_id": {
+      "$oid": "6934aba4109cd8dd1bddd4ce"
+    },
+    "date": "2020-03",
+    "region": "Sud-Est",
+    "depart": "NIMES",
+    "arrivee": "PERPIGNAN",
+    "trains_prevus": 146,
+    "trains_realises": 144,
+    "trains_annules": 2,
+    "retards": 17,
+    "ponctualite": 88.4,
+    "timestamp": "2025-12-06T22:18:12.296552"
+  },
+  {
+    "_id": {
+      "$oid": "6934aba9109cd8dd1bddd4cf"
+    },
+    "date": "2021-08",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "TOULON",
+    "trains_prevus": 250,
+    "trains_realises": 250,
+    "trains_annules": 0,
+    "retards": 45,
+    "ponctualite": 82.1,
+    "timestamp": "2025-12-06T22:18:17.320572"
+  },
+  {
+    "_id": {
+      "$oid": "6934abc7109cd8dd1bddd4d0"
+    },
+    "date": "2020-11",
+    "region": "Nord",
+    "depart": "ARRAS",
+    "arrivee": "LILLE",
+    "trains_prevus": 535,
+    "trains_realises": 535,
+    "trains_annules": 0,
+    "retards": 25,
+    "ponctualite": 95.5,
+    "timestamp": "2025-12-06T22:18:47.463986"
+  },
+  {
+    "_id": {
+      "$oid": "6934abcc109cd8dd1bddd4d1"
+    },
+    "date": "2014-01",
+    "region": "Nord",
+    "depart": "LILLE",
+    "arrivee": "ARRAS",
+    "trains_prevus": 261,
+    "trains_realises": 257,
+    "trains_annules": 4,
+    "retards": 22,
+    "ponctualite": 91.6,
+    "timestamp": "2025-12-06T22:18:52.483596"
+  },
+  {
+    "_id": {
+      "$oid": "6934abea109cd8dd1bddd4d2"
+    },
+    "date": "2025-08",
+    "region": "Est",
+    "depart": "NANTES",
+    "arrivee": "METZ",
+    "trains_prevus": 50,
+    "trains_realises": 50,
+    "trains_annules": 0,
+    "retards": 10,
+    "ponctualite": 81,
+    "timestamp": "2025-12-06T22:19:22.604422"
+  },
+  {
+    "_id": {
+      "$oid": "6934abf4109cd8dd1bddd4d3"
+    },
+    "date": "2017-04",
+    "region": "Sud-Est",
+    "depart": "CHAMBERY CHALLES LES EAUX",
+    "arrivee": "AIX EN PROVENCE TGV",
+    "trains_prevus": 637,
+    "trains_realises": 628,
+    "trains_annules": 9,
+    "retards": 97,
+    "ponctualite": 84.7,
+    "timestamp": "2025-12-06T22:19:32.729076"
+  },
+  {
+    "_id": {
+      "$oid": "6934ac12109cd8dd1bddd4d4"
+    },
+    "date": "2015-06",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "DUNKERQUE",
+    "trains_prevus": 656,
+    "trains_realises": 655,
+    "trains_annules": 1,
+    "retards": 36,
+    "ponctualite": 94.6,
+    "timestamp": "2025-12-06T22:20:02.867152"
+  },
+  {
+    "_id": {
+      "$oid": "6934ac31109cd8dd1bddd4d5"
+    },
+    "date": "2022-03",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "ARRAS",
+    "trains_prevus": 542,
+    "trains_realises": 541,
+    "trains_annules": 1,
+    "retards": 125,
+    "ponctualite": 77,
+    "timestamp": "2025-12-06T22:20:33.024740"
+  },
+  {
+    "_id": {
+      "$oid": "6934ac36109cd8dd1bddd4d6"
+    },
+    "date": "2011-09",
+    "region": "Est",
+    "depart": "NANCY",
+    "arrivee": "METZ",
+    "trains_prevus": 646,
+    "trains_realises": 637,
+    "trains_annules": 9,
+    "retards": 147,
+    "ponctualite": 77,
+    "timestamp": "2025-12-06T22:20:38.063160"
+  },
+  {
+    "_id": {
+      "$oid": "6934ac45109cd8dd1bddd4d7"
+    },
+    "date": "2015-11",
+    "region": "Sud-Est",
+    "depart": "AIX EN PROVENCE TGV",
+    "arrivee": "TOULON",
+    "trains_prevus": 618,
+    "trains_realises": 608,
+    "trains_annules": 10,
+    "retards": 141,
+    "ponctualite": 76.9,
+    "timestamp": "2025-12-06T22:20:53.111946"
+  },
+  {
+    "_id": {
+      "$oid": "6934ac4a109cd8dd1bddd4d8"
+    },
+    "date": "2025-10",
+    "region": "Atlantique",
+    "depart": "BORDEAUX ST JEAN",
+    "arrivee": "NANTES",
+    "trains_prevus": 168,
+    "trains_realises": 167,
+    "trains_annules": 1,
+    "retards": 25,
+    "ponctualite": 85.5,
+    "timestamp": "2025-12-06T22:20:58.146150"
+  },
+  {
+    "_id": {
+      "$oid": "6934ac54109cd8dd1bddd4d9"
+    },
+    "date": "2021-04",
+    "region": "Est",
+    "depart": "REIMS",
+    "arrivee": "MULHOUSE VILLE",
+    "trains_prevus": 333,
+    "trains_realises": 331,
+    "trains_annules": 2,
+    "retards": 17,
+    "ponctualite": 95.1,
+    "timestamp": "2025-12-06T22:21:08.261752"
+  },
+  {
+    "_id": {
+      "$oid": "6934ac72109cd8dd1bddd4da"
+    },
+    "date": "2025-09",
+    "region": "Nord",
+    "depart": "LILLE",
+    "arrivee": "DUNKERQUE",
+    "trains_prevus": 666,
+    "trains_realises": 665,
+    "trains_annules": 1,
+    "retards": 147,
+    "ponctualite": 78,
+    "timestamp": "2025-12-06T22:21:38.392344"
+  },
+  {
+    "_id": {
+      "$oid": "6934ac81109cd8dd1bddd4db"
+    },
+    "date": "2024-07",
+    "region": "Est",
+    "depart": "METZ",
+    "arrivee": "REIMS",
+    "trains_prevus": 649,
+    "trains_realises": 647,
+    "trains_annules": 2,
+    "retards": 33,
+    "ponctualite": 94.9,
+    "timestamp": "2025-12-06T22:21:53.426684"
+  },
+  {
+    "_id": {
+      "$oid": "6934ac8b109cd8dd1bddd4dc"
+    },
+    "date": "2017-09",
+    "region": "Est",
+    "depart": "PARIS EST",
+    "arrivee": "REIMS",
+    "trains_prevus": 515,
+    "trains_realises": 515,
+    "trains_annules": 0,
+    "retards": 15,
+    "ponctualite": 97.2,
+    "timestamp": "2025-12-06T22:22:03.526420"
+  },
+  {
+    "_id": {
+      "$oid": "6934ac9a109cd8dd1bddd4dd"
+    },
+    "date": "2021-10",
+    "region": "Atlantique",
+    "depart": "LA ROCHELLE VILLE",
+    "arrivee": "NANTES",
+    "trains_prevus": 119,
+    "trains_realises": 119,
+    "trains_annules": 0,
+    "retards": 23,
+    "ponctualite": 81.3,
+    "timestamp": "2025-12-06T22:22:18.547591"
+  },
+  {
+    "_id": {
+      "$oid": "6934acb8109cd8dd1bddd4de"
+    },
+    "date": "2020-04",
+    "region": "Sud-Est",
+    "depart": "TOULON",
+    "arrivee": "NICE VILLE",
+    "trains_prevus": 498,
+    "trains_realises": 493,
+    "trains_annules": 5,
+    "retards": 76,
+    "ponctualite": 84.7,
+    "timestamp": "2025-12-06T22:22:48.648229"
+  },
+  {
+    "_id": {
+      "$oid": "6934acc2109cd8dd1bddd4df"
+    },
+    "date": "2018-12",
+    "region": "Sud-Est",
+    "depart": "PERPIGNAN",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 491,
+    "trains_realises": 483,
+    "trains_annules": 8,
+    "retards": 19,
+    "ponctualite": 96.1,
+    "timestamp": "2025-12-06T22:22:58.671903"
+  },
+  {
+    "_id": {
+      "$oid": "6934ace0109cd8dd1bddd4e0"
+    },
+    "date": "2024-12",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "DUNKERQUE",
+    "trains_prevus": 524,
+    "trains_realises": 522,
+    "trains_annules": 2,
+    "retards": 151,
+    "ponctualite": 71.2,
+    "timestamp": "2025-12-06T22:23:28.789625"
+  },
+  {
+    "_id": {
+      "$oid": "6934acfe109cd8dd1bddd4e1"
+    },
+    "date": "2022-05",
+    "region": "Nord",
+    "depart": "DOUAI",
+    "arrivee": "ARRAS",
+    "trains_prevus": 469,
+    "trains_realises": 462,
+    "trains_annules": 7,
+    "retards": 127,
+    "ponctualite": 72.7,
+    "timestamp": "2025-12-06T22:23:58.910596"
+  },
+  {
+    "_id": {
+      "$oid": "6934ad09109cd8dd1bddd4e2"
+    },
+    "date": "2024-06",
+    "region": "Atlantique",
+    "depart": "POITIERS",
+    "arrivee": "ST PIERRE DES CORPS",
+    "trains_prevus": 512,
+    "trains_realises": 510,
+    "trains_annules": 2,
+    "retards": 52,
+    "ponctualite": 89.9,
+    "timestamp": "2025-12-06T22:24:09.023861"
+  },
+  {
+    "_id": {
+      "$oid": "6934ad0e109cd8dd1bddd4e3"
+    },
+    "date": "2024-07",
+    "region": "Est",
+    "depart": "NANCY",
+    "arrivee": "STRASBOURG",
+    "trains_prevus": 245,
+    "trains_realises": 241,
+    "trains_annules": 4,
+    "retards": 47,
+    "ponctualite": 80.6,
+    "timestamp": "2025-12-06T22:24:14.043231"
+  },
+  {
+    "_id": {
+      "$oid": "6934ad18109cd8dd1bddd4e4"
+    },
+    "date": "2014-10",
+    "region": "Est",
+    "depart": "STRASBOURG",
+    "arrivee": "MULHOUSE VILLE",
+    "trains_prevus": 504,
+    "trains_realises": 503,
+    "trains_annules": 1,
+    "retards": 81,
+    "ponctualite": 83.9,
+    "timestamp": "2025-12-06T22:24:24.080581"
+  },
+  {
+    "_id": {
+      "$oid": "6934ad1d109cd8dd1bddd4e5"
+    },
+    "date": "2018-02",
+    "region": "Est",
+    "depart": "REIMS",
+    "arrivee": "NANCY",
+    "trains_prevus": 94,
+    "trains_realises": 94,
+    "trains_annules": 0,
+    "retards": 18,
+    "ponctualite": 81.3,
+    "timestamp": "2025-12-06T22:24:29.098815"
+  },
+  {
+    "_id": {
+      "$oid": "6934ad2c109cd8dd1bddd4e6"
+    },
+    "date": "2013-04",
+    "region": "Sud-Est",
+    "depart": "VALENCE ALIXAN TGV",
+    "arrivee": "MACON LOCHE",
+    "trains_prevus": 294,
+    "trains_realises": 294,
+    "trains_annules": 0,
+    "retards": 49,
+    "ponctualite": 83.4,
+    "timestamp": "2025-12-06T22:24:44.193685"
+  },
+  {
+    "_id": {
+      "$oid": "6934ad31109cd8dd1bddd4e7"
+    },
+    "date": "2013-02",
+    "region": "Atlantique",
+    "depart": "LE MANS",
+    "arrivee": "BORDEAUX ST JEAN",
+    "trains_prevus": 295,
+    "trains_realises": 292,
+    "trains_annules": 3,
+    "retards": 18,
+    "ponctualite": 94,
+    "timestamp": "2025-12-06T22:24:49.229972"
+  },
+  {
+    "_id": {
+      "$oid": "6934ad4f109cd8dd1bddd4e8"
+    },
+    "date": "2022-01",
+    "region": "Sud-Est",
+    "depart": "MACON LOCHE",
+    "arrivee": "PERPIGNAN",
+    "trains_prevus": 453,
+    "trains_realises": 453,
+    "trains_annules": 0,
+    "retards": 131,
+    "ponctualite": 71.3,
+    "timestamp": "2025-12-06T22:25:19.362751"
+  },
+  {
+    "_id": {
+      "$oid": "6934ad59109cd8dd1bddd4e9"
+    },
+    "date": "2017-09",
+    "region": "Nord",
+    "depart": "LILLE",
+    "arrivee": "DOUAI",
+    "trains_prevus": 446,
+    "trains_realises": 444,
+    "trains_annules": 2,
+    "retards": 11,
+    "ponctualite": 97.7,
+    "timestamp": "2025-12-06T22:25:29.408969"
+  },
+  {
+    "_id": {
+      "$oid": "6934ad63109cd8dd1bddd4ea"
+    },
+    "date": "2013-10",
+    "region": "Est",
+    "depart": "MULHOUSE VILLE",
+    "arrivee": "STRASBOURG",
+    "trains_prevus": 519,
+    "trains_realises": 511,
+    "trains_annules": 8,
+    "retards": 107,
+    "ponctualite": 79.2,
+    "timestamp": "2025-12-06T22:25:39.490053"
+  },
+  {
+    "_id": {
+      "$oid": "6934ad68109cd8dd1bddd4eb"
+    },
+    "date": "2011-11",
+    "region": "Est",
+    "depart": "NANCY",
+    "arrivee": "PARIS EST",
+    "trains_prevus": 88,
+    "trains_realises": 87,
+    "trains_annules": 1,
+    "retards": 10,
+    "ponctualite": 89.3,
+    "timestamp": "2025-12-06T22:25:44.507102"
+  },
+  {
+    "_id": {
+      "$oid": "6934ad72109cd8dd1bddd4ec"
+    },
+    "date": "2013-11",
+    "region": "Atlantique",
+    "depart": "LA ROCHELLE VILLE",
+    "arrivee": "POITIERS",
+    "trains_prevus": 420,
+    "trains_realises": 415,
+    "trains_annules": 5,
+    "retards": 53,
+    "ponctualite": 87.3,
+    "timestamp": "2025-12-06T22:25:54.553133"
+  },
+  {
+    "_id": {
+      "$oid": "6934ad81109cd8dd1bddd4ed"
+    },
+    "date": "2015-07",
+    "region": "Est",
+    "depart": "PARIS EST",
+    "arrivee": "NANCY",
+    "trains_prevus": 635,
+    "trains_realises": 626,
+    "trains_annules": 9,
+    "retards": 34,
+    "ponctualite": 94.6,
+    "timestamp": "2025-12-06T22:26:09.627166"
+  },
+  {
+    "_id": {
+      "$oid": "6934ad90109cd8dd1bddd4ee"
+    },
+    "date": "2020-04",
+    "region": "Sud-Est",
+    "depart": "LE CREUSOT MONTCEAU MONTCHANIN",
+    "arrivee": "GRENOBLE",
+    "trains_prevus": 584,
+    "trains_realises": 581,
+    "trains_annules": 3,
+    "retards": 147,
+    "ponctualite": 74.7,
+    "timestamp": "2025-12-06T22:26:24.663651"
+  },
+  {
+    "_id": {
+      "$oid": "6934ad9f109cd8dd1bddd4ef"
+    },
+    "date": "2025-10",
+    "region": "Est",
+    "depart": "STRASBOURG",
+    "arrivee": "MULHOUSE VILLE",
+    "trains_prevus": 198,
+    "trains_realises": 197,
+    "trains_annules": 1,
+    "retards": 40,
+    "ponctualite": 79.9,
+    "timestamp": "2025-12-06T22:26:39.739261"
+  },
+  {
+    "_id": {
+      "$oid": "6934ada9109cd8dd1bddd4f0"
+    },
+    "date": "2017-03",
+    "region": "Est",
+    "depart": "PARIS EST",
+    "arrivee": "REIMS",
+    "trains_prevus": 542,
+    "trains_realises": 535,
+    "trains_annules": 7,
+    "retards": 84,
+    "ponctualite": 84.4,
+    "timestamp": "2025-12-06T22:26:49.776857"
+  },
+  {
+    "_id": {
+      "$oid": "6934adc7109cd8dd1bddd4f1"
+    },
+    "date": "2021-02",
+    "region": "Nord",
+    "depart": "LILLE",
+    "arrivee": "DOUAI",
+    "trains_prevus": 552,
+    "trains_realises": 543,
+    "trains_annules": 9,
+    "retards": 46,
+    "ponctualite": 91.6,
+    "timestamp": "2025-12-06T22:27:19.871933"
+  },
+  {
+    "_id": {
+      "$oid": "6934add6109cd8dd1bddd4f2"
+    },
+    "date": "2020-12",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "LILLE",
+    "trains_prevus": 628,
+    "trains_realises": 619,
+    "trains_annules": 9,
+    "retards": 54,
+    "ponctualite": 91.4,
+    "timestamp": "2025-12-06T22:27:34.957068"
+  },
+  {
+    "_id": {
+      "$oid": "6934adf5109cd8dd1bddd4f3"
+    },
+    "date": "2024-10",
+    "region": "Est",
+    "depart": "REIMS",
+    "arrivee": "NANCY",
+    "trains_prevus": 332,
+    "trains_realises": 327,
+    "trains_annules": 5,
+    "retards": 57,
+    "ponctualite": 82.8,
+    "timestamp": "2025-12-06T22:28:05.061693"
+  },
+  {
+    "_id": {
+      "$oid": "6934ae13109cd8dd1bddd4f4"
+    },
+    "date": "2024-01",
+    "region": "Sud-Est",
+    "depart": "LE CREUSOT MONTCEAU MONTCHANIN",
+    "arrivee": "GRENOBLE",
+    "trains_prevus": 217,
+    "trains_realises": 217,
+    "trains_annules": 0,
+    "retards": 34,
+    "ponctualite": 84.4,
+    "timestamp": "2025-12-06T22:28:35.170579"
+  },
+  {
+    "_id": {
+      "$oid": "6934ae31109cd8dd1bddd4f5"
+    },
+    "date": "2020-10",
+    "region": "Est",
+    "depart": "NANCY",
+    "arrivee": "NANTES",
+    "trains_prevus": 666,
+    "trains_realises": 655,
+    "trains_annules": 11,
+    "retards": 88,
+    "ponctualite": 86.7,
+    "timestamp": "2025-12-06T22:29:05.286913"
+  },
+  {
+    "_id": {
+      "$oid": "6934ae40109cd8dd1bddd4f6"
+    },
+    "date": "2014-05",
+    "region": "Sud-Est",
+    "depart": "MACON LOCHE",
+    "arrivee": "BESANCON FRANCHE COMTE TGV",
+    "trains_prevus": 245,
+    "trains_realises": 245,
+    "trains_annules": 0,
+    "retards": 44,
+    "ponctualite": 82.3,
+    "timestamp": "2025-12-06T22:29:20.316008"
+  },
+  {
+    "_id": {
+      "$oid": "6934ae4a109cd8dd1bddd4f7"
+    },
+    "date": "2024-01",
+    "region": "Est",
+    "depart": "PARIS EST",
+    "arrivee": "STRASBOURG",
+    "trains_prevus": 227,
+    "trains_realises": 226,
+    "trains_annules": 1,
+    "retards": 55,
+    "ponctualite": 76.1,
+    "timestamp": "2025-12-06T22:29:30.415559"
+  },
+  {
+    "_id": {
+      "$oid": "6934ae59109cd8dd1bddd4f8"
+    },
+    "date": "2023-11",
+    "region": "Atlantique",
+    "depart": "ANGOULEME",
+    "arrivee": "RENNES",
+    "trains_prevus": 403,
+    "trains_realises": 398,
+    "trains_annules": 5,
+    "retards": 75,
+    "ponctualite": 81.3,
+    "timestamp": "2025-12-06T22:29:45.439271"
+  },
+  {
+    "_id": {
+      "$oid": "6934ae68109cd8dd1bddd4f9"
+    },
+    "date": "2018-06",
+    "region": "Nord",
+    "depart": "LILLE",
+    "arrivee": "DOUAI",
+    "trains_prevus": 98,
+    "trains_realises": 98,
+    "trains_annules": 0,
+    "retards": 20,
+    "ponctualite": 80.4,
+    "timestamp": "2025-12-06T22:30:00.548683"
+  },
+  {
+    "_id": {
+      "$oid": "6934ae77109cd8dd1bddd4fa"
+    },
+    "date": "2017-06",
+    "region": "Nord",
+    "depart": "LILLE",
+    "arrivee": "DOUAI",
+    "trains_prevus": 383,
+    "trains_realises": 381,
+    "trains_annules": 2,
+    "retards": 39,
+    "ponctualite": 89.8,
+    "timestamp": "2025-12-06T22:30:15.598369"
+  },
+  {
+    "_id": {
+      "$oid": "6934ae81109cd8dd1bddd4fb"
+    },
+    "date": "2016-01",
+    "region": "Nord",
+    "depart": "ARRAS",
+    "arrivee": "DUNKERQUE",
+    "trains_prevus": 134,
+    "trains_realises": 133,
+    "trains_annules": 1,
+    "retards": 22,
+    "ponctualite": 83.8,
+    "timestamp": "2025-12-06T22:30:25.642840"
+  },
+  {
+    "_id": {
+      "$oid": "6934ae86109cd8dd1bddd4fc"
+    },
+    "date": "2019-09",
+    "region": "Est",
+    "depart": "MULHOUSE VILLE",
+    "arrivee": "PARIS EST",
+    "trains_prevus": 678,
+    "trains_realises": 666,
+    "trains_annules": 12,
+    "retards": 192,
+    "ponctualite": 71.3,
+    "timestamp": "2025-12-06T22:30:30.746303"
+  },
+  {
+    "_id": {
+      "$oid": "6934aea4109cd8dd1bddd4fd"
+    },
+    "date": "2018-11",
+    "region": "Est",
+    "depart": "MULHOUSE VILLE",
+    "arrivee": "STRASBOURG",
+    "trains_prevus": 553,
+    "trains_realises": 543,
+    "trains_annules": 10,
+    "retards": 112,
+    "ponctualite": 79.4,
+    "timestamp": "2025-12-06T22:31:00.870739"
+  },
+  {
+    "_id": {
+      "$oid": "6934aeb3109cd8dd1bddd4fe"
+    },
+    "date": "2013-12",
+    "region": "Est",
+    "depart": "STRASBOURG",
+    "arrivee": "PARIS EST",
+    "trains_prevus": 653,
+    "trains_realises": 653,
+    "trains_annules": 0,
+    "retards": 15,
+    "ponctualite": 97.8,
+    "timestamp": "2025-12-06T22:31:15.911062"
+  },
+  {
+    "_id": {
+      "$oid": "6934aed2109cd8dd1bddd4ff"
+    },
+    "date": "2023-02",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "DOUAI",
+    "trains_prevus": 194,
+    "trains_realises": 193,
+    "trains_annules": 1,
+    "retards": 13,
+    "ponctualite": 93.3,
+    "timestamp": "2025-12-06T22:31:46.000988"
+  },
+  {
+    "_id": {
+      "$oid": "6934aee1109cd8dd1bddd500"
+    },
+    "date": "2015-05",
+    "region": "Atlantique",
+    "depart": "POITIERS",
+    "arrivee": "TOURS",
+    "trains_prevus": 337,
+    "trains_realises": 335,
+    "trains_annules": 2,
+    "retards": 90,
+    "ponctualite": 73.3,
+    "timestamp": "2025-12-06T22:32:01.079095"
+  },
+  {
+    "_id": {
+      "$oid": "6934aee6109cd8dd1bddd501"
+    },
+    "date": "2020-07",
+    "region": "Atlantique",
+    "depart": "PARIS MONTPARNASSE",
+    "arrivee": "LE MANS",
+    "trains_prevus": 513,
+    "trains_realises": 509,
+    "trains_annules": 4,
+    "retards": 118,
+    "ponctualite": 76.9,
+    "timestamp": "2025-12-06T22:32:06.094834"
+  },
+  {
+    "_id": {
+      "$oid": "6934af04109cd8dd1bddd502"
+    },
+    "date": "2016-07",
+    "region": "Est",
+    "depart": "NANCY",
+    "arrivee": "NANTES",
+    "trains_prevus": 582,
+    "trains_realises": 582,
+    "trains_annules": 0,
+    "retards": 53,
+    "ponctualite": 90.9,
+    "timestamp": "2025-12-06T22:32:36.202297"
+  },
+  {
+    "_id": {
+      "$oid": "6934af22109cd8dd1bddd503"
+    },
+    "date": "2019-09",
+    "region": "Sud-Est",
+    "depart": "NIMES",
+    "arrivee": "MARSEILLE ST CHARLES",
+    "trains_prevus": 546,
+    "trains_realises": 540,
+    "trains_annules": 6,
+    "retards": 111,
+    "ponctualite": 79.6,
+    "timestamp": "2025-12-06T22:33:06.372213"
+  },
+  {
+    "_id": {
+      "$oid": "6934af2c109cd8dd1bddd504"
+    },
+    "date": "2024-09",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "DUNKERQUE",
+    "trains_prevus": 299,
+    "trains_realises": 295,
+    "trains_annules": 4,
+    "retards": 78,
+    "ponctualite": 73.7,
+    "timestamp": "2025-12-06T22:33:16.413091"
+  },
+  {
+    "_id": {
+      "$oid": "6934af4a109cd8dd1bddd505"
+    },
+    "date": "2024-03",
+    "region": "Sud-Est",
+    "depart": "VALENCE ALIXAN TGV",
+    "arrivee": "AIX EN PROVENCE TGV",
+    "trains_prevus": 340,
+    "trains_realises": 335,
+    "trains_annules": 5,
+    "retards": 75,
+    "ponctualite": 77.8,
+    "timestamp": "2025-12-06T22:33:46.530866"
+  },
+  {
+    "_id": {
+      "$oid": "6934af68109cd8dd1bddd506"
+    },
+    "date": "2014-01",
+    "region": "Nord",
+    "depart": "LILLE",
+    "arrivee": "PARIS NORD",
+    "trains_prevus": 547,
+    "trains_realises": 545,
+    "trains_annules": 2,
+    "retards": 142,
+    "ponctualite": 74.1,
+    "timestamp": "2025-12-06T22:34:16.670910"
+  },
+  {
+    "_id": {
+      "$oid": "6934af6d109cd8dd1bddd507"
+    },
+    "date": "2016-07",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "DUNKERQUE",
+    "trains_prevus": 127,
+    "trains_realises": 125,
+    "trains_annules": 2,
+    "retards": 27,
+    "ponctualite": 78.5,
+    "timestamp": "2025-12-06T22:34:21.689651"
+  },
+  {
+    "_id": {
+      "$oid": "6934af77109cd8dd1bddd508"
+    },
+    "date": "2021-03",
+    "region": "Nord",
+    "depart": "LILLE",
+    "arrivee": "ARRAS",
+    "trains_prevus": 648,
+    "trains_realises": 645,
+    "trains_annules": 3,
+    "retards": 60,
+    "ponctualite": 90.8,
+    "timestamp": "2025-12-06T22:34:31.776314"
+  },
+  {
+    "_id": {
+      "$oid": "6934af81109cd8dd1bddd509"
+    },
+    "date": "2011-09",
+    "region": "Est",
+    "depart": "NANTES",
+    "arrivee": "STRASBOURG",
+    "trains_prevus": 617,
+    "trains_realises": 617,
+    "trains_annules": 0,
+    "retards": 112,
+    "ponctualite": 82,
+    "timestamp": "2025-12-06T22:34:41.817440"
+  },
+  {
+    "_id": {
+      "$oid": "6934af8b109cd8dd1bddd50a"
+    },
+    "date": "2018-01",
+    "region": "Est",
+    "depart": "NANCY",
+    "arrivee": "PARIS EST",
+    "trains_prevus": 73,
+    "trains_realises": 73,
+    "trains_annules": 0,
+    "retards": 11,
+    "ponctualite": 85.6,
+    "timestamp": "2025-12-06T22:34:51.858103"
+  },
+  {
+    "_id": {
+      "$oid": "6934af95109cd8dd1bddd50b"
+    },
+    "date": "2015-04",
+    "region": "Nord",
+    "depart": "LILLE",
+    "arrivee": "DUNKERQUE",
+    "trains_prevus": 587,
+    "trains_realises": 587,
+    "trains_annules": 0,
+    "retards": 34,
+    "ponctualite": 94.3,
+    "timestamp": "2025-12-06T22:35:01.944751"
+  },
+  {
+    "_id": {
+      "$oid": "6934af9a109cd8dd1bddd50c"
+    },
+    "date": "2017-01",
+    "region": "Nord",
+    "depart": "LILLE",
+    "arrivee": "DUNKERQUE",
+    "trains_prevus": 431,
+    "trains_realises": 431,
+    "trains_annules": 0,
+    "retards": 12,
+    "ponctualite": 97.3,
+    "timestamp": "2025-12-06T22:35:06.974461"
+  },
+  {
+    "_id": {
+      "$oid": "6934afa5109cd8dd1bddd50d"
+    },
+    "date": "2011-12",
+    "region": "Nord",
+    "depart": "LILLE",
+    "arrivee": "DOUAI",
+    "trains_prevus": 666,
+    "trains_realises": 654,
+    "trains_annules": 12,
+    "retards": 91,
+    "ponctualite": 86.1,
+    "timestamp": "2025-12-06T22:35:17.003229"
+  },
+  {
+    "_id": {
+      "$oid": "6934afc3109cd8dd1bddd50e"
+    },
+    "date": "2020-10",
+    "region": "Atlantique",
+    "depart": "QUIMPER",
+    "arrivee": "BORDEAUX ST JEAN",
+    "trains_prevus": 324,
+    "trains_realises": 323,
+    "trains_annules": 1,
+    "retards": 46,
+    "ponctualite": 85.9,
+    "timestamp": "2025-12-06T22:35:47.101683"
+  },
+  {
+    "_id": {
+      "$oid": "6934afd2109cd8dd1bddd50f"
+    },
+    "date": "2013-03",
+    "region": "Sud-Est",
+    "depart": "PERPIGNAN",
+    "arrivee": "LE CREUSOT MONTCEAU MONTCHANIN",
+    "trains_prevus": 697,
+    "trains_realises": 692,
+    "trains_annules": 5,
+    "retards": 177,
+    "ponctualite": 74.5,
+    "timestamp": "2025-12-06T22:36:02.169508"
+  },
+  {
+    "_id": {
+      "$oid": "6934aff0109cd8dd1bddd510"
+    },
+    "date": "2021-07",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "DUNKERQUE",
+    "trains_prevus": 291,
+    "trains_realises": 290,
+    "trains_annules": 1,
+    "retards": 50,
+    "ponctualite": 82.9,
+    "timestamp": "2025-12-06T22:36:32.235244"
+  },
+  {
+    "_id": {
+      "$oid": "6934afff109cd8dd1bddd511"
+    },
+    "date": "2016-03",
+    "region": "Est",
+    "depart": "NANCY",
+    "arrivee": "REIMS",
+    "trains_prevus": 591,
+    "trains_realises": 584,
+    "trains_annules": 7,
+    "retards": 135,
+    "ponctualite": 77,
+    "timestamp": "2025-12-06T22:36:47.283236"
+  },
+  {
+    "_id": {
+      "$oid": "6934b004109cd8dd1bddd512"
+    },
+    "date": "2013-06",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "DOUAI",
+    "trains_prevus": 463,
+    "trains_realises": 463,
+    "trains_annules": 0,
+    "retards": 93,
+    "ponctualite": 80.1,
+    "timestamp": "2025-12-06T22:36:52.306047"
+  },
+  {
+    "_id": {
+      "$oid": "6934b00e109cd8dd1bddd513"
+    },
+    "date": "2015-08",
+    "region": "Atlantique",
+    "depart": "ANGOULEME",
+    "arrivee": "QUIMPER",
+    "trains_prevus": 110,
+    "trains_realises": 108,
+    "trains_annules": 2,
+    "retards": 25,
+    "ponctualite": 77.2,
+    "timestamp": "2025-12-06T22:37:02.353108"
+  },
+  {
+    "_id": {
+      "$oid": "6934b02c109cd8dd1bddd514"
+    },
+    "date": "2025-03",
+    "region": "Est",
+    "depart": "STRASBOURG",
+    "arrivee": "NANTES",
+    "trains_prevus": 642,
+    "trains_realises": 636,
+    "trains_annules": 6,
+    "retards": 56,
+    "ponctualite": 91.2,
+    "timestamp": "2025-12-06T22:37:32.424382"
+  },
+  {
+    "_id": {
+      "$oid": "6934b031109cd8dd1bddd515"
+    },
+    "date": "2017-01",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "LILLE",
+    "trains_prevus": 553,
+    "trains_realises": 552,
+    "trains_annules": 1,
+    "retards": 39,
+    "ponctualite": 93.1,
+    "timestamp": "2025-12-06T22:37:37.444940"
+  },
+  {
+    "_id": {
+      "$oid": "6934b036109cd8dd1bddd516"
+    },
+    "date": "2012-01",
+    "region": "Sud-Est",
+    "depart": "ANNECY",
+    "arrivee": "NICE VILLE",
+    "trains_prevus": 568,
+    "trains_realises": 567,
+    "trains_annules": 1,
+    "retards": 68,
+    "ponctualite": 88.1,
+    "timestamp": "2025-12-06T22:37:42.481952"
+  },
+  {
+    "_id": {
+      "$oid": "6934b03b109cd8dd1bddd517"
+    },
+    "date": "2023-08",
+    "region": "Sud-Est",
+    "depart": "DIJON VILLE",
+    "arrivee": "SAINT ETIENNE CHATEAUCREUX",
+    "trains_prevus": 616,
+    "trains_realises": 613,
+    "trains_annules": 3,
+    "retards": 92,
+    "ponctualite": 85,
+    "timestamp": "2025-12-06T22:37:47.502236"
+  },
+  {
+    "_id": {
+      "$oid": "6934b045109cd8dd1bddd518"
+    },
+    "date": "2014-12",
+    "region": "Sud-Est",
+    "depart": "VALENCE ALIXAN TGV",
+    "arrivee": "CHAMBERY CHALLES LES EAUX",
+    "trains_prevus": 503,
+    "trains_realises": 503,
+    "trains_annules": 0,
+    "retards": 114,
+    "ponctualite": 77.4,
+    "timestamp": "2025-12-06T22:37:57.534470"
+  },
+  {
+    "_id": {
+      "$oid": "6934b04a109cd8dd1bddd519"
+    },
+    "date": "2012-08",
+    "region": "Sud-Est",
+    "depart": "NIMES",
+    "arrivee": "LE CREUSOT MONTCEAU MONTCHANIN",
+    "trains_prevus": 558,
+    "trains_realises": 558,
+    "trains_annules": 0,
+    "retards": 109,
+    "ponctualite": 80.5,
+    "timestamp": "2025-12-06T22:38:02.575218"
+  },
+  {
+    "_id": {
+      "$oid": "6934b059109cd8dd1bddd51a"
+    },
+    "date": "2020-03",
+    "region": "Atlantique",
+    "depart": "QUIMPER",
+    "arrivee": "BREST",
+    "trains_prevus": 629,
+    "trains_realises": 622,
+    "trains_annules": 7,
+    "retards": 106,
+    "ponctualite": 83,
+    "timestamp": "2025-12-06T22:38:17.603794"
+  },
+  {
+    "_id": {
+      "$oid": "6934b077109cd8dd1bddd51b"
+    },
+    "date": "2014-11",
+    "region": "Sud-Est",
+    "depart": "VALENCE ALIXAN TGV",
+    "arrivee": "GRENOBLE",
+    "trains_prevus": 503,
+    "trains_realises": 501,
+    "trains_annules": 2,
+    "retards": 76,
+    "ponctualite": 85,
+    "timestamp": "2025-12-06T22:38:47.696149"
+  },
+  {
+    "_id": {
+      "$oid": "6934b07c109cd8dd1bddd51c"
+    },
+    "date": "2022-10",
+    "region": "Est",
+    "depart": "REIMS",
+    "arrivee": "NANTES",
+    "trains_prevus": 57,
+    "trains_realises": 57,
+    "trains_annules": 0,
+    "retards": 6,
+    "ponctualite": 90.2,
+    "timestamp": "2025-12-06T22:38:52.724638"
+  },
+  {
+    "_id": {
+      "$oid": "6934b09a109cd8dd1bddd51d"
+    },
+    "date": "2020-06",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "DOUAI",
+    "trains_prevus": 390,
+    "trains_realises": 387,
+    "trains_annules": 3,
+    "retards": 44,
+    "ponctualite": 88.7,
+    "timestamp": "2025-12-06T22:39:22.807124"
+  },
+  {
+    "_id": {
+      "$oid": "6934b0a4109cd8dd1bddd51e"
+    },
+    "date": "2012-08",
+    "region": "Est",
+    "depart": "REIMS",
+    "arrivee": "NANCY",
+    "trains_prevus": 294,
+    "trains_realises": 290,
+    "trains_annules": 4,
+    "retards": 66,
+    "ponctualite": 77.3,
+    "timestamp": "2025-12-06T22:39:32.863948"
+  },
+  {
+    "_id": {
+      "$oid": "6934b0b4109cd8dd1bddd51f"
+    },
+    "date": "2022-10",
+    "region": "Sud-Est",
+    "depart": "GRENOBLE",
+    "arrivee": "AIX EN PROVENCE TGV",
+    "trains_prevus": 513,
+    "trains_realises": 513,
+    "trains_annules": 0,
+    "retards": 79,
+    "ponctualite": 84.7,
+    "timestamp": "2025-12-06T22:39:47.907075"
+  },
+  {
+    "_id": {
+      "$oid": "6934b0c3109cd8dd1bddd520"
+    },
+    "date": "2025-07",
+    "region": "Sud-Est",
+    "depart": "LE CREUSOT MONTCEAU MONTCHANIN",
+    "arrivee": "VALENCE ALIXAN TGV",
+    "trains_prevus": 409,
+    "trains_realises": 404,
+    "trains_annules": 5,
+    "retards": 29,
+    "ponctualite": 92.9,
+    "timestamp": "2025-12-06T22:40:03.099164"
+  },
+  {
+    "_id": {
+      "$oid": "6934b0c8109cd8dd1bddd521"
+    },
+    "date": "2023-06",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "ARRAS",
+    "trains_prevus": 485,
+    "trains_realises": 477,
+    "trains_annules": 8,
+    "retards": 131,
+    "ponctualite": 72.6,
+    "timestamp": "2025-12-06T22:40:08.120562"
+  },
+  {
+    "_id": {
+      "$oid": "6934b0cd109cd8dd1bddd522"
+    },
+    "date": "2024-06",
+    "region": "Sud-Est",
+    "depart": "BELLEGARDE (AIN)",
+    "arrivee": "NIMES",
+    "trains_prevus": 269,
+    "trains_realises": 267,
+    "trains_annules": 2,
+    "retards": 40,
+    "ponctualite": 85.2,
+    "timestamp": "2025-12-06T22:40:13.142431"
+  },
+  {
+    "_id": {
+      "$oid": "6934b0eb109cd8dd1bddd523"
+    },
+    "date": "2023-10",
+    "region": "Est",
+    "depart": "PARIS EST",
+    "arrivee": "NANCY",
+    "trains_prevus": 403,
+    "trains_realises": 402,
+    "trains_annules": 1,
+    "retards": 58,
+    "ponctualite": 85.7,
+    "timestamp": "2025-12-06T22:40:43.179261"
+  },
+  {
+    "_id": {
+      "$oid": "6934b0f0109cd8dd1bddd524"
+    },
+    "date": "2012-08",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "DOUAI",
+    "trains_prevus": 134,
+    "trains_realises": 133,
+    "trains_annules": 1,
+    "retards": 14,
+    "ponctualite": 90,
+    "timestamp": "2025-12-06T22:40:48.198571"
+  },
+  {
+    "_id": {
+      "$oid": "6934b0f5109cd8dd1bddd525"
+    },
+    "date": "2014-04",
+    "region": "Sud-Est",
+    "depart": "CHAMBERY CHALLES LES EAUX",
+    "arrivee": "MACON LOCHE",
+    "trains_prevus": 700,
+    "trains_realises": 695,
+    "trains_annules": 5,
+    "retards": 209,
+    "ponctualite": 70,
+    "timestamp": "2025-12-06T22:40:53.262320"
+  },
+  {
+    "_id": {
+      "$oid": "6934b0ff109cd8dd1bddd526"
+    },
+    "date": "2020-12",
+    "region": "Nord",
+    "depart": "LILLE",
+    "arrivee": "ARRAS",
+    "trains_prevus": 624,
+    "trains_realises": 621,
+    "trains_annules": 3,
+    "retards": 27,
+    "ponctualite": 95.7,
+    "timestamp": "2025-12-06T22:41:03.299395"
+  },
+  {
+    "_id": {
+      "$oid": "6934b10e109cd8dd1bddd527"
+    },
+    "date": "2016-08",
+    "region": "Nord",
+    "depart": "ARRAS",
+    "arrivee": "DUNKERQUE",
+    "trains_prevus": 401,
+    "trains_realises": 401,
+    "trains_annules": 0,
+    "retards": 104,
+    "ponctualite": 74.1,
+    "timestamp": "2025-12-06T22:41:18.343333"
+  },
+  {
+    "_id": {
+      "$oid": "6934b113109cd8dd1bddd528"
+    },
+    "date": "2020-02",
+    "region": "Nord",
+    "depart": "DUNKERQUE",
+    "arrivee": "ARRAS",
+    "trains_prevus": 572,
+    "trains_realises": 569,
+    "trains_annules": 3,
+    "retards": 166,
+    "ponctualite": 71,
+    "timestamp": "2025-12-06T22:41:23.363427"
+  },
+  {
+    "_id": {
+      "$oid": "6934b118109cd8dd1bddd529"
+    },
+    "date": "2024-06",
+    "region": "Atlantique",
+    "depart": "ST PIERRE DES CORPS",
+    "arrivee": "LE MANS",
+    "trains_prevus": 467,
+    "trains_realises": 459,
+    "trains_annules": 8,
+    "retards": 105,
+    "ponctualite": 77.2,
+    "timestamp": "2025-12-06T22:41:28.397025"
+  },
+  {
+    "_id": {
+      "$oid": "6934b11d109cd8dd1bddd52a"
+    },
+    "date": "2020-09",
+    "region": "Sud-Est",
+    "depart": "GRENOBLE",
+    "arrivee": "CHAMBERY CHALLES LES EAUX",
+    "trains_prevus": 364,
+    "trains_realises": 361,
+    "trains_annules": 3,
+    "retards": 50,
+    "ponctualite": 86.4,
+    "timestamp": "2025-12-06T22:41:33.428709"
+  },
+  {
+    "_id": {
+      "$oid": "6934b12c109cd8dd1bddd52b"
+    },
+    "date": "2023-07",
+    "region": "Est",
+    "depart": "NANTES",
+    "arrivee": "REIMS",
+    "trains_prevus": 346,
+    "trains_realises": 342,
+    "trains_annules": 4,
+    "retards": 9,
+    "ponctualite": 97.4,
+    "timestamp": "2025-12-06T22:41:48.474997"
+  },
+  {
+    "_id": {
+      "$oid": "6934b14a109cd8dd1bddd52c"
+    },
+    "date": "2016-10",
+    "region": "Nord",
+    "depart": "DUNKERQUE",
+    "arrivee": "ARRAS",
+    "trains_prevus": 299,
+    "trains_realises": 294,
+    "trains_annules": 5,
+    "retards": 34,
+    "ponctualite": 88.7,
+    "timestamp": "2025-12-06T22:42:18.552542"
+  },
+  {
+    "_id": {
+      "$oid": "6934b168109cd8dd1bddd52d"
+    },
+    "date": "2019-06",
+    "region": "Atlantique",
+    "depart": "RENNES",
+    "arrivee": "POITIERS",
+    "trains_prevus": 447,
+    "trains_realises": 444,
+    "trains_annules": 3,
+    "retards": 65,
+    "ponctualite": 85.4,
+    "timestamp": "2025-12-06T22:42:48.593802"
+  },
+  {
+    "_id": {
+      "$oid": "6934b177109cd8dd1bddd52e"
+    },
+    "date": "2014-06",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "DOUAI",
+    "trains_prevus": 188,
+    "trains_realises": 188,
+    "trains_annules": 0,
+    "retards": 50,
+    "ponctualite": 73.6,
+    "timestamp": "2025-12-06T22:43:03.631113"
+  },
+  {
+    "_id": {
+      "$oid": "6934b181109cd8dd1bddd52f"
+    },
+    "date": "2023-09",
+    "region": "Sud-Est",
+    "depart": "LYON PART DIEU",
+    "arrivee": "ANNECY",
+    "trains_prevus": 389,
+    "trains_realises": 383,
+    "trains_annules": 6,
+    "retards": 66,
+    "ponctualite": 82.8,
+    "timestamp": "2025-12-06T22:43:13.659235"
+  },
+  {
+    "_id": {
+      "$oid": "6934b18b109cd8dd1bddd530"
+    },
+    "date": "2016-08",
+    "region": "Sud-Est",
+    "depart": "NIMES",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 673,
+    "trains_realises": 672,
+    "trains_annules": 1,
+    "retards": 82,
+    "ponctualite": 87.9,
+    "timestamp": "2025-12-06T22:43:23.686304"
+  },
+  {
+    "_id": {
+      "$oid": "6934b190109cd8dd1bddd531"
+    },
+    "date": "2015-12",
+    "region": "Atlantique",
+    "depart": "LA ROCHELLE VILLE",
+    "arrivee": "BORDEAUX ST JEAN",
+    "trains_prevus": 456,
+    "trains_realises": 451,
+    "trains_annules": 5,
+    "retards": 94,
+    "ponctualite": 79.3,
+    "timestamp": "2025-12-06T22:43:28.726821"
+  },
+  {
+    "_id": {
+      "$oid": "6934b1ae109cd8dd1bddd532"
+    },
+    "date": "2013-01",
+    "region": "Est",
+    "depart": "PARIS EST",
+    "arrivee": "REIMS",
+    "trains_prevus": 517,
+    "trains_realises": 515,
+    "trains_annules": 2,
+    "retards": 44,
+    "ponctualite": 91.5,
+    "timestamp": "2025-12-06T22:43:58.762815"
+  },
+  {
+    "_id": {
+      "$oid": "6934b1cc109cd8dd1bddd533"
+    },
+    "date": "2017-02",
+    "region": "Est",
+    "depart": "PARIS EST",
+    "arrivee": "NANTES",
+    "trains_prevus": 416,
+    "trains_realises": 411,
+    "trains_annules": 5,
+    "retards": 123,
+    "ponctualite": 70.3,
+    "timestamp": "2025-12-06T22:44:28.811558"
+  },
+  {
+    "_id": {
+      "$oid": "6934b1d1109cd8dd1bddd534"
+    },
+    "date": "2024-01",
+    "region": "Atlantique",
+    "depart": "ANGERS SAINT LAUD",
+    "arrivee": "LAVAL",
+    "trains_prevus": 151,
+    "trains_realises": 149,
+    "trains_annules": 2,
+    "retards": 34,
+    "ponctualite": 77.7,
+    "timestamp": "2025-12-06T22:44:33.842072"
+  },
+  {
+    "_id": {
+      "$oid": "6934b1ef109cd8dd1bddd535"
+    },
+    "date": "2021-11",
+    "region": "Nord",
+    "depart": "LILLE",
+    "arrivee": "ARRAS",
+    "trains_prevus": 210,
+    "trains_realises": 207,
+    "trains_annules": 3,
+    "retards": 35,
+    "ponctualite": 83.5,
+    "timestamp": "2025-12-06T22:45:03.907977"
+  },
+  {
+    "_id": {
+      "$oid": "6934b20d109cd8dd1bddd536"
+    },
+    "date": "2016-11",
+    "region": "Sud-Est",
+    "depart": "VALENCE ALIXAN TGV",
+    "arrivee": "SAINT ETIENNE CHATEAUCREUX",
+    "trains_prevus": 253,
+    "trains_realises": 253,
+    "trains_annules": 0,
+    "retards": 59,
+    "ponctualite": 76.9,
+    "timestamp": "2025-12-06T22:45:33.959208"
+  },
+  {
+    "_id": {
+      "$oid": "6934b212109cd8dd1bddd537"
+    },
+    "date": "2021-01",
+    "region": "Nord",
+    "depart": "DOUAI",
+    "arrivee": "ARRAS",
+    "trains_prevus": 164,
+    "trains_realises": 164,
+    "trains_annules": 0,
+    "retards": 42,
+    "ponctualite": 74.4,
+    "timestamp": "2025-12-06T22:45:38.974010"
+  },
+  {
+    "_id": {
+      "$oid": "6934b21d109cd8dd1bddd538"
+    },
+    "date": "2018-05",
+    "region": "Atlantique",
+    "depart": "BORDEAUX ST JEAN",
+    "arrivee": "VANNES",
+    "trains_prevus": 126,
+    "trains_realises": 126,
+    "trains_annules": 0,
+    "retards": 6,
+    "ponctualite": 95.8,
+    "timestamp": "2025-12-06T22:45:48.995515"
+  },
+  {
+    "_id": {
+      "$oid": "6934b222109cd8dd1bddd539"
+    },
+    "date": "2018-12",
+    "region": "Nord",
+    "depart": "LILLE",
+    "arrivee": "DUNKERQUE",
+    "trains_prevus": 516,
+    "trains_realises": 510,
+    "trains_annules": 6,
+    "retards": 122,
+    "ponctualite": 76.1,
+    "timestamp": "2025-12-06T22:45:54.016975"
+  },
+  {
+    "_id": {
+      "$oid": "6934b231109cd8dd1bddd53a"
+    },
+    "date": "2020-07",
+    "region": "Est",
+    "depart": "NANCY",
+    "arrivee": "METZ",
+    "trains_prevus": 236,
+    "trains_realises": 236,
+    "trains_annules": 0,
+    "retards": 28,
+    "ponctualite": 88.3,
+    "timestamp": "2025-12-06T22:46:09.043027"
+  },
+  {
+    "_id": {
+      "$oid": "6934b236109cd8dd1bddd53b"
+    },
+    "date": "2022-08",
+    "region": "Atlantique",
+    "depart": "TOURS",
+    "arrivee": "LA ROCHELLE VILLE",
+    "trains_prevus": 655,
+    "trains_realises": 645,
+    "trains_annules": 10,
+    "retards": 82,
+    "ponctualite": 87.4,
+    "timestamp": "2025-12-06T22:46:14.083047"
+  },
+  {
+    "_id": {
+      "$oid": "6934b254109cd8dd1bddd53c"
+    },
+    "date": "2020-08",
+    "region": "Est",
+    "depart": "STRASBOURG",
+    "arrivee": "MULHOUSE VILLE",
+    "trains_prevus": 244,
+    "trains_realises": 240,
+    "trains_annules": 4,
+    "retards": 15,
+    "ponctualite": 94.1,
+    "timestamp": "2025-12-06T22:46:44.114949"
+  },
+  {
+    "_id": {
+      "$oid": "6934b25e109cd8dd1bddd53d"
+    },
+    "date": "2019-03",
+    "region": "Sud-Est",
+    "depart": "LYON PART DIEU",
+    "arrivee": "BELLEGARDE (AIN)",
+    "trains_prevus": 187,
+    "trains_realises": 184,
+    "trains_annules": 3,
+    "retards": 41,
+    "ponctualite": 78,
+    "timestamp": "2025-12-06T22:46:54.152016"
+  },
+  {
+    "_id": {
+      "$oid": "6934b26d109cd8dd1bddd53e"
+    },
+    "date": "2015-11",
+    "region": "Atlantique",
+    "depart": "LAVAL",
+    "arrivee": "TOURS",
+    "trains_prevus": 393,
+    "trains_realises": 392,
+    "trains_annules": 1,
+    "retards": 74,
+    "ponctualite": 81.2,
+    "timestamp": "2025-12-06T22:47:09.200419"
+  },
+  {
+    "_id": {
+      "$oid": "6934b272109cd8dd1bddd53f"
+    },
+    "date": "2024-10",
+    "region": "Atlantique",
+    "depart": "BREST",
+    "arrivee": "LAVAL",
+    "trains_prevus": 305,
+    "trains_realises": 302,
+    "trains_annules": 3,
+    "retards": 22,
+    "ponctualite": 93,
+    "timestamp": "2025-12-06T22:47:14.240942"
+  },
+  {
+    "_id": {
+      "$oid": "6934b290109cd8dd1bddd540"
+    },
+    "date": "2024-05",
+    "region": "Nord",
+    "depart": "DOUAI",
+    "arrivee": "PARIS NORD",
+    "trains_prevus": 211,
+    "trains_realises": 208,
+    "trains_annules": 3,
+    "retards": 28,
+    "ponctualite": 86.7,
+    "timestamp": "2025-12-06T22:47:44.280440"
+  },
+  {
+    "_id": {
+      "$oid": "6934b2ae109cd8dd1bddd541"
+    },
+    "date": "2013-12",
+    "region": "Est",
+    "depart": "PARIS EST",
+    "arrivee": "MULHOUSE VILLE",
+    "trains_prevus": 685,
+    "trains_realises": 674,
+    "trains_annules": 11,
+    "retards": 188,
+    "ponctualite": 72.2,
+    "timestamp": "2025-12-06T22:48:14.314980"
+  },
+  {
+    "_id": {
+      "$oid": "6934b2cc109cd8dd1bddd542"
+    },
+    "date": "2019-11",
+    "region": "Atlantique",
+    "depart": "VANNES",
+    "arrivee": "TOURS",
+    "trains_prevus": 131,
+    "trains_realises": 130,
+    "trains_annules": 1,
+    "retards": 39,
+    "ponctualite": 70.6,
+    "timestamp": "2025-12-06T22:48:44.410626"
+  },
+  {
+    "_id": {
+      "$oid": "6934b2ea109cd8dd1bddd543"
+    },
+    "date": "2020-05",
+    "region": "Est",
+    "depart": "MULHOUSE VILLE",
+    "arrivee": "METZ",
+    "trains_prevus": 63,
+    "trains_realises": 63,
+    "trains_annules": 0,
+    "retards": 8,
+    "ponctualite": 87.7,
+    "timestamp": "2025-12-06T22:49:14.448169"
+  },
+  {
+    "_id": {
+      "$oid": "6934b2ef109cd8dd1bddd544"
+    },
+    "date": "2013-01",
+    "region": "Sud-Est",
+    "depart": "MACON LOCHE",
+    "arrivee": "MARSEILLE ST CHARLES",
+    "trains_prevus": 358,
+    "trains_realises": 356,
+    "trains_annules": 2,
+    "retards": 49,
+    "ponctualite": 86.4,
+    "timestamp": "2025-12-06T22:49:19.464701"
+  },
+  {
+    "_id": {
+      "$oid": "6934b2fe109cd8dd1bddd545"
+    },
+    "date": "2018-02",
+    "region": "Est",
+    "depart": "REIMS",
+    "arrivee": "STRASBOURG",
+    "trains_prevus": 453,
+    "trains_realises": 446,
+    "trains_annules": 7,
+    "retards": 19,
+    "ponctualite": 95.9,
+    "timestamp": "2025-12-06T22:49:34.500314"
+  },
+  {
+    "_id": {
+      "$oid": "6934b30d109cd8dd1bddd546"
+    },
+    "date": "2019-10",
+    "region": "Sud-Est",
+    "depart": "ANNECY",
+    "arrivee": "PERPIGNAN",
+    "trains_prevus": 333,
+    "trains_realises": 329,
+    "trains_annules": 4,
+    "retards": 66,
+    "ponctualite": 80.1,
+    "timestamp": "2025-12-06T22:49:49.552690"
+  },
+  {
+    "_id": {
+      "$oid": "6934b31c109cd8dd1bddd547"
+    },
+    "date": "2012-02",
+    "region": "Nord",
+    "depart": "DOUAI",
+    "arrivee": "ARRAS",
+    "trains_prevus": 647,
+    "trains_realises": 646,
+    "trains_annules": 1,
+    "retards": 108,
+    "ponctualite": 83.3,
+    "timestamp": "2025-12-06T22:50:04.588483"
+  },
+  {
+    "_id": {
+      "$oid": "6934b321109cd8dd1bddd548"
+    },
+    "date": "2025-08",
+    "region": "Est",
+    "depart": "PARIS EST",
+    "arrivee": "METZ",
+    "trains_prevus": 399,
+    "trains_realises": 393,
+    "trains_annules": 6,
+    "retards": 117,
+    "ponctualite": 70.4,
+    "timestamp": "2025-12-06T22:50:09.612383"
+  },
+  {
+    "_id": {
+      "$oid": "6934b33f109cd8dd1bddd549"
+    },
+    "date": "2019-09",
+    "region": "Atlantique",
+    "depart": "ANGERS SAINT LAUD",
+    "arrivee": "POITIERS",
+    "trains_prevus": 433,
+    "trains_realises": 426,
+    "trains_annules": 7,
+    "retards": 59,
+    "ponctualite": 86.3,
+    "timestamp": "2025-12-06T22:50:39.663426"
+  },
+  {
+    "_id": {
+      "$oid": "6934b34e109cd8dd1bddd54a"
+    },
+    "date": "2025-06",
+    "region": "Nord",
+    "depart": "DOUAI",
+    "arrivee": "ARRAS",
+    "trains_prevus": 293,
+    "trains_realises": 293,
+    "trains_annules": 0,
+    "retards": 66,
+    "ponctualite": 77.5,
+    "timestamp": "2025-12-06T22:50:54.702288"
+  },
+  {
+    "_id": {
+      "$oid": "6934b353109cd8dd1bddd54b"
+    },
+    "date": "2020-12",
+    "region": "Sud-Est",
+    "depart": "MACON LOCHE",
+    "arrivee": "LE CREUSOT MONTCEAU MONTCHANIN",
+    "trains_prevus": 626,
+    "trains_realises": 626,
+    "trains_annules": 0,
+    "retards": 180,
+    "ponctualite": 71.3,
+    "timestamp": "2025-12-06T22:50:59.727302"
+  },
+  {
+    "_id": {
+      "$oid": "6934b362109cd8dd1bddd54c"
+    },
+    "date": "2022-08",
+    "region": "Sud-Est",
+    "depart": "GRENOBLE",
+    "arrivee": "SAINT ETIENNE CHATEAUCREUX",
+    "trains_prevus": 180,
+    "trains_realises": 179,
+    "trains_annules": 1,
+    "retards": 23,
+    "ponctualite": 87.6,
+    "timestamp": "2025-12-06T22:51:14.764293"
+  },
+  {
+    "_id": {
+      "$oid": "6934b367109cd8dd1bddd54d"
+    },
+    "date": "2017-08",
+    "region": "Nord",
+    "depart": "LILLE",
+    "arrivee": "DOUAI",
+    "trains_prevus": 599,
+    "trains_realises": 597,
+    "trains_annules": 2,
+    "retards": 71,
+    "ponctualite": 88.2,
+    "timestamp": "2025-12-06T22:51:19.804771"
+  },
+  {
+    "_id": {
+      "$oid": "6934b36c109cd8dd1bddd54e"
+    },
+    "date": "2014-11",
+    "region": "Atlantique",
+    "depart": "POITIERS",
+    "arrivee": "BORDEAUX ST JEAN",
+    "trains_prevus": 337,
+    "trains_realises": 334,
+    "trains_annules": 3,
+    "retards": 74,
+    "ponctualite": 78.1,
+    "timestamp": "2025-12-06T22:51:24.843053"
+  },
+  {
+    "_id": {
+      "$oid": "6934b376109cd8dd1bddd54f"
+    },
+    "date": "2014-08",
+    "region": "Atlantique",
+    "depart": "ST PIERRE DES CORPS",
+    "arrivee": "RENNES",
+    "trains_prevus": 144,
+    "trains_realises": 143,
+    "trains_annules": 1,
+    "retards": 26,
+    "ponctualite": 82.4,
+    "timestamp": "2025-12-06T22:51:34.870202"
+  },
+  {
+    "_id": {
+      "$oid": "6934b385109cd8dd1bddd550"
+    },
+    "date": "2017-08",
+    "region": "Est",
+    "depart": "NANCY",
+    "arrivee": "MULHOUSE VILLE",
+    "trains_prevus": 644,
+    "trains_realises": 642,
+    "trains_annules": 2,
+    "retards": 44,
+    "ponctualite": 93.3,
+    "timestamp": "2025-12-06T22:51:49.904060"
+  },
+  {
+    "_id": {
+      "$oid": "6934b395109cd8dd1bddd551"
+    },
+    "date": "2018-04",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "DOUAI",
+    "trains_prevus": 564,
+    "trains_realises": 557,
+    "trains_annules": 7,
+    "retards": 65,
+    "ponctualite": 88.4,
+    "timestamp": "2025-12-06T22:52:05.009880"
+  },
+  {
+    "_id": {
+      "$oid": "6934b3a4109cd8dd1bddd552"
+    },
+    "date": "2021-09",
+    "region": "Nord",
+    "depart": "DUNKERQUE",
+    "arrivee": "LILLE",
+    "trains_prevus": 324,
+    "trains_realises": 322,
+    "trains_annules": 2,
+    "retards": 19,
+    "ponctualite": 94.1,
+    "timestamp": "2025-12-06T22:52:20.057348"
+  },
+  {
+    "_id": {
+      "$oid": "6934b3a9109cd8dd1bddd553"
+    },
+    "date": "2021-06",
+    "region": "Est",
+    "depart": "METZ",
+    "arrivee": "NANTES",
+    "trains_prevus": 205,
+    "trains_realises": 205,
+    "trains_annules": 0,
+    "retards": 60,
+    "ponctualite": 70.8,
+    "timestamp": "2025-12-06T22:52:25.098370"
+  },
+  {
+    "_id": {
+      "$oid": "6934b3c7109cd8dd1bddd554"
+    },
+    "date": "2021-06",
+    "region": "Nord",
+    "depart": "ARRAS",
+    "arrivee": "LILLE",
+    "trains_prevus": 394,
+    "trains_realises": 388,
+    "trains_annules": 6,
+    "retards": 105,
+    "ponctualite": 73,
+    "timestamp": "2025-12-06T22:52:55.136981"
+  },
+  {
+    "_id": {
+      "$oid": "6934b3d6109cd8dd1bddd555"
+    },
+    "date": "2021-11",
+    "region": "Sud-Est",
+    "depart": "MONTPELLIER",
+    "arrivee": "CHAMBERY CHALLES LES EAUX",
+    "trains_prevus": 655,
+    "trains_realises": 645,
+    "trains_annules": 10,
+    "retards": 87,
+    "ponctualite": 86.6,
+    "timestamp": "2025-12-06T22:53:10.163349"
+  },
+  {
+    "_id": {
+      "$oid": "6934b3db109cd8dd1bddd556"
+    },
+    "date": "2019-07",
+    "region": "Est",
+    "depart": "METZ",
+    "arrivee": "NANCY",
+    "trains_prevus": 435,
+    "trains_realises": 427,
+    "trains_annules": 8,
+    "retards": 124,
+    "ponctualite": 71,
+    "timestamp": "2025-12-06T22:53:15.297072"
+  },
+  {
+    "_id": {
+      "$oid": "6934b3e0109cd8dd1bddd557"
+    },
+    "date": "2012-02",
+    "region": "Nord",
+    "depart": "DUNKERQUE",
+    "arrivee": "PARIS NORD",
+    "trains_prevus": 558,
+    "trains_realises": 551,
+    "trains_annules": 7,
+    "retards": 121,
+    "ponctualite": 78.1,
+    "timestamp": "2025-12-06T22:53:20.334247"
+  },
+  {
+    "_id": {
+      "$oid": "6934b3e5109cd8dd1bddd558"
+    },
+    "date": "2012-08",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "DUNKERQUE",
+    "trains_prevus": 368,
+    "trains_realises": 366,
+    "trains_annules": 2,
+    "retards": 103,
+    "ponctualite": 72.1,
+    "timestamp": "2025-12-06T22:53:25.374286"
+  },
+  {
+    "_id": {
+      "$oid": "6934b3ea109cd8dd1bddd559"
+    },
+    "date": "2015-08",
+    "region": "Nord",
+    "depart": "ARRAS",
+    "arrivee": "LILLE",
+    "trains_prevus": 283,
+    "trains_realises": 280,
+    "trains_annules": 3,
+    "retards": 28,
+    "ponctualite": 90.1,
+    "timestamp": "2025-12-06T22:53:30.412434"
+  },
+  {
+    "_id": {
+      "$oid": "6934b3f4109cd8dd1bddd55a"
+    },
+    "date": "2017-12",
+    "region": "Est",
+    "depart": "STRASBOURG",
+    "arrivee": "MULHOUSE VILLE",
+    "trains_prevus": 87,
+    "trains_realises": 87,
+    "trains_annules": 0,
+    "retards": 5,
+    "ponctualite": 94.5,
+    "timestamp": "2025-12-06T22:53:40.446943"
+  },
+  {
+    "_id": {
+      "$oid": "6934b403109cd8dd1bddd55b"
+    },
+    "date": "2013-02",
+    "region": "Est",
+    "depart": "PARIS EST",
+    "arrivee": "NANTES",
+    "trains_prevus": 163,
+    "trains_realises": 161,
+    "trains_annules": 2,
+    "retards": 38,
+    "ponctualite": 77,
+    "timestamp": "2025-12-06T22:53:55.497386"
+  },
+  {
+    "_id": {
+      "$oid": "6934b408109cd8dd1bddd55c"
+    },
+    "date": "2012-05",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "LILLE",
+    "trains_prevus": 236,
+    "trains_realises": 232,
+    "trains_annules": 4,
+    "retards": 10,
+    "ponctualite": 96,
+    "timestamp": "2025-12-06T22:54:00.521786"
+  },
+  {
+    "_id": {
+      "$oid": "6934b412109cd8dd1bddd55d"
+    },
+    "date": "2018-09",
+    "region": "Sud-Est",
+    "depart": "PERPIGNAN",
+    "arrivee": "VALENCE ALIXAN TGV",
+    "trains_prevus": 430,
+    "trains_realises": 425,
+    "trains_annules": 5,
+    "retards": 62,
+    "ponctualite": 85.6,
+    "timestamp": "2025-12-06T22:54:10.544643"
+  },
+  {
+    "_id": {
+      "$oid": "6934b421109cd8dd1bddd55e"
+    },
+    "date": "2017-11",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "DOUAI",
+    "trains_prevus": 568,
+    "trains_realises": 558,
+    "trains_annules": 10,
+    "retards": 51,
+    "ponctualite": 90.9,
+    "timestamp": "2025-12-06T22:54:25.595654"
+  },
+  {
+    "_id": {
+      "$oid": "6934b426109cd8dd1bddd55f"
+    },
+    "date": "2017-12",
+    "region": "Est",
+    "depart": "METZ",
+    "arrivee": "STRASBOURG",
+    "trains_prevus": 698,
+    "trains_realises": 686,
+    "trains_annules": 12,
+    "retards": 129,
+    "ponctualite": 81.2,
+    "timestamp": "2025-12-06T22:54:30.637840"
+  },
+  {
+    "_id": {
+      "$oid": "6934b444109cd8dd1bddd560"
+    },
+    "date": "2018-01",
+    "region": "Est",
+    "depart": "PARIS EST",
+    "arrivee": "METZ",
+    "trains_prevus": 241,
+    "trains_realises": 238,
+    "trains_annules": 3,
+    "retards": 24,
+    "ponctualite": 90.2,
+    "timestamp": "2025-12-06T22:55:00.687488"
+  },
+  {
+    "_id": {
+      "$oid": "6934b462109cd8dd1bddd561"
+    },
+    "date": "2012-10",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "MARSEILLE ST CHARLES",
+    "trains_prevus": 353,
+    "trains_realises": 347,
+    "trains_annules": 6,
+    "retards": 33,
+    "ponctualite": 90.7,
+    "timestamp": "2025-12-06T22:55:30.723286"
+  },
+  {
+    "_id": {
+      "$oid": "6934b471109cd8dd1bddd562"
+    },
+    "date": "2012-06",
+    "region": "Sud-Est",
+    "depart": "SAINT ETIENNE CHATEAUCREUX",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 424,
+    "trains_realises": 419,
+    "trains_annules": 5,
+    "retards": 61,
+    "ponctualite": 85.6,
+    "timestamp": "2025-12-06T22:55:45.741744"
+  },
+  {
+    "_id": {
+      "$oid": "6934b48f109cd8dd1bddd563"
+    },
+    "date": "2020-12",
+    "region": "Sud-Est",
+    "depart": "NICE VILLE",
+    "arrivee": "MACON LOCHE",
+    "trains_prevus": 433,
+    "trains_realises": 429,
+    "trains_annules": 4,
+    "retards": 87,
+    "ponctualite": 79.8,
+    "timestamp": "2025-12-06T22:56:15.786752"
+  },
+  {
+    "_id": {
+      "$oid": "6934b4ad109cd8dd1bddd564"
+    },
+    "date": "2024-04",
+    "region": "Atlantique",
+    "depart": "TOURS",
+    "arrivee": "QUIMPER",
+    "trains_prevus": 334,
+    "trains_realises": 334,
+    "trains_annules": 0,
+    "retards": 13,
+    "ponctualite": 96.2,
+    "timestamp": "2025-12-06T22:56:45.817865"
+  },
+  {
+    "_id": {
+      "$oid": "6934b4cb109cd8dd1bddd565"
+    },
+    "date": "2012-06",
+    "region": "Atlantique",
+    "depart": "ANGERS SAINT LAUD",
+    "arrivee": "ST MALO",
+    "trains_prevus": 148,
+    "trains_realises": 147,
+    "trains_annules": 1,
+    "retards": 26,
+    "ponctualite": 82.7,
+    "timestamp": "2025-12-06T22:57:15.859443"
+  },
+  {
+    "_id": {
+      "$oid": "6934b4d0109cd8dd1bddd566"
+    },
+    "date": "2012-01",
+    "region": "Atlantique",
+    "depart": "ANGOULEME",
+    "arrivee": "VANNES",
+    "trains_prevus": 671,
+    "trains_realises": 670,
+    "trains_annules": 1,
+    "retards": 179,
+    "ponctualite": 73.4,
+    "timestamp": "2025-12-06T22:57:20.896865"
+  },
+  {
+    "_id": {
+      "$oid": "6934b4df109cd8dd1bddd567"
+    },
+    "date": "2021-06",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "LYON PART DIEU",
+    "trains_prevus": 414,
+    "trains_realises": 410,
+    "trains_annules": 4,
+    "retards": 96,
+    "ponctualite": 76.8,
+    "timestamp": "2025-12-06T22:57:35.937296"
+  },
+  {
+    "_id": {
+      "$oid": "6934b4fe109cd8dd1bddd568"
+    },
+    "date": "2017-01",
+    "region": "Sud-Est",
+    "depart": "NIMES",
+    "arrivee": "LE CREUSOT MONTCEAU MONTCHANIN",
+    "trains_prevus": 64,
+    "trains_realises": 64,
+    "trains_annules": 0,
+    "retards": 10,
+    "ponctualite": 85.3,
+    "timestamp": "2025-12-06T22:58:05.991360"
+  },
+  {
+    "_id": {
+      "$oid": "6934b503109cd8dd1bddd569"
+    },
+    "date": "2025-06",
+    "region": "Nord",
+    "depart": "ARRAS",
+    "arrivee": "LILLE",
+    "trains_prevus": 541,
+    "trains_realises": 532,
+    "trains_annules": 9,
+    "retards": 40,
+    "ponctualite": 92.6,
+    "timestamp": "2025-12-06T22:58:11.012951"
+  },
+  {
+    "_id": {
+      "$oid": "6934b50d109cd8dd1bddd56a"
+    },
+    "date": "2017-09",
+    "region": "Atlantique",
+    "depart": "TOURS",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 139,
+    "trains_realises": 139,
+    "trains_annules": 0,
+    "retards": 20,
+    "ponctualite": 86.2,
+    "timestamp": "2025-12-06T22:58:21.060118"
+  },
+  {
+    "_id": {
+      "$oid": "6934b51c109cd8dd1bddd56b"
+    },
+    "date": "2021-08",
+    "region": "Atlantique",
+    "depart": "ST MALO",
+    "arrivee": "ANGERS SAINT LAUD",
+    "trains_prevus": 658,
+    "trains_realises": 648,
+    "trains_annules": 10,
+    "retards": 168,
+    "ponctualite": 74.2,
+    "timestamp": "2025-12-06T22:58:36.099269"
+  },
+  {
+    "_id": {
+      "$oid": "6934b526109cd8dd1bddd56c"
+    },
+    "date": "2018-06",
+    "region": "Sud-Est",
+    "depart": "DIJON VILLE",
+    "arrivee": "VALENCE ALIXAN TGV",
+    "trains_prevus": 559,
+    "trains_realises": 559,
+    "trains_annules": 0,
+    "retards": 90,
+    "ponctualite": 84,
+    "timestamp": "2025-12-06T22:58:46.123748"
+  },
+  {
+    "_id": {
+      "$oid": "6934b530109cd8dd1bddd56d"
+    },
+    "date": "2017-12",
+    "region": "Est",
+    "depart": "MULHOUSE VILLE",
+    "arrivee": "NANCY",
+    "trains_prevus": 605,
+    "trains_realises": 596,
+    "trains_annules": 9,
+    "retards": 83,
+    "ponctualite": 86.2,
+    "timestamp": "2025-12-06T22:58:56.144411"
+  },
+  {
+    "_id": {
+      "$oid": "6934b53f109cd8dd1bddd56e"
+    },
+    "date": "2018-04",
+    "region": "Nord",
+    "depart": "LILLE",
+    "arrivee": "PARIS NORD",
+    "trains_prevus": 649,
+    "trains_realises": 643,
+    "trains_annules": 6,
+    "retards": 111,
+    "ponctualite": 82.8,
+    "timestamp": "2025-12-06T22:59:11.185072"
+  },
+  {
+    "_id": {
+      "$oid": "6934b54e109cd8dd1bddd56f"
+    },
+    "date": "2017-12",
+    "region": "Est",
+    "depart": "REIMS",
+    "arrivee": "NANTES",
+    "trains_prevus": 194,
+    "trains_realises": 194,
+    "trains_annules": 0,
+    "retards": 32,
+    "ponctualite": 84,
+    "timestamp": "2025-12-06T22:59:26.218393"
+  },
+  {
+    "_id": {
+      "$oid": "6934b558109cd8dd1bddd570"
+    },
+    "date": "2020-03",
+    "region": "Atlantique",
+    "depart": "ANGERS SAINT LAUD",
+    "arrivee": "ANGOULEME",
+    "trains_prevus": 440,
+    "trains_realises": 437,
+    "trains_annules": 3,
+    "retards": 89,
+    "ponctualite": 79.7,
+    "timestamp": "2025-12-06T22:59:36.247400"
+  },
+  {
+    "_id": {
+      "$oid": "6934b55d109cd8dd1bddd571"
+    },
+    "date": "2019-11",
+    "region": "Sud-Est",
+    "depart": "LE CREUSOT MONTCEAU MONTCHANIN",
+    "arrivee": "TOULON",
+    "trains_prevus": 323,
+    "trains_realises": 319,
+    "trains_annules": 4,
+    "retards": 17,
+    "ponctualite": 94.8,
+    "timestamp": "2025-12-06T22:59:41.282555"
+  },
+  {
+    "_id": {
+      "$oid": "6934b56c109cd8dd1bddd572"
+    },
+    "date": "2024-05",
+    "region": "Sud-Est",
+    "depart": "BESANCON FRANCHE COMTE TGV",
+    "arrivee": "VALENCE ALIXAN TGV",
+    "trains_prevus": 60,
+    "trains_realises": 60,
+    "trains_annules": 0,
+    "retards": 10,
+    "ponctualite": 83.4,
+    "timestamp": "2025-12-06T22:59:56.337877"
+  },
+  {
+    "_id": {
+      "$oid": "6934b57b109cd8dd1bddd573"
+    },
+    "date": "2025-07",
+    "region": "Atlantique",
+    "depart": "ST PIERRE DES CORPS",
+    "arrivee": "NANTES",
+    "trains_prevus": 615,
+    "trains_realises": 605,
+    "trains_annules": 10,
+    "retards": 102,
+    "ponctualite": 83.3,
+    "timestamp": "2025-12-06T23:00:11.361921"
+  },
+  {
+    "_id": {
+      "$oid": "6934b585109cd8dd1bddd574"
+    },
+    "date": "2019-02",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "ARRAS",
+    "trains_prevus": 126,
+    "trains_realises": 124,
+    "trains_annules": 2,
+    "retards": 37,
+    "ponctualite": 70.3,
+    "timestamp": "2025-12-06T23:00:21.402862"
+  },
+  {
+    "_id": {
+      "$oid": "6934b594109cd8dd1bddd575"
+    },
+    "date": "2015-03",
+    "region": "Atlantique",
+    "depart": "VANNES",
+    "arrivee": "NANTES",
+    "trains_prevus": 659,
+    "trains_realises": 657,
+    "trains_annules": 2,
+    "retards": 106,
+    "ponctualite": 83.9,
+    "timestamp": "2025-12-06T23:00:36.438128"
+  },
+  {
+    "_id": {
+      "$oid": "6934b59e109cd8dd1bddd576"
+    },
+    "date": "2016-05",
+    "region": "Atlantique",
+    "depart": "RENNES",
+    "arrivee": "BORDEAUX ST JEAN",
+    "trains_prevus": 617,
+    "trains_realises": 616,
+    "trains_annules": 1,
+    "retards": 110,
+    "ponctualite": 82.2,
+    "timestamp": "2025-12-06T23:00:46.477574"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f3d6b120e846e40cb56c"
+    },
+    "date": "2018-11",
+    "region": "Sud-Est",
+    "depart": "NICE VILLE",
+    "arrivee": "AIX EN PROVENCE TGV",
+    "trains_prevus": 278,
+    "trains_realises": 277,
+    "trains_annules": 1,
+    "retards": 58,
+    "ponctualite": 79.3,
+    "timestamp": "2026-03-04T08:56:54.800117"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f40fa22e806fa1d57e2d"
+    },
+    "date": "2022-01",
+    "region": "Est",
+    "depart": "NANTES",
+    "arrivee": "STRASBOURG",
+    "trains_prevus": 169,
+    "trains_realises": 166,
+    "trains_annules": 3,
+    "retards": 50,
+    "ponctualite": 70.1,
+    "timestamp": "2026-03-04T08:57:51.246283"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f414a22e806fa1d57e2e"
+    },
+    "date": "2016-03",
+    "region": "Sud-Est",
+    "depart": "LYON PART DIEU",
+    "arrivee": "ANNECY",
+    "trains_prevus": 307,
+    "trains_realises": 304,
+    "trains_annules": 3,
+    "retards": 25,
+    "ponctualite": 92,
+    "timestamp": "2026-03-04T08:57:56.282286"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f419a22e806fa1d57e2f"
+    },
+    "date": "2022-03",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "DOUAI",
+    "trains_prevus": 468,
+    "trains_realises": 464,
+    "trains_annules": 4,
+    "retards": 32,
+    "ponctualite": 93.3,
+    "timestamp": "2026-03-04T08:58:01.302395"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f423a22e806fa1d57e30"
+    },
+    "date": "2011-12",
+    "region": "Est",
+    "depart": "METZ",
+    "arrivee": "STRASBOURG",
+    "trains_prevus": 547,
+    "trains_realises": 547,
+    "trains_annules": 0,
+    "retards": 92,
+    "ponctualite": 83.3,
+    "timestamp": "2026-03-04T08:58:11.325244"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f443a22e806fa1d57e31"
+    },
+    "date": "2016-04",
+    "region": "Sud-Est",
+    "depart": "CHAMBERY CHALLES LES EAUX",
+    "arrivee": "VALENCE ALIXAN TGV",
+    "trains_prevus": 404,
+    "trains_realises": 402,
+    "trains_annules": 2,
+    "retards": 83,
+    "ponctualite": 79.5,
+    "timestamp": "2026-03-04T08:58:43.463594"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f463a22e806fa1d57e32"
+    },
+    "date": "2013-01",
+    "region": "Sud-Est",
+    "depart": "MACON LOCHE",
+    "arrivee": "MARSEILLE ST CHARLES",
+    "trains_prevus": 472,
+    "trains_realises": 472,
+    "trains_annules": 0,
+    "retards": 103,
+    "ponctualite": 78.2,
+    "timestamp": "2026-03-04T08:59:15.700365"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f468a22e806fa1d57e33"
+    },
+    "date": "2017-11",
+    "region": "Nord",
+    "depart": "DOUAI",
+    "arrivee": "ARRAS",
+    "trains_prevus": 203,
+    "trains_realises": 200,
+    "trains_annules": 3,
+    "retards": 21,
+    "ponctualite": 89.5,
+    "timestamp": "2026-03-04T08:59:20.724803"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f47aa22e806fa1d57e34"
+    },
+    "date": "2023-08",
+    "region": "Sud-Est",
+    "depart": "BELLEGARDE (AIN)",
+    "arrivee": "CHAMBERY CHALLES LES EAUX",
+    "trains_prevus": 152,
+    "trains_realises": 150,
+    "trains_annules": 2,
+    "retards": 25,
+    "ponctualite": 83.7,
+    "timestamp": "2026-03-04T08:59:37.867686"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f49aa22e806fa1d57e35"
+    },
+    "date": "2012-10",
+    "region": "Atlantique",
+    "depart": "BORDEAUX ST JEAN",
+    "arrivee": "POITIERS",
+    "trains_prevus": 348,
+    "trains_realises": 346,
+    "trains_annules": 2,
+    "retards": 7,
+    "ponctualite": 98,
+    "timestamp": "2026-03-04T09:00:10.563289"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f4a9a22e806fa1d57e36"
+    },
+    "date": "2017-07",
+    "region": "Est",
+    "depart": "PARIS EST",
+    "arrivee": "METZ",
+    "trains_prevus": 399,
+    "trains_realises": 395,
+    "trains_annules": 4,
+    "retards": 23,
+    "ponctualite": 94.2,
+    "timestamp": "2026-03-04T09:00:25.595242"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f4c0b56429163bbd98ac"
+    },
+    "date": "2021-12",
+    "region": "Est",
+    "depart": "REIMS",
+    "arrivee": "NANCY",
+    "trains_prevus": 71,
+    "trains_realises": 71,
+    "trains_annules": 0,
+    "retards": 5,
+    "ponctualite": 93.9,
+    "timestamp": "2026-03-04T09:00:48.971005"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f4c6b56429163bbd98ad"
+    },
+    "date": "2025-07",
+    "region": "Atlantique",
+    "depart": "LAVAL",
+    "arrivee": "RENNES",
+    "trains_prevus": 242,
+    "trains_realises": 240,
+    "trains_annules": 2,
+    "retards": 52,
+    "ponctualite": 78.6,
+    "timestamp": "2026-03-04T09:00:53.989289"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f4cbb56429163bbd98ae"
+    },
+    "date": "2014-12",
+    "region": "Sud-Est",
+    "depart": "TOULON",
+    "arrivee": "AIX EN PROVENCE TGV",
+    "trains_prevus": 515,
+    "trains_realises": 506,
+    "trains_annules": 9,
+    "retards": 96,
+    "ponctualite": 81.1,
+    "timestamp": "2026-03-04T09:00:59.007692"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f4dcb56429163bbd98af"
+    },
+    "date": "2020-07",
+    "region": "Est",
+    "depart": "NANCY",
+    "arrivee": "METZ",
+    "trains_prevus": 408,
+    "trains_realises": 403,
+    "trains_annules": 5,
+    "retards": 70,
+    "ponctualite": 82.7,
+    "timestamp": "2026-03-04T09:01:16.077997"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f4df4a8b199bafa16627"
+    },
+    "date": "2012-07",
+    "region": "Sud-Est",
+    "depart": "GRENOBLE",
+    "arrivee": "TOULON",
+    "trains_prevus": 273,
+    "trains_realises": 269,
+    "trains_annules": 4,
+    "retards": 34,
+    "ponctualite": 87.6,
+    "timestamp": "2026-03-04T09:01:19.115740"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f4e94a8b199bafa16628"
+    },
+    "date": "2023-01",
+    "region": "Sud-Est",
+    "depart": "AVIGNON TGV",
+    "arrivee": "MACON LOCHE",
+    "trains_prevus": 591,
+    "trains_realises": 580,
+    "trains_annules": 11,
+    "retards": 79,
+    "ponctualite": 86.4,
+    "timestamp": "2026-03-04T09:01:29.139454"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f5094a8b199bafa16629"
+    },
+    "date": "2024-10",
+    "region": "Atlantique",
+    "depart": "VANNES",
+    "arrivee": "LE MANS",
+    "trains_prevus": 358,
+    "trains_realises": 357,
+    "trains_annules": 1,
+    "retards": 46,
+    "ponctualite": 87.2,
+    "timestamp": "2026-03-04T09:02:01.353985"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f5104a8b199bafa1662a"
+    },
+    "date": "2021-01",
+    "region": "Est",
+    "depart": "MULHOUSE VILLE",
+    "arrivee": "STRASBOURG",
+    "trains_prevus": 197,
+    "trains_realises": 196,
+    "trains_annules": 1,
+    "retards": 20,
+    "ponctualite": 89.8,
+    "timestamp": "2026-03-04T09:02:08.573751"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f51a4a8b199bafa1662b"
+    },
+    "date": "2013-03",
+    "region": "Est",
+    "depart": "NANCY",
+    "arrivee": "STRASBOURG",
+    "trains_prevus": 511,
+    "trains_realises": 511,
+    "trains_annules": 0,
+    "retards": 137,
+    "ponctualite": 73.3,
+    "timestamp": "2026-03-04T09:02:18.596797"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f51f4a8b199bafa1662c"
+    },
+    "date": "2017-01",
+    "region": "Atlantique",
+    "depart": "POITIERS",
+    "arrivee": "LAVAL",
+    "trains_prevus": 305,
+    "trains_realises": 302,
+    "trains_annules": 3,
+    "retards": 62,
+    "ponctualite": 79.5,
+    "timestamp": "2026-03-04T09:02:23.616988"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f5271fc5a7e9992fe980"
+    },
+    "date": "2017-05",
+    "region": "Sud-Est",
+    "depart": "CHAMBERY CHALLES LES EAUX",
+    "arrivee": "AVIGNON TGV",
+    "trains_prevus": 214,
+    "trains_realises": 213,
+    "trains_annules": 1,
+    "retards": 50,
+    "ponctualite": 76.9,
+    "timestamp": "2026-03-04T09:02:31.046385"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f53053c47c3e02aa2376"
+    },
+    "date": "2021-05",
+    "region": "Est",
+    "depart": "NANCY",
+    "arrivee": "METZ",
+    "trains_prevus": 497,
+    "trains_realises": 497,
+    "trains_annules": 0,
+    "retards": 150,
+    "ponctualite": 70,
+    "timestamp": "2026-03-04T09:02:40.444116"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f53a53c47c3e02aa2377"
+    },
+    "date": "2012-03",
+    "region": "Sud-Est",
+    "depart": "SAINT ETIENNE CHATEAUCREUX",
+    "arrivee": "BELLEGARDE (AIN)",
+    "trains_prevus": 315,
+    "trains_realises": 309,
+    "trains_annules": 6,
+    "retards": 22,
+    "ponctualite": 93.2,
+    "timestamp": "2026-03-04T09:02:50.466713"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f55a53c47c3e02aa2378"
+    },
+    "date": "2015-05",
+    "region": "Sud-Est",
+    "depart": "SAINT ETIENNE CHATEAUCREUX",
+    "arrivee": "PERPIGNAN",
+    "trains_prevus": 288,
+    "trains_realises": 284,
+    "trains_annules": 4,
+    "retards": 77,
+    "ponctualite": 73,
+    "timestamp": "2026-03-04T09:03:22.585963"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f56953c47c3e02aa2379"
+    },
+    "date": "2021-03",
+    "region": "Atlantique",
+    "depart": "RENNES",
+    "arrivee": "PARIS MONTPARNASSE",
+    "trains_prevus": 364,
+    "trains_realises": 358,
+    "trains_annules": 6,
+    "retards": 27,
+    "ponctualite": 92.5,
+    "timestamp": "2026-03-04T09:03:37.612127"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f57553c47c3e02aa237a"
+    },
+    "date": "2018-08",
+    "region": "Est",
+    "depart": "MULHOUSE VILLE",
+    "arrivee": "NANTES",
+    "trains_prevus": 209,
+    "trains_realises": 207,
+    "trains_annules": 2,
+    "retards": 42,
+    "ponctualite": 79.9,
+    "timestamp": "2026-03-04T09:03:49.722315"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f581e80a4e2041f48b79"
+    },
+    "date": "2012-02",
+    "region": "Nord",
+    "depart": "ARRAS",
+    "arrivee": "LILLE",
+    "trains_prevus": 50,
+    "trains_realises": 50,
+    "trains_annules": 0,
+    "retards": 9,
+    "ponctualite": 82,
+    "timestamp": "2026-03-04T09:04:01.250166"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f592e80a4e2041f48b7a"
+    },
+    "date": "2018-05",
+    "region": "Nord",
+    "depart": "ARRAS",
+    "arrivee": "DUNKERQUE",
+    "trains_prevus": 165,
+    "trains_realises": 164,
+    "trains_annules": 1,
+    "retards": 31,
+    "ponctualite": 81.3,
+    "timestamp": "2026-03-04T09:04:18.425683"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f5b2e80a4e2041f48b7b"
+    },
+    "date": "2014-10",
+    "region": "Nord",
+    "depart": "LILLE",
+    "arrivee": "PARIS NORD",
+    "trains_prevus": 421,
+    "trains_realises": 418,
+    "trains_annules": 3,
+    "retards": 93,
+    "ponctualite": 77.9,
+    "timestamp": "2026-03-04T09:04:50.549996"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f5d2e80a4e2041f48b7c"
+    },
+    "date": "2017-08",
+    "region": "Atlantique",
+    "depart": "ANGOULEME",
+    "arrivee": "ST MALO",
+    "trains_prevus": 656,
+    "trains_realises": 643,
+    "trains_annules": 13,
+    "retards": 131,
+    "ponctualite": 79.7,
+    "timestamp": "2026-03-04T09:05:22.672773"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f5d7e80a4e2041f48b7d"
+    },
+    "date": "2024-11",
+    "region": "Nord",
+    "depart": "DOUAI",
+    "arrivee": "DUNKERQUE",
+    "trains_prevus": 563,
+    "trains_realises": 555,
+    "trains_annules": 8,
+    "retards": 85,
+    "ponctualite": 84.7,
+    "timestamp": "2026-03-04T09:05:27.696178"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f5e6e80a4e2041f48b7e"
+    },
+    "date": "2012-06",
+    "region": "Nord",
+    "depart": "ARRAS",
+    "arrivee": "DOUAI",
+    "trains_prevus": 584,
+    "trains_realises": 583,
+    "trains_annules": 1,
+    "retards": 34,
+    "ponctualite": 94.2,
+    "timestamp": "2026-03-04T09:05:42.725013"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f5ebe80a4e2041f48b7f"
+    },
+    "date": "2024-04",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "ANNECY",
+    "trains_prevus": 459,
+    "trains_realises": 454,
+    "trains_annules": 5,
+    "retards": 118,
+    "ponctualite": 74.1,
+    "timestamp": "2026-03-04T09:05:47.747163"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f5f2e80a4e2041f48b80"
+    },
+    "date": "2025-05",
+    "region": "Sud-Est",
+    "depart": "MACON LOCHE",
+    "arrivee": "BESANCON FRANCHE COMTE TGV",
+    "trains_prevus": 524,
+    "trains_realises": 520,
+    "trains_annules": 4,
+    "retards": 36,
+    "ponctualite": 93.1,
+    "timestamp": "2026-03-04T09:05:54.811071"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f5f7e80a4e2041f48b81"
+    },
+    "date": "2018-07",
+    "region": "Nord",
+    "depart": "DUNKERQUE",
+    "arrivee": "PARIS NORD",
+    "trains_prevus": 333,
+    "trains_realises": 328,
+    "trains_annules": 5,
+    "retards": 32,
+    "ponctualite": 90.5,
+    "timestamp": "2026-03-04T09:05:59.827892"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f617e80a4e2041f48b82"
+    },
+    "date": "2025-02",
+    "region": "Atlantique",
+    "depart": "ST PIERRE DES CORPS",
+    "arrivee": "ANGERS SAINT LAUD",
+    "trains_prevus": 502,
+    "trains_realises": 501,
+    "trains_annules": 1,
+    "retards": 44,
+    "ponctualite": 91.4,
+    "timestamp": "2026-03-04T09:06:31.962041"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f621e80a4e2041f48b83"
+    },
+    "date": "2016-08",
+    "region": "Sud-Est",
+    "depart": "PARIS LYON",
+    "arrivee": "LYON PART DIEU",
+    "trains_prevus": 681,
+    "trains_realises": 672,
+    "trains_annules": 9,
+    "retards": 164,
+    "ponctualite": 75.7,
+    "timestamp": "2026-03-04T09:06:41.982631"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f641e80a4e2041f48b84"
+    },
+    "date": "2022-06",
+    "region": "Sud-Est",
+    "depart": "GRENOBLE",
+    "arrivee": "PARIS LYON",
+    "trains_prevus": 245,
+    "trains_realises": 241,
+    "trains_annules": 4,
+    "retards": 58,
+    "ponctualite": 76.1,
+    "timestamp": "2026-03-04T09:07:13.922684"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f646e80a4e2041f48b85"
+    },
+    "date": "2013-12",
+    "region": "Sud-Est",
+    "depart": "AVIGNON TGV",
+    "arrivee": "NIMES",
+    "trains_prevus": 300,
+    "trains_realises": 300,
+    "trains_annules": 0,
+    "retards": 22,
+    "ponctualite": 92.7,
+    "timestamp": "2026-03-04T09:07:18.936727"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f652e80a4e2041f48b86"
+    },
+    "date": "2016-04",
+    "region": "Atlantique",
+    "depart": "VANNES",
+    "arrivee": "LE MANS",
+    "trains_prevus": 255,
+    "trains_realises": 253,
+    "trains_annules": 2,
+    "retards": 39,
+    "ponctualite": 84.6,
+    "timestamp": "2026-03-04T09:07:30.918649"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f65de80a4e2041f48b87"
+    },
+    "date": "2015-05",
+    "region": "Est",
+    "depart": "NANTES",
+    "arrivee": "MULHOUSE VILLE",
+    "trains_prevus": 355,
+    "trains_realises": 351,
+    "trains_annules": 4,
+    "retards": 52,
+    "ponctualite": 85.2,
+    "timestamp": "2026-03-04T09:07:40.976788"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f66ce80a4e2041f48b88"
+    },
+    "date": "2026-02",
+    "region": "Est",
+    "depart": "NANTES",
+    "arrivee": "METZ",
+    "trains_prevus": 148,
+    "trains_realises": 146,
+    "trains_annules": 2,
+    "retards": 29,
+    "ponctualite": 80.7,
+    "timestamp": "2026-03-04T09:07:56.088971"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f673e80a4e2041f48b89"
+    },
+    "date": "2017-02",
+    "region": "Sud-Est",
+    "depart": "NIMES",
+    "arrivee": "PERPIGNAN",
+    "trains_prevus": 251,
+    "trains_realises": 248,
+    "trains_annules": 3,
+    "retards": 65,
+    "ponctualite": 74.1,
+    "timestamp": "2026-03-04T09:08:03.300584"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f67de80a4e2041f48b8a"
+    },
+    "date": "2025-09",
+    "region": "Atlantique",
+    "depart": "LE MANS",
+    "arrivee": "VANNES",
+    "trains_prevus": 224,
+    "trains_realises": 222,
+    "trains_annules": 2,
+    "retards": 51,
+    "ponctualite": 77.4,
+    "timestamp": "2026-03-04T09:08:13.319081"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f682e80a4e2041f48b8b"
+    },
+    "date": "2024-05",
+    "region": "Est",
+    "depart": "STRASBOURG",
+    "arrivee": "REIMS",
+    "trains_prevus": 700,
+    "trains_realises": 692,
+    "trains_annules": 8,
+    "retards": 43,
+    "ponctualite": 93.8,
+    "timestamp": "2026-03-04T09:08:18.338481"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f6a2e80a4e2041f48b8c"
+    },
+    "date": "2018-11",
+    "region": "Nord",
+    "depart": "DOUAI",
+    "arrivee": "LILLE",
+    "trains_prevus": 621,
+    "trains_realises": 615,
+    "trains_annules": 6,
+    "retards": 155,
+    "ponctualite": 74.9,
+    "timestamp": "2026-03-04T09:08:50.961614"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f6ace80a4e2041f48b8d"
+    },
+    "date": "2017-10",
+    "region": "Nord",
+    "depart": "DOUAI",
+    "arrivee": "ARRAS",
+    "trains_prevus": 161,
+    "trains_realises": 160,
+    "trains_annules": 1,
+    "retards": 4,
+    "ponctualite": 97.5,
+    "timestamp": "2026-03-04T09:09:00.985667"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f6b4e80a4e2041f48b8e"
+    },
+    "date": "2021-01",
+    "region": "Est",
+    "depart": "NANTES",
+    "arrivee": "PARIS EST",
+    "trains_prevus": 158,
+    "trains_realises": 156,
+    "trains_annules": 2,
+    "retards": 28,
+    "ponctualite": 82.5,
+    "timestamp": "2026-03-04T09:09:08.112485"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f6c3e80a4e2041f48b8f"
+    },
+    "date": "2021-06",
+    "region": "Est",
+    "depart": "MULHOUSE VILLE",
+    "arrivee": "PARIS EST",
+    "trains_prevus": 282,
+    "trains_realises": 280,
+    "trains_annules": 2,
+    "retards": 22,
+    "ponctualite": 92.4,
+    "timestamp": "2026-03-04T09:09:23.138893"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f6d4e80a4e2041f48b90"
+    },
+    "date": "2019-01",
+    "region": "Atlantique",
+    "depart": "VANNES",
+    "arrivee": "POITIERS",
+    "trains_prevus": 663,
+    "trains_realises": 659,
+    "trains_annules": 4,
+    "retards": 174,
+    "ponctualite": 73.7,
+    "timestamp": "2026-03-04T09:09:40.260197"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f6d9e80a4e2041f48b91"
+    },
+    "date": "2014-05",
+    "region": "Sud-Est",
+    "depart": "PERPIGNAN",
+    "arrivee": "MONTPELLIER",
+    "trains_prevus": 607,
+    "trains_realises": 606,
+    "trains_annules": 1,
+    "retards": 68,
+    "ponctualite": 88.8,
+    "timestamp": "2026-03-04T09:09:45.275960"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f6e3e80a4e2041f48b92"
+    },
+    "date": "2017-08",
+    "region": "Sud-Est",
+    "depart": "BELLEGARDE (AIN)",
+    "arrivee": "NICE VILLE",
+    "trains_prevus": 225,
+    "trains_realises": 224,
+    "trains_annules": 1,
+    "retards": 51,
+    "ponctualite": 77.3,
+    "timestamp": "2026-03-04T09:09:55.296769"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f6f4e80a4e2041f48b93"
+    },
+    "date": "2024-08",
+    "region": "Nord",
+    "depart": "PARIS NORD",
+    "arrivee": "DOUAI",
+    "trains_prevus": 551,
+    "trains_realises": 542,
+    "trains_annules": 9,
+    "retards": 71,
+    "ponctualite": 87,
+    "timestamp": "2026-03-04T09:10:12.432589"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f6f9e80a4e2041f48b94"
+    },
+    "date": "2023-09",
+    "region": "Nord",
+    "depart": "DUNKERQUE",
+    "arrivee": "PARIS NORD",
+    "trains_prevus": 282,
+    "trains_realises": 277,
+    "trains_annules": 5,
+    "retards": 21,
+    "ponctualite": 92.5,
+    "timestamp": "2026-03-04T09:10:17.448815"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f708e80a4e2041f48b95"
+    },
+    "date": "2022-11",
+    "region": "Est",
+    "depart": "NANCY",
+    "arrivee": "NANTES",
+    "trains_prevus": 563,
+    "trains_realises": 557,
+    "trains_annules": 6,
+    "retards": 136,
+    "ponctualite": 75.6,
+    "timestamp": "2026-03-04T09:10:32.475906"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f728e80a4e2041f48b96"
+    },
+    "date": "2025-08",
+    "region": "Est",
+    "depart": "STRASBOURG",
+    "arrivee": "METZ",
+    "trains_prevus": 87,
+    "trains_realises": 87,
+    "trains_annules": 0,
+    "retards": 25,
+    "ponctualite": 71.8,
+    "timestamp": "2026-03-04T09:11:04.645376"
+  },
+  {
+    "_id": {
+      "$oid": "69a7f72de80a4e2041f48b97"
+    },
+    "date": "2019-04",
+    "region": "Atlantique",
+    "depart": "RENNES",
+    "arrivee": "LAVAL",
+    "trains_prevus": 465,
+    "trains_realises": 457,
+    "trains_annules": 8,
+    "retards": 74,
+    "ponctualite": 83.9,
+    "timestamp": "2026-03-04T09:11:09.661297"
+  }
+]
